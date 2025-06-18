@@ -1,0 +1,16 @@
+# Angular
+node_modules/
+dist/
+tmp/
+temp/
+.cache/
+.angular/
+coverage/
+npm-debug.log
+yarn-error.log
+.env
+.env.*
+*.log
+*.swp
+.idea/
+.vscode/
