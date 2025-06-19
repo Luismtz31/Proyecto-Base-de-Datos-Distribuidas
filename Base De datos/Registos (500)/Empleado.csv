@@ -1,0 +1,21 @@
+ID_Empleado,Nombre,Cargo,Horario_Entrada,Horario_Salida
+EMP001,Sofía Porfirio Paz,Cajero,00:19:55,04:27:58
+EMP002,Lourdes Nayeli Ybarra,Vendedor,03:10:03,23:51:49
+EMP003,Lic. Araceli Galarza,Supervisor,09:14:12,23:36:20
+EMP004,Maximiliano Renato Loya Toledo,Almacenista,11:42:27,09:00:02
+EMP005,Camilo de León Lucero,Repartidor,11:24:14,19:21:41
+EMP006,Raquel Francisco Javier Portillo Negrete,Encargado de Inventario,09:51:40,18:38:54
+EMP007,Sr(a). David Noriega,Auxiliar de Limpieza,14:55:32,21:07:48
+EMP008,Ariadna Hugo Romo,Gerente,21:27:07,20:52:08
+EMP009,Dr. Helena Limón,Auxiliar Administrativo,13:58:47,10:21:37
+EMP010,Noemí Matos Ramón,Promotor,16:20:34,10:38:58
+EMP011,María del Carmen Porfirio Nazario,Recepcionista,17:42:59,19:33:34
+EMP012,Dr. Anabel Casárez,Auxiliar de Compras,22:05:22,19:02:53
+EMP013,Mauricio Sotelo Gaona,Jefe de Piso,19:13:25,15:51:17
+EMP014,Dr. Jaqueline Serrano,Auxiliar de Ventas,01:41:53,03:27:28
+EMP015,Mario Mauro Vera Meraz,Auxiliar de Almacén,20:44:43,15:21:01
+EMP016,Bianca Puga,Encargado de Caja,03:25:03,03:45:47
+EMP017,Marcos Peralta Sanabria,Auxiliar de Reparto,06:32:06,03:36:17
+EMP018,Dr. Elena Abreu,Jefe de Turno,16:45:52,13:31:39
+EMP019,Miriam Lomeli,Auxiliar de Mostrador,19:59:11,06:16:27
+EMP020,Citlali Solano Martínez,Auxiliar de Surtido,04:46:14,03:44:35

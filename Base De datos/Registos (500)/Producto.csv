@@ -1,0 +1,501 @@
+ID_Producto,Numero_Serie,Descripcion,Unidad_Medida,Categoria,SubCategoria,Precio_Minimo,Precio1,Precio2,Precio3,Impuesto,ID_Proveedor1,ID_Proveedor2,Stock_Minimo,Stock_Maximo,Stock,Costo_Unitario,Costo_Promedio,Metodo_Costeo,Ventas_Totales,Unidades_Vendidas
+PROD0001,SN-8305-RGmK,Coca-Cola Refresco 600ml,paquete,Bebidas,Refresco,16.61,17.84,20.63,21.97,2.34,PRV001,PRV001,15,133,60,14.19,15.4,Ultimo,1603.08,149
+PROD0002,SN-9080-rWBl,Sabritas Papas 45g,paquete,Abarrotes,Papas,10.61,15.55,21.47,23.4,3.23,PRV009,PRV009,12,190,90,9.96,10.29,FIFO,8530.69,794
+PROD0003,SN-5479-BfiZ,Colgate Cepillo Dental 1pza,pieza,Abarrotes,Cepillo Dental,21.38,24.88,32.6,39.98,3.45,PRV017,PRV017,5,111,111,19.8,20.59,Ultimo,5237.31,408
+PROD0004,SN-7512-ChkR,Nestlé Leche Condensada 387g,paquete,Abarrotes,Leche Condensada,20.86,23.48,24.73,31.95,2.94,PRV004,PRV018,7,53,24,20.04,20.45,Ultimo,8724.28,570
+PROD0005,SN-5021-zKMn,Heineken Tecate 355ml,paquete,Bebidas,Tecate,23.76,28.82,36.19,37.32,0.79,PRV019,PRV014,19,61,22,22.19,22.98,Promedio,7291.54,543
+PROD0006,SN-2696-WtCy,Colgate Cepillo Dental 1pza,pieza,Abarrotes,Cepillo Dental,11.8,13.39,20.44,27.49,1.34,PRV017,PRV017,14,163,139,10.34,11.07,FIFO,1892.15,752
+PROD0007,SN-1289-mHBH,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,16.13,17.95,24.1,26.46,2.46,PRV002,PRV014,20,116,59,14.05,15.09,FIFO,793.21,344
+PROD0008,SN-7596-DqWF,Mondelez Trident 14g,paquete,Abarrotes,Trident,20.84,27.58,29.75,32.94,1.15,PRV018,PRV018,11,175,41,19.03,19.94,Promedio,8091.77,871
+PROD0009,SN-4026-fzXD,Mars M&M 45g,paquete,Abarrotes,M&M,22.93,27.57,28.76,36.5,2.85,PRV016,PRV007,15,122,38,22.15,22.54,Ultimo,9854.92,904
+PROD0010,SN-6224-BOeS,Pepsi Refresco 2L,pieza,Bebidas,Refresco,17.71,20.6,27.83,32.25,0.85,PRV003,PRV017,5,167,165,16.97,17.34,Ultimo,9562.35,770
+PROD0011,SN-9327-RcIP,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,18.52,21.54,23.77,28.95,2.53,PRV005,PRV005,16,104,38,16.22,17.37,Ultimo,2799.18,41
+PROD0012,SN-9759-gqTF,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,13.97,17.31,20.29,24.22,2.06,PRV005,PRV008,7,69,21,12.97,13.47,Ultimo,8994.93,420
+PROD0013,SN-3278-jjQd,Barcel Takis Fuego 62g,paquete,Abarrotes,Takis Fuego,12.98,16.53,21.27,29.1,0.98,PRV008,PRV008,17,85,56,10.63,11.8,FIFO,9624.58,33
+PROD0014,SN-9497-qlLj,Mondelez Trident 14g,paquete,Abarrotes,Trident,12.47,13.7,20.65,25.03,0.71,PRV018,PRV017,19,196,57,11.1,11.79,FIFO,4447.99,972
+PROD0015,SN-7912-DKqS,Sigma Jamón Virginia 250g,paquete,Abarrotes,Jamón Virginia,14.39,17.0,21.12,25.2,3.4,PRV010,PRV010,17,128,115,13.23,13.81,FIFO,7126.98,218
+PROD0016,SN-7400-hoqF,Kimberly Clark Papel Higiénico 4pzas,pieza,Abarrotes,Papel Higiénico,10.45,11.8,18.4,21.12,0.68,PRV015,PRV018,13,136,121,8.61,9.53,FIFO,4434.06,593
+PROD0017,SN-3953-OpBp,Jumex Néctar Mango 1L,pieza,Bebidas,Néctar Mango,22.64,29.15,33.9,36.58,2.27,PRV013,PRV013,18,140,96,22.14,22.39,Ultimo,6615.84,130
+PROD0018,SN-4901-eiCX,Barcel Chips 50g,paquete,Abarrotes,Chips,14.68,16.32,20.87,26.08,1.61,PRV008,PRV015,5,183,136,12.55,13.62,FIFO,6970.91,230
+PROD0019,SN-3416-UvJG,Nestlé Leche Condensada 387g,paquete,Abarrotes,Leche Condensada,10.19,14.14,16.86,21.32,1.28,PRV004,PRV004,5,104,26,8.69,9.44,FIFO,5823.46,203
+PROD0020,SN-8751-ZsCU,Lala Leche Entera 1L,pieza,Abarrotes,Leche Entera,17.3,24.68,32.41,34.37,2.29,PRV007,PRV003,19,92,91,15.23,16.27,FIFO,3229.93,630
+PROD0021,SN-1117-Ymex,Kimberly Clark Papel Higiénico 4pzas,pieza,Abarrotes,Papel Higiénico,10.62,17.39,20.29,24.9,1.65,PRV015,PRV015,10,105,22,8.67,9.64,Ultimo,5251.04,787
+PROD0022,SN-2934-aXMd,La Costeña Frijoles Negros 560g,paquete,Abarrotes,Frijoles Negros,22.32,29.2,32.02,39.98,1.24,PRV005,PRV005,17,58,18,20.39,21.36,FIFO,7700.3,162
+PROD0023,SN-4583-jVNa,Grupo Modelo Corona 355ml,paquete,Bebidas,Corona,10.11,16.89,20.23,25.85,1.35,PRV020,PRV012,13,173,36,7.67,8.89,Ultimo,1888.12,833
+PROD0024,SN-8380-UEhv,Herdez Salsa Verde 210g,paquete,Abarrotes,Salsa Verde,22.63,27.19,29.87,36.89,1.94,PRV012,PRV010,10,188,170,22.08,22.35,Promedio,3529.06,566
+PROD0025,SN-0115-DCPo,Mondelez Trident 14g,paquete,Abarrotes,Trident,20.92,25.26,28.86,31.39,3.48,PRV018,PRV010,17,111,20,19.22,20.07,FIFO,8776.01,869
+PROD0026,SN-9127-trIt,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,14.82,17.32,19.51,22.36,3.4,PRV007,PRV020,19,166,94,13.57,14.2,FIFO,3706.88,831
+PROD0027,SN-5926-KRVb,Colgate Cepillo Dental 1pza,pieza,Abarrotes,Cepillo Dental,19.66,22.62,29.01,33.46,2.76,PRV017,PRV017,6,163,109,17.57,18.62,Promedio,2950.28,570
+PROD0028,SN-6909-GIIl,Coca-Cola Refresco 600ml,paquete,Bebidas,Refresco,11.59,17.24,19.8,25.38,0.78,PRV001,PRV001,16,180,73,11.01,11.3,Promedio,5920.38,312
+PROD0029,SN-2937-kQwr,Kimberly Clark Papel Higiénico 4pzas,pieza,Abarrotes,Papel Higiénico,16.73,21.05,28.19,29.26,1.86,PRV015,PRV015,5,129,38,15.96,16.34,Ultimo,5244.14,15
+PROD0030,SN-3398-OSks,Colgate Pasta Dental 75ml,paquete,Abarrotes,Pasta Dental,21.74,24.58,26.36,27.96,1.87,PRV017,PRV017,10,65,11,21.18,21.46,FIFO,7636.54,944
+PROD0031,SN-9570-YgUJ,Heineken Tecate 355ml,paquete,Bebidas,Tecate,13.83,20.95,22.8,27.11,3.38,PRV019,PRV019,20,195,110,12.56,13.2,Promedio,9511.94,906
+PROD0032,SN-6172-VyPr,Barcel Takis Fuego 62g,paquete,Abarrotes,Takis Fuego,15.63,21.72,27.73,33.75,1.96,PRV008,PRV008,15,124,68,14.72,15.18,Ultimo,4803.29,657
+PROD0033,SN-4881-crTl,Gamesa Galletas Emperador 100g,paquete,Abarrotes,Galletas Emperador,13.62,17.03,24.0,28.32,2.9,PRV006,PRV005,14,200,97,12.07,12.84,FIFO,9201.06,885
+PROD0034,SN-6652-teDy,Herdez Salsa Verde 210g,paquete,Abarrotes,Salsa Verde,10.21,14.29,18.51,22.97,0.88,PRV012,PRV013,9,68,17,8.14,9.18,FIFO,3884.3,72
+PROD0035,SN-2882-OeQW,Herdez Salsa Roja 210g,paquete,Abarrotes,Salsa Roja,17.39,19.28,23.59,29.32,1.06,PRV012,PRV019,8,187,131,15.53,16.46,FIFO,3552.16,180
+PROD0036,SN-9454-nXwW,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,15.43,18.45,24.85,29.88,2.58,PRV002,PRV002,19,181,142,13.2,14.31,Promedio,7667.71,964
+PROD0037,SN-3010-oiwv,Coca-Cola Refresco 2L,pieza,Bebidas,Refresco,24.02,30.77,31.8,37.3,1.33,PRV001,PRV017,13,184,139,21.56,22.79,Ultimo,2719.14,149
+PROD0038,SN-0116-tzwU,Gamesa Galletas Emperador 100g,paquete,Abarrotes,Galletas Emperador,10.49,16.86,23.61,28.6,2.92,PRV006,PRV006,5,149,89,8.15,9.32,Promedio,399.24,826
+PROD0039,SN-6855-jqnT,Coca-Cola Refresco 600ml,paquete,Bebidas,Refresco,24.86,27.19,34.64,38.89,2.95,PRV001,PRV001,5,186,112,23.93,24.39,Promedio,686.03,938
+PROD0040,SN-7879-TTXR,Pepsi Refresco 2L,pieza,Bebidas,Refresco,19.97,24.39,26.95,29.71,0.72,PRV003,PRV003,5,149,94,18.54,19.25,Promedio,1544.94,673
+PROD0041,SN-5911-JWWO,Kimberly Clark Servilletas 200pzas,pieza,Abarrotes,Servilletas,22.59,25.29,28.1,32.44,2.07,PRV015,PRV004,10,131,21,20.45,21.52,FIFO,8428.22,972
+PROD0042,SN-4227-eOGk,Gamesa Galletas Marias 170g,paquete,Abarrotes,Galletas Marias,22.25,25.48,28.19,34.24,3.18,PRV006,PRV006,13,190,176,20.02,21.13,Promedio,4001.92,224
+PROD0043,SN-6029-HcKI,Colgate Cepillo Dental 1pza,pieza,Abarrotes,Cepillo Dental,18.32,22.32,24.98,27.24,2.63,PRV017,PRV019,18,142,61,16.29,17.3,Ultimo,1492.09,859
+PROD0044,SN-0683-sHdA,Kimberly Clark Papel Higiénico 4pzas,pieza,Abarrotes,Papel Higiénico,21.71,27.67,28.96,34.92,2.49,PRV015,PRV016,20,165,76,19.32,20.52,Ultimo,9730.12,530
+PROD0045,SN-5462-jeiO,Bimbo Pan Integral 680g,paquete,Abarrotes,Pan Integral,20.28,24.87,32.85,40.18,2.02,PRV002,PRV002,6,59,58,18.81,19.55,Promedio,3545.11,949
+PROD0046,SN-9097-JSeE,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,18.54,25.58,31.44,34.8,1.79,PRV007,PRV011,8,71,56,17.11,17.82,FIFO,5480.06,468
+PROD0047,SN-2315-kKte,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,12.33,17.67,25.03,31.32,2.65,PRV002,PRV002,5,63,61,10.12,11.22,Ultimo,5543.05,785
+PROD0048,SN-6862-kYfO,Lala Leche Entera 1L,pieza,Abarrotes,Leche Entera,12.68,13.73,20.02,21.71,1.29,PRV007,PRV007,18,97,87,11.18,11.93,FIFO,9483.33,783
+PROD0049,SN-4027-aJCV,Lala Leche Entera 1L,pieza,Abarrotes,Leche Entera,13.77,15.45,20.2,21.37,0.73,PRV007,PRV007,15,50,29,13.04,13.4,Ultimo,618.48,317
+PROD0050,SN-8961-QEKd,Jumex Néctar Durazno 1L,pieza,Bebidas,Néctar Durazno,15.96,23.39,26.01,30.82,3.44,PRV013,PRV013,17,105,41,13.58,14.77,Promedio,8977.75,715
+PROD0051,SN-2092-TTup,Pepsi Refresco 600ml,paquete,Bebidas,Refresco,12.68,19.55,26.6,29.19,2.63,PRV003,PRV003,5,127,87,11.56,12.12,Promedio,7781.21,877
+PROD0052,SN-2296-srvI,Mondelez Oreo 117g,paquete,Abarrotes,Oreo,20.46,24.5,26.06,33.7,2.82,PRV018,PRV018,9,174,81,19.08,19.77,Promedio,2453.78,319
+PROD0053,SN-5066-qFtG,Coca-Cola Refresco 2L,pieza,Bebidas,Refresco,21.01,23.86,31.03,33.2,1.55,PRV001,PRV019,14,138,45,19.01,20.01,Ultimo,6760.56,640
+PROD0054,SN-0917-UYCs,Mondelez Trident 14g,paquete,Abarrotes,Trident,12.3,19.98,26.32,30.75,2.32,PRV018,PRV018,16,61,20,11.65,11.98,FIFO,1324.43,151
+PROD0055,SN-7022-yUGa,La Costeña Frijoles Negros 560g,paquete,Abarrotes,Frijoles Negros,20.98,26.3,30.5,32.23,1.15,PRV005,PRV005,20,179,103,19.58,20.28,Promedio,6397.58,403
+PROD0056,SN-7961-IQTI,Pepsi Refresco 600ml,paquete,Bebidas,Refresco,19.01,21.35,27.37,28.4,3.45,PRV003,PRV003,18,185,43,16.91,17.96,FIFO,6682.61,964
+PROD0057,SN-1015-EOyK,Sabritas Papas 170g,paquete,Abarrotes,Papas,17.4,23.64,31.2,38.19,3.1,PRV009,PRV020,18,66,61,15.27,16.34,Promedio,7931.02,200
+PROD0058,SN-5476-mhuI,Barcel Chips 50g,paquete,Abarrotes,Chips,20.34,26.23,29.97,35.06,1.87,PRV008,PRV020,18,148,144,19.84,20.09,Ultimo,5596.17,31
+PROD0059,SN-9532-Niec,Alpura Leche Deslactosada 1L,pieza,Abarrotes,Leche Deslactosada,13.85,15.94,18.78,24.72,0.75,PRV011,PRV007,12,102,80,12.12,12.98,Ultimo,3888.0,983
+PROD0060,SN-4466-Hevx,La Costeña Frijoles Negros 560g,paquete,Abarrotes,Frijoles Negros,18.79,19.87,23.18,26.18,1.96,PRV005,PRV005,15,165,46,18.27,18.53,Promedio,6707.02,913
+PROD0061,SN-8216-qClL,Bimbo Pan Integral 680g,paquete,Abarrotes,Pan Integral,10.93,14.75,17.85,24.97,3.43,PRV002,PRV002,14,111,85,10.14,10.54,Ultimo,4412.76,497
+PROD0062,SN-7819-ERVd,Herdez Salsa Verde 210g,paquete,Abarrotes,Salsa Verde,11.94,19.32,21.58,23.24,2.13,PRV012,PRV006,10,111,79,9.78,10.86,Promedio,1690.99,169
+PROD0063,SN-6503-hnYr,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,16.76,18.68,19.94,25.39,3.0,PRV007,PRV007,20,117,87,15.2,15.98,FIFO,4998.88,461
+PROD0064,SN-5383-riww,Grupo Modelo Corona 355ml,paquete,Bebidas,Corona,17.09,22.78,27.5,35.18,3.05,PRV020,PRV020,13,174,14,14.67,15.88,FIFO,2364.3,415
+PROD0065,SN-4973-uUAN,Sigma Jamón Virginia 250g,paquete,Abarrotes,Jamón Virginia,17.28,21.28,23.83,29.74,2.77,PRV010,PRV010,19,173,55,16.25,16.77,Ultimo,6381.26,981
+PROD0066,SN-0965-zVXH,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,21.69,27.06,33.01,37.72,0.61,PRV007,PRV006,13,127,84,19.8,20.75,Ultimo,1564.27,369
+PROD0067,SN-7118-kMsS,La Costeña Frijoles Negros 560g,paquete,Abarrotes,Frijoles Negros,22.31,28.19,30.37,38.18,1.89,PRV005,PRV005,17,199,155,20.83,21.57,Ultimo,5267.62,553
+PROD0068,SN-7681-qnwj,La Costeña Frijoles Negros 560g,paquete,Abarrotes,Frijoles Negros,17.55,24.97,27.77,28.88,0.87,PRV005,PRV008,7,132,34,16.73,17.14,FIFO,2114.81,416
+PROD0069,SN-5690-uqQu,Kimberly Clark Papel Higiénico 4pzas,pieza,Abarrotes,Papel Higiénico,20.82,27.4,29.35,36.94,1.14,PRV015,PRV016,17,159,120,19.02,19.92,Promedio,9631.67,967
+PROD0070,SN-2421-aQdg,Coca-Cola Refresco 600ml,paquete,Bebidas,Refresco,20.21,26.38,28.11,29.39,1.7,PRV001,PRV001,7,187,61,19.0,19.61,Promedio,3222.42,309
+PROD0071,SN-1426-bcCk,Barcel Takis Fuego 62g,paquete,Abarrotes,Takis Fuego,16.21,20.2,23.31,28.67,1.42,PRV008,PRV008,11,168,120,13.99,15.1,Promedio,8908.15,703
+PROD0072,SN-2318-CQNi,Pepsi Refresco 600ml,paquete,Bebidas,Refresco,18.42,20.61,25.54,26.98,1.46,PRV003,PRV011,16,78,30,17.09,17.76,FIFO,6112.77,176
+PROD0073,SN-5408-PytZ,Jumex Néctar Durazno 1L,pieza,Bebidas,Néctar Durazno,16.61,24.26,30.55,33.66,1.44,PRV013,PRV013,8,64,27,14.77,15.69,Promedio,7119.26,581
+PROD0074,SN-0771-WnMC,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,11.76,12.78,15.83,18.8,1.43,PRV014,PRV016,13,189,173,10.0,10.88,FIFO,2737.13,708
+PROD0075,SN-7257-VBMs,Mondelez Oreo 117g,paquete,Abarrotes,Oreo,24.34,25.58,26.94,30.44,1.14,PRV018,PRV018,15,110,27,22.08,23.21,FIFO,8692.6,525
+PROD0076,SN-1640-ZFsB,Jumex Néctar Durazno 1L,pieza,Bebidas,Néctar Durazno,16.2,17.97,21.8,26.63,0.64,PRV013,PRV013,9,69,28,14.88,15.54,Promedio,120.06,164
+PROD0077,SN-4392-SqGl,Gamesa Galletas Marias 170g,paquete,Abarrotes,Galletas Marias,16.53,21.2,27.19,31.62,3.0,PRV006,PRV006,13,118,85,15.88,16.21,Promedio,4864.27,754
+PROD0078,SN-3867-XKvy,Gamesa Galletas Emperador 100g,paquete,Abarrotes,Galletas Emperador,19.7,22.06,26.76,32.19,1.43,PRV006,PRV016,15,188,186,18.45,19.07,Promedio,2255.4,729
+PROD0079,SN-6550-FrTI,Coca-Cola Refresco 2L,pieza,Bebidas,Refresco,13.54,17.05,22.67,26.66,3.43,PRV001,PRV001,16,168,111,12.11,12.82,FIFO,6574.7,131
+PROD0080,SN-3541-zFab,Jumex Néctar Durazno 1L,pieza,Bebidas,Néctar Durazno,13.85,17.75,19.9,22.25,0.91,PRV013,PRV013,8,119,42,11.82,12.84,FIFO,9943.96,590
+PROD0081,SN-2652-EGHr,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,13.72,20.98,25.27,28.23,1.14,PRV014,PRV014,9,169,164,11.91,12.82,Promedio,6318.33,15
+PROD0082,SN-5001-HyWt,Herdez Salsa Roja 210g,paquete,Abarrotes,Salsa Roja,12.84,14.89,16.43,22.97,1.12,PRV012,PRV012,14,97,43,12.2,12.52,Promedio,3527.84,607
+PROD0083,SN-7255-BHeH,Herdez Salsa Roja 210g,paquete,Abarrotes,Salsa Roja,11.68,17.54,21.95,23.7,3.25,PRV012,PRV012,10,105,30,10.1,10.89,Ultimo,6622.6,415
+PROD0084,SN-8185-trKp,Barcel Chips 50g,paquete,Abarrotes,Chips,17.74,24.38,29.49,36.33,1.97,PRV008,PRV016,6,173,67,15.75,16.74,Ultimo,3172.46,928
+PROD0085,SN-2095-BkFl,Kimberly Clark Papel Higiénico 4pzas,pieza,Abarrotes,Papel Higiénico,24.4,29.68,36.38,40.32,2.56,PRV015,PRV013,12,129,48,22.53,23.46,Ultimo,4244.47,335
+PROD0086,SN-2028-dtoL,Kimberly Clark Servilletas 200pzas,pieza,Abarrotes,Servilletas,22.05,29.58,32.87,36.26,0.79,PRV015,PRV015,5,75,55,20.83,21.44,Promedio,2470.79,36
+PROD0087,SN-8387-EUAC,Gamesa Galletas Emperador 100g,paquete,Abarrotes,Galletas Emperador,21.54,23.35,26.43,32.89,2.36,PRV006,PRV003,19,113,59,19.4,20.47,Promedio,821.37,773
+PROD0088,SN-2800-amek,Coca-Cola Refresco 600ml,paquete,Bebidas,Refresco,16.69,20.13,24.19,31.84,1.34,PRV001,PRV001,5,130,85,14.71,15.7,Ultimo,8581.41,435
+PROD0089,SN-1634-aBWc,Mars Snickers 50g,paquete,Abarrotes,Snickers,12.01,14.44,21.46,29.38,2.86,PRV016,PRV016,6,54,49,11.24,11.62,FIFO,303.88,889
+PROD0090,SN-9980-xVbC,Pepsi Refresco 600ml,paquete,Bebidas,Refresco,15.03,16.29,18.92,26.51,1.62,PRV003,PRV003,6,119,112,14.09,14.56,FIFO,4273.18,395
+PROD0091,SN-8429-PjxY,Herdez Salsa Verde 210g,paquete,Abarrotes,Salsa Verde,21.95,26.33,34.17,39.71,1.39,PRV012,PRV012,15,85,85,19.66,20.8,Ultimo,2990.36,87
+PROD0092,SN-3061-UclR,Sabritas Papas 45g,paquete,Abarrotes,Papas,21.51,25.73,27.77,31.21,1.33,PRV009,PRV002,5,66,39,20.51,21.01,Ultimo,2726.77,708
+PROD0093,SN-5741-HEpN,La Costeña Frijoles Negros 560g,paquete,Abarrotes,Frijoles Negros,13.27,19.17,23.41,25.21,1.22,PRV005,PRV010,17,145,112,11.66,12.46,Promedio,7186.37,323
+PROD0094,SN-5704-IYFy,Coca-Cola Refresco 600ml,paquete,Bebidas,Refresco,15.54,20.15,25.06,26.71,2.16,PRV001,PRV001,15,96,28,14.63,15.09,Ultimo,1922.96,656
+PROD0095,SN-8240-sJFH,Mars M&M 45g,paquete,Abarrotes,M&M,19.53,21.76,27.16,30.53,1.59,PRV016,PRV010,6,85,48,17.61,18.57,FIFO,551.37,864
+PROD0096,SN-7834-CZMQ,Barcel Chips 50g,paquete,Abarrotes,Chips,21.32,22.78,27.03,30.5,2.28,PRV008,PRV008,18,93,18,19.86,20.59,FIFO,3715.27,920
+PROD0097,SN-6756-UxpT,Mondelez Trident 14g,paquete,Abarrotes,Trident,11.17,12.38,14.17,19.25,0.59,PRV018,PRV011,7,181,166,9.41,10.29,FIFO,856.29,497
+PROD0098,SN-3847-YUkK,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,23.06,25.77,32.12,37.88,3.24,PRV002,PRV002,19,90,25,21.77,22.41,Promedio,1593.08,90
+PROD0099,SN-3282-xcsy,Mondelez Trident 14g,paquete,Abarrotes,Trident,20.88,24.73,27.31,30.46,2.13,PRV018,PRV019,8,104,52,19.58,20.23,Promedio,1080.12,714
+PROD0100,SN-7750-KgaK,Colgate Cepillo Dental 1pza,pieza,Abarrotes,Cepillo Dental,13.16,19.2,26.08,33.63,2.51,PRV017,PRV017,6,80,58,12.5,12.83,FIFO,8719.46,515
+PROD0101,SN-9154-hVgT,Heineken Tecate 355ml,paquete,Bebidas,Tecate,17.6,19.51,23.0,30.72,0.63,PRV019,PRV018,10,135,115,16.08,16.84,FIFO,2701.03,89
+PROD0102,SN-0205-okEk,Grupo Modelo Corona 355ml,paquete,Bebidas,Corona,13.44,15.32,22.24,23.85,2.22,PRV020,PRV020,18,189,152,11.61,12.52,Ultimo,2681.0,182
+PROD0103,SN-9510-GBFk,Grupo Modelo Corona 355ml,paquete,Bebidas,Corona,14.35,21.79,24.52,31.89,2.36,PRV020,PRV009,13,175,42,13.0,13.68,Promedio,3057.97,716
+PROD0104,SN-3940-ZbSJ,Kimberly Clark Servilletas 200pzas,pieza,Abarrotes,Servilletas,10.01,11.51,15.01,21.37,3.28,PRV015,PRV015,13,144,86,9.0,9.5,FIFO,4395.63,240
+PROD0105,SN-9654-DHTU,Jumex Néctar Mango 1L,pieza,Bebidas,Néctar Mango,11.49,15.49,17.19,18.49,1.22,PRV013,PRV003,6,69,17,10.96,11.23,FIFO,9581.46,315
+PROD0106,SN-6414-JMye,Pepsi Refresco 2L,pieza,Bebidas,Refresco,14.04,19.63,27.03,34.22,1.5,PRV003,PRV003,8,92,73,12.72,13.38,Promedio,1699.48,327
+PROD0107,SN-2808-poVt,Kimberly Clark Papel Higiénico 4pzas,pieza,Abarrotes,Papel Higiénico,23.82,31.48,35.81,38.24,1.78,PRV015,PRV015,17,127,38,21.72,22.77,Ultimo,2482.79,560
+PROD0108,SN-7219-EfhN,Gamesa Galletas Emperador 100g,paquete,Abarrotes,Galletas Emperador,16.39,20.15,23.01,26.62,2.76,PRV006,PRV006,16,59,58,15.5,15.95,Ultimo,3958.27,648
+PROD0109,SN-8483-flTA,Kimberly Clark Servilletas 200pzas,pieza,Abarrotes,Servilletas,21.9,25.26,32.76,34.13,2.32,PRV015,PRV014,11,82,28,20.37,21.13,FIFO,8412.21,971
+PROD0110,SN-3156-NlMW,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,13.17,21.11,24.98,28.91,2.73,PRV005,PRV012,8,144,53,10.79,11.98,Ultimo,4457.39,52
+PROD0111,SN-5458-DzpY,Sigma Salchicha Viena 500g,paquete,Abarrotes,Salchicha Viena,17.98,22.78,25.18,30.68,2.9,PRV010,PRV009,11,195,171,17.18,17.58,Promedio,9891.5,12
+PROD0112,SN-1694-BSHJ,Alpura Leche Deslactosada 1L,pieza,Abarrotes,Leche Deslactosada,16.75,19.53,23.01,28.9,1.3,PRV011,PRV011,6,181,158,14.46,15.61,Promedio,3041.78,373
+PROD0113,SN-0989-xfWC,Pepsi Refresco 2L,pieza,Bebidas,Refresco,14.45,19.84,25.9,27.39,1.41,PRV003,PRV010,6,173,46,12.71,13.58,FIFO,8757.51,738
+PROD0114,SN-1759-BqgE,Barcel Takis Fuego 62g,paquete,Abarrotes,Takis Fuego,21.26,23.01,27.8,33.7,0.71,PRV008,PRV004,9,124,37,19.69,20.48,Ultimo,5159.92,334
+PROD0115,SN-4558-jupr,Gamesa Galletas Emperador 100g,paquete,Abarrotes,Galletas Emperador,11.97,14.05,17.17,18.36,2.29,PRV006,PRV006,14,124,14,10.35,11.16,FIFO,4307.55,626
+PROD0116,SN-1871-txuG,Jumex Néctar Durazno 1L,pieza,Bebidas,Néctar Durazno,16.73,22.87,28.71,33.32,3.34,PRV013,PRV003,9,105,97,14.31,15.52,Promedio,4665.85,610
+PROD0117,SN-5091-eWre,Nestlé Leche Condensada 387g,paquete,Abarrotes,Leche Condensada,24.39,26.46,29.84,35.55,3.37,PRV004,PRV004,15,76,32,21.93,23.16,Ultimo,1102.34,897
+PROD0118,SN-4035-FGfC,Mondelez Trident 14g,paquete,Abarrotes,Trident,21.06,22.92,24.7,30.65,3.39,PRV018,PRV004,14,96,46,20.33,20.7,Promedio,9472.6,224
+PROD0119,SN-7791-iGmU,Coca-Cola Refresco 600ml,paquete,Bebidas,Refresco,23.45,24.6,27.52,30.12,3.15,PRV001,PRV010,8,100,37,21.62,22.54,Promedio,7772.84,496
+PROD0120,SN-1419-obPF,Sigma Jamón Virginia 250g,paquete,Abarrotes,Jamón Virginia,12.22,15.02,19.75,27.25,2.29,PRV010,PRV010,11,133,118,10.07,11.14,Ultimo,4868.46,39
+PROD0121,SN-2502-gWpE,Heineken Tecate 355ml,paquete,Bebidas,Tecate,21.92,24.06,31.69,39.14,1.8,PRV019,PRV019,11,148,52,19.76,20.84,Promedio,6543.28,915
+PROD0122,SN-7030-SfsI,Coca-Cola Refresco 2L,pieza,Bebidas,Refresco,10.25,11.49,12.96,19.48,0.93,PRV001,PRV001,11,197,92,8.55,9.4,Ultimo,1122.83,529
+PROD0123,SN-6888-vwZO,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,20.17,24.22,27.44,30.31,2.17,PRV007,PRV007,15,155,140,18.64,19.41,FIFO,8213.46,532
+PROD0124,SN-9287-Nrrz,Herdez Salsa Verde 210g,paquete,Abarrotes,Salsa Verde,14.15,19.31,22.14,29.77,3.29,PRV012,PRV012,19,122,111,12.11,13.13,FIFO,2512.08,733
+PROD0125,SN-1740-jaHv,Herdez Salsa Verde 210g,paquete,Abarrotes,Salsa Verde,12.14,15.23,22.69,28.58,0.83,PRV012,PRV003,5,165,139,10.92,11.53,Ultimo,6909.74,163
+PROD0126,SN-7926-WKPQ,Kimberly Clark Servilletas 200pzas,pieza,Abarrotes,Servilletas,12.55,20.17,21.72,29.45,0.68,PRV015,PRV001,20,128,90,12.02,12.29,FIFO,7755.79,309
+PROD0127,SN-6101-TUtK,Colgate Cepillo Dental 1pza,pieza,Abarrotes,Cepillo Dental,12.29,17.9,25.4,32.67,2.76,PRV017,PRV020,20,181,73,10.61,11.45,FIFO,8686.59,744
+PROD0128,SN-3115-Tvpq,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,16.88,20.53,22.35,29.49,2.72,PRV005,PRV019,14,147,50,15.8,16.34,FIFO,1196.85,335
+PROD0129,SN-9312-LWuL,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,23.28,31.03,32.07,38.79,2.08,PRV007,PRV007,6,51,35,22.29,22.79,Ultimo,8547.33,54
+PROD0130,SN-7293-NmlM,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,22.39,28.78,32.33,34.67,3.37,PRV005,PRV005,10,53,40,21.46,21.93,FIFO,8318.34,493
+PROD0131,SN-0817-HKHZ,Barcel Takis Fuego 62g,paquete,Abarrotes,Takis Fuego,19.3,22.06,27.28,30.47,2.77,PRV008,PRV008,8,89,21,17.82,18.56,FIFO,4558.2,454
+PROD0132,SN-0886-reUv,Herdez Salsa Verde 210g,paquete,Abarrotes,Salsa Verde,10.56,15.46,18.27,24.94,1.38,PRV012,PRV015,16,162,127,9.39,9.98,Promedio,2811.88,223
+PROD0133,SN-0524-FaRo,Grupo Modelo Corona 355ml,paquete,Bebidas,Corona,19.44,21.57,24.67,26.69,2.22,PRV020,PRV020,6,111,103,17.53,18.48,Promedio,7428.27,77
+PROD0134,SN-8915-BHdU,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,10.87,14.4,19.88,25.28,3.34,PRV002,PRV010,11,129,127,9.96,10.41,FIFO,1609.84,566
+PROD0135,SN-0484-DJLg,Sabritas Papas 45g,paquete,Abarrotes,Papas,19.01,20.21,23.92,30.96,1.41,PRV009,PRV009,10,65,60,18.43,18.72,Promedio,165.0,288
+PROD0136,SN-9542-kbgL,Gamesa Galletas Marias 170g,paquete,Abarrotes,Galletas Marias,18.42,20.29,25.27,30.26,2.63,PRV006,PRV003,15,99,65,16.27,17.34,Promedio,5147.31,687
+PROD0137,SN-0926-qBkA,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,24.89,32.81,34.16,41.91,0.58,PRV007,PRV007,20,188,116,23.07,23.98,FIFO,2779.95,988
+PROD0138,SN-9955-tEwt,Jumex Néctar Mango 1L,pieza,Bebidas,Néctar Mango,16.3,17.72,24.9,30.57,2.22,PRV013,PRV018,15,169,155,14.32,15.31,FIFO,7099.29,26
+PROD0139,SN-8771-cLVV,Kimberly Clark Papel Higiénico 4pzas,pieza,Abarrotes,Papel Higiénico,21.33,28.42,35.22,37.7,2.12,PRV015,PRV015,14,190,95,20.2,20.77,Ultimo,7743.66,914
+PROD0140,SN-9341-Jidf,Heineken Tecate 355ml,paquete,Bebidas,Tecate,22.64,27.75,30.69,32.38,0.56,PRV019,PRV002,14,200,90,21.69,22.16,FIFO,1323.99,268
+PROD0141,SN-8182-vLNr,Colgate Cepillo Dental 1pza,pieza,Abarrotes,Cepillo Dental,23.61,30.83,34.09,41.11,1.49,PRV017,PRV017,6,56,39,22.01,22.81,FIFO,365.41,477
+PROD0142,SN-7513-sjLZ,Pepsi Refresco 600ml,paquete,Bebidas,Refresco,14.41,17.66,20.99,28.74,1.66,PRV003,PRV003,13,111,77,12.42,13.41,Promedio,5755.39,702
+PROD0143,SN-2117-SKyV,Alpura Leche Deslactosada 1L,pieza,Abarrotes,Leche Deslactosada,24.57,28.93,36.56,44.56,1.17,PRV011,PRV011,15,135,72,23.58,24.07,Promedio,6692.86,314
+PROD0144,SN-4910-todb,Jumex Néctar Mango 1L,pieza,Bebidas,Néctar Mango,24.74,26.71,29.19,31.93,3.12,PRV013,PRV016,13,123,59,23.03,23.88,FIFO,8085.56,713
+PROD0145,SN-6012-FwSX,Gamesa Galletas Marias 170g,paquete,Abarrotes,Galletas Marias,23.14,28.9,32.44,37.31,0.59,PRV006,PRV006,7,145,38,21.58,22.36,Ultimo,2006.38,597
+PROD0146,SN-9900-LJwh,Mars M&M 45g,paquete,Abarrotes,M&M,14.59,16.98,23.25,29.64,1.11,PRV016,PRV009,17,144,120,13.34,13.96,Ultimo,8132.65,870
+PROD0147,SN-1340-VurL,Colgate Pasta Dental 75ml,paquete,Abarrotes,Pasta Dental,18.33,22.17,24.03,29.87,1.14,PRV017,PRV017,14,165,16,16.09,17.21,Promedio,9484.98,970
+PROD0148,SN-9904-DVlw,Sabritas Papas 170g,paquete,Abarrotes,Papas,16.06,19.68,23.41,28.55,1.11,PRV009,PRV017,14,72,72,13.72,14.89,Ultimo,1181.04,477
+PROD0149,SN-6457-XwHM,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,23.89,30.78,36.53,43.24,2.49,PRV007,PRV014,5,126,73,22.13,23.01,Promedio,4012.07,389
+PROD0150,SN-5138-npIE,Jumex Néctar Durazno 1L,pieza,Bebidas,Néctar Durazno,21.3,23.0,29.19,36.76,1.47,PRV013,PRV019,9,142,72,20.19,20.75,Promedio,729.59,283
+PROD0151,SN-1514-HjCf,Lala Leche Entera 1L,pieza,Abarrotes,Leche Entera,13.44,14.53,17.09,22.81,1.49,PRV007,PRV007,6,100,73,12.55,13.0,Ultimo,6399.97,919
+PROD0152,SN-0433-ehLr,Sigma Jamón Virginia 250g,paquete,Abarrotes,Jamón Virginia,17.54,20.71,24.45,28.23,0.54,PRV010,PRV017,7,86,57,15.07,16.3,FIFO,8643.89,71
+PROD0153,SN-0301-vWXf,Unilever Desodorante Rexona 150ml,paquete,Abarrotes,Desodorante Rexona,23.08,28.76,33.62,41.35,3.34,PRV014,PRV001,7,122,22,21.18,22.13,Promedio,1884.93,78
+PROD0154,SN-5347-MZWf,Coca-Cola Refresco 600ml,paquete,Bebidas,Refresco,11.9,18.05,22.81,27.48,2.52,PRV001,PRV001,14,143,31,10.56,11.23,Promedio,2292.56,832
+PROD0155,SN-2345-RaGN,Sigma Salchicha Viena 500g,paquete,Abarrotes,Salchicha Viena,13.14,15.88,22.36,24.7,1.64,PRV010,PRV016,15,134,130,11.78,12.46,Promedio,469.49,599
+PROD0156,SN-2490-aaSF,Mondelez Trident 14g,paquete,Abarrotes,Trident,21.93,24.59,26.09,28.6,0.78,PRV018,PRV018,7,194,143,21.4,21.66,FIFO,9824.25,845
+PROD0157,SN-1623-DDFU,Sigma Salchicha Viena 500g,paquete,Abarrotes,Salchicha Viena,16.11,22.71,29.62,34.35,1.27,PRV010,PRV019,20,154,147,13.74,14.93,FIFO,663.35,687
+PROD0158,SN-8937-GVug,Pepsi Refresco 2L,pieza,Bebidas,Refresco,14.27,16.0,20.76,28.53,0.67,PRV003,PRV003,15,67,40,12.22,13.25,FIFO,4415.33,880
+PROD0159,SN-3181-cJlj,Pepsi Refresco 2L,pieza,Bebidas,Refresco,16.73,21.92,26.48,27.95,3.49,PRV003,PRV002,18,109,92,16.12,16.43,Ultimo,3986.47,73
+PROD0160,SN-4970-hvvz,Herdez Salsa Verde 210g,paquete,Abarrotes,Salsa Verde,13.53,19.67,22.65,25.22,2.61,PRV012,PRV012,18,122,38,12.94,13.23,Promedio,9138.79,400
+PROD0161,SN-2866-cxOT,Gamesa Galletas Emperador 100g,paquete,Abarrotes,Galletas Emperador,18.13,19.41,26.81,29.74,0.59,PRV006,PRV006,8,200,49,16.19,17.16,Ultimo,2486.99,878
+PROD0162,SN-5048-pmRu,Jumex Néctar Mango 1L,pieza,Bebidas,Néctar Mango,20.48,27.95,32.75,37.06,1.72,PRV013,PRV013,14,129,74,19.32,19.9,Ultimo,6644.88,338
+PROD0163,SN-8017-asWn,Coca-Cola Refresco 600ml,paquete,Bebidas,Refresco,19.98,26.03,30.44,35.35,2.62,PRV001,PRV008,6,64,12,17.56,18.77,Ultimo,4570.76,155
+PROD0164,SN-4093-smQy,Herdez Salsa Roja 210g,paquete,Abarrotes,Salsa Roja,20.08,26.09,32.22,37.06,3.1,PRV012,PRV003,15,195,49,17.94,19.01,Ultimo,8256.09,164
+PROD0165,SN-4634-CEWd,Grupo Modelo Corona 355ml,paquete,Bebidas,Corona,19.68,24.36,29.58,35.85,1.78,PRV020,PRV007,18,187,65,17.65,18.66,Promedio,6950.24,720
+PROD0166,SN-1035-FrGt,Barcel Takis Fuego 62g,paquete,Abarrotes,Takis Fuego,21.35,28.62,33.56,37.86,1.13,PRV008,PRV014,9,100,61,20.41,20.88,FIFO,8876.39,112
+PROD0167,SN-5584-CHOh,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,18.02,21.76,23.92,25.97,0.79,PRV007,PRV016,14,91,68,16.85,17.44,FIFO,1953.06,53
+PROD0168,SN-1974-mwWu,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,10.14,15.44,17.87,19.75,2.22,PRV014,PRV013,17,86,58,8.8,9.47,Ultimo,9104.96,554
+PROD0169,SN-7733-WvzD,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,14.53,21.27,28.12,35.83,1.65,PRV007,PRV007,17,146,91,12.21,13.37,Ultimo,188.76,192
+PROD0170,SN-7657-SEzo,Nestlé Leche Condensada 387g,paquete,Abarrotes,Leche Condensada,22.65,24.37,29.14,33.8,2.18,PRV004,PRV004,17,85,81,21.16,21.91,Promedio,2891.01,389
+PROD0171,SN-1007-Sklg,Unilever Desodorante Rexona 150ml,paquete,Abarrotes,Desodorante Rexona,20.64,25.89,32.65,39.17,2.1,PRV014,PRV004,10,53,24,18.24,19.44,FIFO,5576.43,974
+PROD0172,SN-1156-cRMK,Heineken Tecate 355ml,paquete,Bebidas,Tecate,19.8,21.51,28.81,32.53,1.72,PRV019,PRV019,11,182,41,17.4,18.6,Promedio,5523.35,398
+PROD0173,SN-9166-nVpX,Mars M&M 45g,paquete,Abarrotes,M&M,16.88,23.98,31.16,34.05,0.57,PRV016,PRV014,5,93,38,14.49,15.68,Ultimo,1494.02,86
+PROD0174,SN-8670-USIu,Mondelez Oreo 117g,paquete,Abarrotes,Oreo,17.52,22.8,24.77,30.19,2.83,PRV018,PRV018,5,153,18,15.66,16.59,Ultimo,8742.9,341
+PROD0175,SN-2049-uPCW,Kimberly Clark Papel Higiénico 4pzas,pieza,Abarrotes,Papel Higiénico,24.69,27.7,35.27,40.86,0.68,PRV015,PRV015,10,66,44,22.68,23.69,Ultimo,4225.98,11
+PROD0176,SN-0593-BliM,Herdez Salsa Verde 210g,paquete,Abarrotes,Salsa Verde,11.43,14.49,18.42,19.93,1.04,PRV012,PRV020,13,105,95,9.4,10.41,Ultimo,167.25,778
+PROD0177,SN-4024-toKj,Coca-Cola Refresco 2L,pieza,Bebidas,Refresco,16.52,19.8,21.22,27.31,2.4,PRV001,PRV001,9,161,90,15.26,15.89,Ultimo,2247.6,768
+PROD0178,SN-5126-lqnb,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,18.15,20.38,24.81,32.63,1.86,PRV002,PRV005,14,151,26,15.98,17.06,Ultimo,2002.86,276
+PROD0179,SN-1629-Xovn,Heineken Tecate 355ml,paquete,Bebidas,Tecate,17.23,20.41,26.12,31.22,1.27,PRV019,PRV013,19,155,117,15.79,16.51,FIFO,9919.99,802
+PROD0180,SN-2754-rHfn,Pepsi Refresco 600ml,paquete,Bebidas,Refresco,23.64,25.33,29.03,31.14,1.41,PRV003,PRV020,14,81,52,23.1,23.37,Promedio,7315.26,977
+PROD0181,SN-6682-lHUI,Pepsi Refresco 600ml,paquete,Bebidas,Refresco,21.92,27.54,33.91,38.52,0.94,PRV003,PRV009,8,141,41,20.74,21.33,Ultimo,5377.62,653
+PROD0182,SN-7990-KYrL,Sigma Jamón Virginia 250g,paquete,Abarrotes,Jamón Virginia,24.91,28.61,32.97,36.39,1.16,PRV010,PRV010,6,107,74,23.37,24.14,Promedio,4988.03,269
+PROD0183,SN-5875-ERuP,Mars Snickers 50g,paquete,Abarrotes,Snickers,17.49,19.99,27.88,34.9,2.18,PRV016,PRV016,9,169,71,15.16,16.32,Promedio,7488.64,16
+PROD0184,SN-5938-AFSL,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,18.38,22.4,27.21,32.4,2.14,PRV002,PRV010,5,186,111,16.83,17.6,Promedio,619.6,872
+PROD0185,SN-4884-cAcd,Colgate Cepillo Dental 1pza,pieza,Abarrotes,Cepillo Dental,11.13,18.64,26.48,28.19,3.29,PRV017,PRV017,18,144,24,9.19,10.16,Ultimo,927.82,537
+PROD0186,SN-5769-TGho,Mondelez Trident 14g,paquete,Abarrotes,Trident,19.64,23.9,31.07,36.48,1.69,PRV018,PRV018,16,160,66,17.45,18.55,Ultimo,5155.51,514
+PROD0187,SN-8018-gtog,Sigma Salchicha Viena 500g,paquete,Abarrotes,Salchicha Viena,12.94,15.24,20.47,25.09,0.75,PRV010,PRV007,14,99,39,11.82,12.38,Ultimo,7303.75,926
+PROD0188,SN-3771-PmeL,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,20.93,27.52,31.85,38.24,0.58,PRV014,PRV014,5,60,57,19.05,19.99,FIFO,6714.82,86
+PROD0189,SN-6977-NpPn,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,20.79,27.04,31.78,34.37,1.68,PRV007,PRV007,19,55,29,18.55,19.67,FIFO,9355.67,579
+PROD0190,SN-2502-cqSd,Mars Snickers 50g,paquete,Abarrotes,Snickers,21.04,25.75,28.06,29.43,1.97,PRV016,PRV016,7,114,33,20.3,20.67,Promedio,5972.41,147
+PROD0191,SN-7017-SOXk,Mondelez Oreo 117g,paquete,Abarrotes,Oreo,24.34,27.82,35.68,42.01,0.86,PRV018,PRV018,19,93,26,22.85,23.59,Promedio,1048.6,794
+PROD0192,SN-7916-xJVd,Sigma Salchicha Viena 500g,paquete,Abarrotes,Salchicha Viena,17.73,23.04,27.16,30.31,2.74,PRV010,PRV006,13,170,23,16.56,17.14,FIFO,8537.29,677
+PROD0193,SN-8010-hrlQ,Mars Snickers 50g,paquete,Abarrotes,Snickers,15.9,17.8,25.21,27.3,1.34,PRV016,PRV016,18,101,33,14.75,15.32,Ultimo,1356.36,977
+PROD0194,SN-5635-raAl,Herdez Salsa Verde 210g,paquete,Abarrotes,Salsa Verde,24.59,29.36,30.64,35.67,3.08,PRV012,PRV012,8,74,30,22.3,23.45,Ultimo,2911.74,860
+PROD0195,SN-5831-PWVo,Grupo Modelo Corona 355ml,paquete,Bebidas,Corona,20.07,22.42,29.9,35.18,2.49,PRV020,PRV019,5,76,5,19.19,19.63,Ultimo,8225.66,226
+PROD0196,SN-8540-wdGk,Sigma Jamón Virginia 250g,paquete,Abarrotes,Jamón Virginia,14.13,19.63,24.79,27.77,2.22,PRV010,PRV017,5,102,9,13.19,13.66,Ultimo,6972.54,824
+PROD0197,SN-7661-RQGu,Mondelez Oreo 117g,paquete,Abarrotes,Oreo,24.4,28.13,36.11,40.86,1.37,PRV018,PRV018,20,106,43,22.64,23.52,Ultimo,2237.59,995
+PROD0198,SN-2967-UINi,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,17.46,24.04,28.27,31.82,1.98,PRV007,PRV015,14,117,101,16.79,17.12,Ultimo,8253.14,101
+PROD0199,SN-3381-ibWX,Colgate Pasta Dental 75ml,paquete,Abarrotes,Pasta Dental,21.05,28.66,36.33,40.37,1.75,PRV017,PRV005,9,92,20,19.12,20.09,Promedio,4594.97,793
+PROD0200,SN-0866-fddO,La Costeña Frijoles Negros 560g,paquete,Abarrotes,Frijoles Negros,11.53,16.25,19.5,23.73,2.19,PRV005,PRV005,8,61,23,9.51,10.52,Promedio,5248.55,547
+PROD0201,SN-8128-DFMJ,Barcel Chips 50g,paquete,Abarrotes,Chips,19.71,23.79,28.41,36.4,2.65,PRV008,PRV008,20,126,97,18.06,18.88,FIFO,4684.96,591
+PROD0202,SN-6202-MuLM,Unilever Desodorante Rexona 150ml,paquete,Abarrotes,Desodorante Rexona,24.18,26.63,34.52,36.91,1.41,PRV014,PRV004,17,175,99,22.64,23.41,Promedio,1339.01,844
+PROD0203,SN-4439-KqBN,Gamesa Galletas Emperador 100g,paquete,Abarrotes,Galletas Emperador,14.03,21.03,26.13,31.31,2.39,PRV006,PRV012,16,162,21,13.06,13.54,Ultimo,4772.67,736
+PROD0204,SN-7849-lHIB,Jumex Néctar Mango 1L,pieza,Bebidas,Néctar Mango,21.37,25.33,29.9,36.56,2.56,PRV013,PRV013,14,169,92,20.08,20.73,Ultimo,7493.56,544
+PROD0205,SN-5848-YUuv,Jumex Néctar Durazno 1L,pieza,Bebidas,Néctar Durazno,21.65,23.39,28.52,31.46,0.93,PRV013,PRV001,8,172,135,20.73,21.19,FIFO,3809.9,432
+PROD0206,SN-6483-uFzD,Grupo Modelo Corona 355ml,paquete,Bebidas,Corona,23.22,30.36,34.47,37.56,1.78,PRV020,PRV014,5,163,153,20.74,21.98,Ultimo,7487.35,864
+PROD0207,SN-0064-HUPc,Barcel Takis Fuego 62g,paquete,Abarrotes,Takis Fuego,10.99,12.79,14.23,16.97,3.3,PRV008,PRV008,13,117,73,10.4,10.7,FIFO,4602.13,640
+PROD0208,SN-2844-PaET,Bimbo Pan Integral 680g,paquete,Abarrotes,Pan Integral,12.31,15.58,18.33,22.39,2.88,PRV002,PRV002,13,166,98,11.39,11.85,FIFO,4660.84,443
+PROD0209,SN-3868-zdoF,Kimberly Clark Servilletas 200pzas,pieza,Abarrotes,Servilletas,22.13,27.42,30.51,38.08,0.74,PRV015,PRV012,14,144,64,20.7,21.41,Promedio,1861.84,782
+PROD0210,SN-4049-abCZ,La Costeña Frijoles Negros 560g,paquete,Abarrotes,Frijoles Negros,20.82,27.58,28.94,36.63,3.0,PRV005,PRV005,10,197,187,19.0,19.91,Ultimo,2827.96,969
+PROD0211,SN-9230-mOgQ,Mondelez Trident 14g,paquete,Abarrotes,Trident,18.57,25.09,27.35,28.73,2.97,PRV018,PRV018,9,160,50,17.2,17.88,Ultimo,2104.82,682
+PROD0212,SN-1507-nLLi,Jumex Néctar Durazno 1L,pieza,Bebidas,Néctar Durazno,14.27,16.38,20.68,25.28,1.08,PRV013,PRV003,20,154,129,13.25,13.76,Promedio,1880.39,958
+PROD0213,SN-9843-fbON,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,19.72,25.81,32.38,34.25,1.28,PRV005,PRV005,16,156,20,18.4,19.06,FIFO,9574.52,431
+PROD0214,SN-3488-HrfU,Barcel Takis Fuego 62g,paquete,Abarrotes,Takis Fuego,10.22,17.01,19.16,24.01,3.45,PRV008,PRV008,9,133,58,8.63,9.43,FIFO,2049.58,313
+PROD0215,SN-4288-MKRU,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,12.37,15.56,17.46,24.7,1.74,PRV002,PRV002,18,71,69,10.66,11.52,FIFO,4970.17,646
+PROD0216,SN-5444-EORG,Coca-Cola Refresco 600ml,paquete,Bebidas,Refresco,20.91,27.4,33.27,39.84,2.72,PRV001,PRV006,17,120,89,19.53,20.22,FIFO,9574.08,17
+PROD0217,SN-8317-fTgs,Sigma Salchicha Viena 500g,paquete,Abarrotes,Salchicha Viena,11.97,16.94,18.17,24.52,1.41,PRV010,PRV019,17,129,44,9.48,10.73,Promedio,413.15,382
+PROD0218,SN-3615-qtIU,Sigma Salchicha Viena 500g,paquete,Abarrotes,Salchicha Viena,23.62,27.28,29.08,35.4,0.83,PRV010,PRV006,8,83,80,22.48,23.05,Ultimo,4812.27,141
+PROD0219,SN-6270-hkND,Pepsi Refresco 2L,pieza,Bebidas,Refresco,23.1,27.74,34.45,41.88,0.73,PRV003,PRV016,12,147,15,20.8,21.95,Promedio,3760.99,319
+PROD0220,SN-1444-CLeF,Mars M&M 45g,paquete,Abarrotes,M&M,13.9,19.76,21.02,27.17,1.86,PRV016,PRV014,15,193,37,12.45,13.18,Ultimo,3791.72,485
+PROD0221,SN-9398-hymP,Sabritas Papas 45g,paquete,Abarrotes,Papas,22.63,26.09,31.0,35.78,2.63,PRV009,PRV009,10,71,19,21.54,22.09,Ultimo,4712.08,344
+PROD0222,SN-3716-Ahqi,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,13.8,20.35,24.67,28.67,2.64,PRV007,PRV007,11,65,42,12.22,13.01,Ultimo,3790.68,821
+PROD0223,SN-3602-gGrL,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,17.7,20.56,27.25,29.23,1.78,PRV002,PRV002,20,128,106,15.94,16.82,Ultimo,5280.74,766
+PROD0224,SN-4407-KzZm,La Costeña Frijoles Negros 560g,paquete,Abarrotes,Frijoles Negros,23.72,29.46,31.92,36.66,1.44,PRV005,PRV005,7,94,60,21.87,22.8,Ultimo,7133.0,133
+PROD0225,SN-2907-vWFU,Barcel Takis Fuego 62g,paquete,Abarrotes,Takis Fuego,22.67,25.98,31.48,33.98,1.86,PRV008,PRV008,15,87,73,20.21,21.44,Promedio,4335.85,185
+PROD0226,SN-7877-aFfD,Gamesa Galletas Emperador 100g,paquete,Abarrotes,Galletas Emperador,15.18,16.73,22.84,28.06,0.64,PRV006,PRV006,14,123,17,12.94,14.06,FIFO,5957.46,425
+PROD0227,SN-6115-sVLN,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,21.03,26.79,33.19,38.65,1.06,PRV002,PRV018,14,82,75,19.34,20.19,Ultimo,5894.71,679
+PROD0228,SN-2805-zQdJ,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,12.1,14.11,16.8,18.2,3.14,PRV002,PRV002,15,67,54,9.77,10.93,Ultimo,8991.42,221
+PROD0229,SN-2053-GFLB,Coca-Cola Refresco 600ml,paquete,Bebidas,Refresco,23.07,25.69,32.36,39.5,2.6,PRV001,PRV001,15,179,26,21.61,22.34,Ultimo,1276.87,505
+PROD0230,SN-1124-hxzm,Coca-Cola Refresco 600ml,paquete,Bebidas,Refresco,21.32,27.94,29.64,34.98,1.52,PRV001,PRV001,10,97,57,19.78,20.55,Promedio,5190.87,831
+PROD0231,SN-4940-yffB,Gamesa Galletas Marias 170g,paquete,Abarrotes,Galletas Marias,12.83,15.66,22.8,28.09,2.87,PRV006,PRV006,15,195,177,11.61,12.22,FIFO,8816.5,813
+PROD0232,SN-2269-JJYr,Sigma Jamón Virginia 250g,paquete,Abarrotes,Jamón Virginia,24.83,30.07,33.67,39.49,2.47,PRV010,PRV010,9,195,22,23.71,24.27,FIFO,3153.04,526
+PROD0233,SN-6816-cFDg,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,13.41,19.79,27.39,30.44,1.33,PRV005,PRV005,15,147,81,11.45,12.43,FIFO,8142.18,61
+PROD0234,SN-6747-itOU,Mondelez Trident 14g,paquete,Abarrotes,Trident,22.16,25.81,31.74,36.19,1.42,PRV018,PRV012,6,84,19,21.37,21.77,FIFO,7163.34,187
+PROD0235,SN-8592-ZxBv,Herdez Salsa Verde 210g,paquete,Abarrotes,Salsa Verde,20.81,28.01,34.62,37.61,2.78,PRV012,PRV012,9,125,18,18.36,19.59,Promedio,8418.28,491
+PROD0236,SN-1854-AakL,Mars Snickers 50g,paquete,Abarrotes,Snickers,23.76,25.01,30.85,36.4,0.57,PRV016,PRV013,16,121,103,22.82,23.29,Ultimo,2530.15,172
+PROD0237,SN-9700-OuZt,Kimberly Clark Papel Higiénico 4pzas,pieza,Abarrotes,Papel Higiénico,18.58,21.84,27.55,28.62,2.51,PRV015,PRV007,12,174,86,17.43,18.0,FIFO,5362.02,453
+PROD0238,SN-4636-nTXi,Kimberly Clark Servilletas 200pzas,pieza,Abarrotes,Servilletas,13.86,20.18,28.03,32.74,0.62,PRV015,PRV015,15,86,29,11.93,12.89,Promedio,5059.25,387
+PROD0239,SN-2429-UWQV,Pepsi Refresco 2L,pieza,Bebidas,Refresco,15.55,18.51,20.78,23.79,2.57,PRV003,PRV003,19,159,20,13.21,14.38,Ultimo,4377.05,701
+PROD0240,SN-0180-aOqm,Sigma Jamón Virginia 250g,paquete,Abarrotes,Jamón Virginia,13.65,15.77,20.66,26.58,3.02,PRV010,PRV002,19,137,19,13.06,13.36,Promedio,483.66,272
+PROD0241,SN-9194-YDbn,Heineken Tecate 355ml,paquete,Bebidas,Tecate,15.19,22.92,26.38,28.12,0.52,PRV019,PRV005,9,83,47,12.71,13.95,Ultimo,3414.11,824
+PROD0242,SN-6898-UwZQ,Mars Snickers 50g,paquete,Abarrotes,Snickers,19.66,22.19,26.95,28.99,3.28,PRV016,PRV019,9,91,78,17.85,18.76,Ultimo,9542.82,313
+PROD0243,SN-8718-XskB,Herdez Salsa Verde 210g,paquete,Abarrotes,Salsa Verde,12.02,19.89,21.77,26.21,2.54,PRV012,PRV020,11,120,38,10.06,11.04,Ultimo,3226.64,914
+PROD0244,SN-4822-DZrl,Mondelez Trident 14g,paquete,Abarrotes,Trident,17.21,19.32,21.99,25.16,3.06,PRV018,PRV017,11,55,11,16.01,16.61,FIFO,2088.68,658
+PROD0245,SN-0968-WSCT,Lala Leche Entera 1L,pieza,Abarrotes,Leche Entera,16.41,18.49,23.99,30.46,1.76,PRV007,PRV007,5,159,144,14.35,15.38,FIFO,3661.76,528
+PROD0246,SN-9436-nnIX,Jumex Néctar Mango 1L,pieza,Bebidas,Néctar Mango,13.94,20.49,24.58,31.2,2.34,PRV013,PRV001,13,65,59,12.35,13.14,FIFO,877.01,965
+PROD0247,SN-9288-Avpz,Gamesa Galletas Emperador 100g,paquete,Abarrotes,Galletas Emperador,22.8,27.24,33.7,39.3,2.52,PRV006,PRV006,17,89,66,21.77,22.29,FIFO,3886.62,917
+PROD0248,SN-4050-FJgX,Colgate Cepillo Dental 1pza,pieza,Abarrotes,Cepillo Dental,17.33,22.06,23.42,31.14,2.9,PRV017,PRV017,7,103,62,15.26,16.29,Promedio,8437.58,851
+PROD0249,SN-6414-CtgL,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,15.0,21.96,26.59,32.17,2.42,PRV002,PRV002,15,157,78,13.93,14.46,Promedio,872.14,884
+PROD0250,SN-2340-cXJx,Kimberly Clark Papel Higiénico 4pzas,pieza,Abarrotes,Papel Higiénico,14.49,19.9,22.58,26.19,2.88,PRV015,PRV015,13,117,63,13.68,14.09,FIFO,5549.94,599
+PROD0251,SN-1877-OZlE,Barcel Chips 50g,paquete,Abarrotes,Chips,14.8,21.94,27.21,32.67,2.76,PRV008,PRV005,17,199,20,14.26,14.53,Ultimo,7518.35,60
+PROD0252,SN-4437-aypL,Jumex Néctar Durazno 1L,pieza,Bebidas,Néctar Durazno,17.36,25.0,26.85,34.81,0.99,PRV013,PRV013,6,160,121,15.0,16.18,FIFO,4821.97,52
+PROD0253,SN-5171-Dsqm,La Costeña Frijoles Negros 560g,paquete,Abarrotes,Frijoles Negros,18.17,22.05,23.67,24.81,2.25,PRV005,PRV006,10,61,14,16.81,17.49,Promedio,7385.31,849
+PROD0254,SN-7854-HTcl,Gamesa Galletas Marias 170g,paquete,Abarrotes,Galletas Marias,12.86,16.46,24.43,27.09,0.94,PRV006,PRV010,8,61,31,10.74,11.8,Promedio,9680.58,863
+PROD0255,SN-0787-RErR,Sabritas Papas 45g,paquete,Abarrotes,Papas,19.47,23.47,28.96,31.5,2.77,PRV009,PRV009,10,96,49,18.27,18.87,Promedio,4932.31,258
+PROD0256,SN-2998-zQEI,Jumex Néctar Durazno 1L,pieza,Bebidas,Néctar Durazno,24.42,29.37,35.5,40.52,1.26,PRV013,PRV010,13,89,86,23.46,23.94,FIFO,9145.46,473
+PROD0257,SN-3920-mfqh,Bimbo Pan Integral 680g,paquete,Abarrotes,Pan Integral,11.31,12.95,19.65,25.43,3.25,PRV002,PRV002,20,200,79,9.72,10.52,Ultimo,7052.95,340
+PROD0258,SN-3312-ljYg,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,15.8,21.88,26.14,32.96,2.79,PRV005,PRV005,10,50,35,13.87,14.84,Promedio,9709.49,477
+PROD0259,SN-6099-qbow,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,17.89,24.55,30.58,34.67,1.14,PRV014,PRV020,8,98,90,17.29,17.59,FIFO,4482.87,321
+PROD0260,SN-8773-hPlU,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,20.62,22.62,29.47,33.4,2.54,PRV005,PRV005,16,165,147,19.38,20.0,Promedio,4636.63,956
+PROD0261,SN-5580-WaZr,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,18.71,19.86,26.99,33.32,2.02,PRV005,PRV017,20,99,74,16.84,17.77,FIFO,5731.31,806
+PROD0262,SN-2560-Oiir,Colgate Pasta Dental 75ml,paquete,Abarrotes,Pasta Dental,13.38,20.68,24.9,29.91,2.69,PRV017,PRV004,9,69,54,11.97,12.68,FIFO,1913.43,123
+PROD0263,SN-3060-aUcn,Alpura Leche Deslactosada 1L,pieza,Abarrotes,Leche Deslactosada,16.75,19.74,25.01,27.33,1.03,PRV011,PRV016,12,63,47,15.85,16.3,Ultimo,9760.22,416
+PROD0264,SN-9683-ALEj,Nestlé Leche Condensada 387g,paquete,Abarrotes,Leche Condensada,10.4,12.55,19.59,24.63,3.5,PRV004,PRV004,15,59,51,8.95,9.68,FIFO,8143.51,174
+PROD0265,SN-2543-aLzQ,Grupo Modelo Corona 355ml,paquete,Bebidas,Corona,19.56,20.75,24.83,26.67,1.78,PRV020,PRV004,7,177,42,17.55,18.55,Ultimo,8818.29,749
+PROD0266,SN-4932-Xgbe,Nestlé Leche Condensada 387g,paquete,Abarrotes,Leche Condensada,18.76,25.82,30.55,32.32,2.78,PRV004,PRV017,13,82,81,17.17,17.97,Ultimo,725.88,344
+PROD0267,SN-7829-Elcd,Grupo Modelo Corona 355ml,paquete,Bebidas,Corona,24.11,31.11,33.43,40.64,2.49,PRV020,PRV001,18,185,144,23.04,23.57,Ultimo,3577.46,287
+PROD0268,SN-7016-YZEJ,Lala Leche Entera 1L,pieza,Abarrotes,Leche Entera,22.6,28.36,30.6,32.55,0.83,PRV007,PRV013,20,87,28,22.05,22.33,Ultimo,9096.02,200
+PROD0269,SN-2366-KGAH,Grupo Modelo Corona 355ml,paquete,Bebidas,Corona,14.47,16.77,19.97,21.25,0.63,PRV020,PRV020,20,123,75,12.38,13.43,Promedio,734.3,959
+PROD0270,SN-5290-RpKu,Barcel Takis Fuego 62g,paquete,Abarrotes,Takis Fuego,22.61,25.29,33.16,41.03,2.12,PRV008,PRV008,11,120,51,21.24,21.92,Ultimo,4875.74,343
+PROD0271,SN-7996-bjur,Barcel Chips 50g,paquete,Abarrotes,Chips,18.54,23.4,27.68,32.59,1.09,PRV008,PRV014,5,141,75,16.31,17.42,Ultimo,1468.33,544
+PROD0272,SN-6013-FYCE,Herdez Salsa Verde 210g,paquete,Abarrotes,Salsa Verde,19.81,26.91,34.48,39.12,2.77,PRV012,PRV012,16,158,146,18.42,19.12,Ultimo,5533.02,631
+PROD0273,SN-8702-DTGp,Herdez Salsa Roja 210g,paquete,Abarrotes,Salsa Roja,10.47,11.75,13.45,20.69,1.36,PRV012,PRV020,18,200,93,8.4,9.44,FIFO,5846.99,505
+PROD0274,SN-9123-QVoD,Colgate Cepillo Dental 1pza,pieza,Abarrotes,Cepillo Dental,19.53,21.47,27.17,31.65,2.9,PRV017,PRV017,20,156,117,18.67,19.1,FIFO,5984.05,752
+PROD0275,SN-7814-LOOH,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,19.99,26.39,34.33,38.49,0.82,PRV014,PRV014,17,129,127,18.13,19.06,Ultimo,7705.42,738
+PROD0276,SN-6302-qVkN,Herdez Salsa Verde 210g,paquete,Abarrotes,Salsa Verde,17.6,22.45,25.19,29.48,1.03,PRV012,PRV007,14,181,101,16.93,17.27,Ultimo,5389.8,363
+PROD0277,SN-2732-JYep,Colgate Pasta Dental 75ml,paquete,Abarrotes,Pasta Dental,23.83,28.56,31.88,35.06,1.44,PRV017,PRV017,7,200,121,22.05,22.94,Ultimo,4463.6,98
+PROD0278,SN-7243-LjGO,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,20.08,24.12,30.5,34.18,1.42,PRV014,PRV014,19,193,104,18.73,19.41,FIFO,596.94,312
+PROD0279,SN-7543-kMVU,Jumex Néctar Durazno 1L,pieza,Bebidas,Néctar Durazno,14.86,17.59,21.85,26.14,0.87,PRV013,PRV020,20,130,40,13.53,14.2,FIFO,6947.28,434
+PROD0280,SN-8898-cNGO,Bimbo Pan Integral 680g,paquete,Abarrotes,Pan Integral,19.13,20.54,22.1,26.36,1.15,PRV002,PRV002,10,71,48,16.99,18.06,Promedio,9997.94,805
+PROD0281,SN-8078-jTOR,Colgate Pasta Dental 75ml,paquete,Abarrotes,Pasta Dental,21.74,29.74,34.7,41.63,2.75,PRV017,PRV017,12,197,127,20.16,20.95,Promedio,4543.5,493
+PROD0282,SN-6614-nDFQ,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,17.56,23.59,25.8,32.19,0.9,PRV014,PRV014,14,91,18,16.09,16.82,FIFO,2485.06,604
+PROD0283,SN-8385-kbxR,Kimberly Clark Papel Higiénico 4pzas,pieza,Abarrotes,Papel Higiénico,15.93,22.04,27.12,31.53,3.22,PRV015,PRV005,6,180,135,13.79,14.86,Ultimo,4754.63,533
+PROD0284,SN-9720-YYpd,Mondelez Trident 14g,paquete,Abarrotes,Trident,11.91,13.48,16.28,19.27,3.31,PRV018,PRV018,13,182,71,9.52,10.71,Promedio,1289.91,359
+PROD0285,SN-2713-LpNS,Nestlé Leche Condensada 387g,paquete,Abarrotes,Leche Condensada,22.17,23.86,26.07,30.72,2.65,PRV004,PRV004,6,177,172,20.99,21.58,FIFO,1643.06,136
+PROD0286,SN-4577-VheN,Gamesa Galletas Emperador 100g,paquete,Abarrotes,Galletas Emperador,23.73,25.42,32.86,38.37,2.1,PRV006,PRV006,11,75,41,21.48,22.61,FIFO,3992.02,192
+PROD0287,SN-0513-yFhl,Barcel Takis Fuego 62g,paquete,Abarrotes,Takis Fuego,10.29,17.56,18.91,26.58,2.17,PRV008,PRV020,7,61,23,7.86,9.07,Ultimo,708.96,845
+PROD0288,SN-0347-jdJi,Kimberly Clark Servilletas 200pzas,pieza,Abarrotes,Servilletas,18.12,22.12,28.6,31.91,3.4,PRV015,PRV015,16,110,109,16.18,17.15,Ultimo,7452.14,276
+PROD0289,SN-0413-WHvv,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,12.71,19.33,21.9,26.41,0.55,PRV007,PRV002,8,140,133,11.12,11.91,Promedio,4385.43,307
+PROD0290,SN-2371-GcHn,Kimberly Clark Papel Higiénico 4pzas,pieza,Abarrotes,Papel Higiénico,19.59,26.18,32.31,34.85,2.59,PRV015,PRV016,7,108,100,17.77,18.68,Ultimo,1989.03,310
+PROD0291,SN-2731-giqI,Unilever Desodorante Rexona 150ml,paquete,Abarrotes,Desodorante Rexona,11.85,13.85,15.72,16.74,2.13,PRV014,PRV014,8,96,46,9.96,10.91,Promedio,3299.45,962
+PROD0292,SN-1997-VeBS,Barcel Takis Fuego 62g,paquete,Abarrotes,Takis Fuego,18.23,22.4,27.82,32.25,1.09,PRV008,PRV008,9,73,19,17.69,17.96,Ultimo,5243.18,251
+PROD0293,SN-1094-kDUB,Barcel Chips 50g,paquete,Abarrotes,Chips,20.65,25.02,28.87,34.76,3.14,PRV008,PRV009,8,195,131,19.67,20.16,FIFO,3644.16,821
+PROD0294,SN-2723-hIhC,Sigma Salchicha Viena 500g,paquete,Abarrotes,Salchicha Viena,22.82,25.82,30.6,34.63,0.57,PRV010,PRV007,12,57,20,20.84,21.83,Ultimo,5267.74,300
+PROD0295,SN-7982-LQti,Pepsi Refresco 2L,pieza,Bebidas,Refresco,15.67,21.72,28.93,35.28,1.59,PRV003,PRV003,13,100,32,13.79,14.73,Ultimo,7152.07,908
+PROD0296,SN-8880-IvFE,Sabritas Papas 170g,paquete,Abarrotes,Papas,22.51,24.92,29.56,30.83,1.99,PRV009,PRV015,20,120,33,21.58,22.05,Ultimo,6513.91,96
+PROD0297,SN-2085-ZRYL,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,13.82,17.51,23.37,29.94,3.01,PRV005,PRV005,14,56,40,12.58,13.2,Ultimo,9450.63,59
+PROD0298,SN-7490-UHSH,Barcel Chips 50g,paquete,Abarrotes,Chips,17.29,24.45,28.08,29.62,0.53,PRV008,PRV013,7,108,56,15.51,16.4,FIFO,5332.37,795
+PROD0299,SN-0295-vlAM,Pepsi Refresco 2L,pieza,Bebidas,Refresco,22.96,25.78,29.7,34.93,1.88,PRV003,PRV009,7,64,64,21.37,22.16,Ultimo,9205.72,803
+PROD0300,SN-3444-dllR,Kimberly Clark Servilletas 200pzas,pieza,Abarrotes,Servilletas,17.42,23.08,30.44,32.48,0.99,PRV015,PRV020,18,189,188,14.97,16.2,FIFO,5131.64,334
+PROD0301,SN-2906-EZLf,Pepsi Refresco 600ml,paquete,Bebidas,Refresco,14.56,17.37,21.33,26.98,2.45,PRV003,PRV003,18,54,24,13.23,13.89,Promedio,5375.59,588
+PROD0302,SN-7139-UFqb,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,17.92,23.68,30.23,31.33,3.16,PRV007,PRV009,8,143,132,17.0,17.46,FIFO,9603.67,734
+PROD0303,SN-9351-FtDz,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,17.19,20.37,22.35,24.97,2.3,PRV014,PRV012,18,86,38,16.08,16.63,FIFO,3165.56,46
+PROD0304,SN-8027-iSdj,Mars Snickers 50g,paquete,Abarrotes,Snickers,12.51,18.81,24.19,31.86,0.5,PRV016,PRV016,15,144,16,10.4,11.46,FIFO,1743.76,79
+PROD0305,SN-0513-sshh,Colgate Pasta Dental 75ml,paquete,Abarrotes,Pasta Dental,14.96,20.75,26.91,28.21,0.66,PRV017,PRV015,9,172,22,12.5,13.73,Ultimo,7827.56,298
+PROD0306,SN-5138-qghL,Lala Leche Entera 1L,pieza,Abarrotes,Leche Entera,23.86,29.36,31.45,36.15,2.38,PRV007,PRV006,16,66,62,22.76,23.31,FIFO,9770.69,626
+PROD0307,SN-3989-KTww,Gamesa Galletas Marias 170g,paquete,Abarrotes,Galletas Marias,24.73,31.94,35.53,42.24,2.2,PRV006,PRV020,8,195,72,22.99,23.86,Promedio,6406.88,254
+PROD0308,SN-9094-HlcN,Bimbo Pan Integral 680g,paquete,Abarrotes,Pan Integral,22.28,28.02,30.28,34.38,2.18,PRV002,PRV014,9,99,76,20.97,21.62,Ultimo,7613.54,979
+PROD0309,SN-0745-abGi,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,20.05,25.5,28.79,36.29,3.17,PRV005,PRV019,12,192,12,18.27,19.16,Promedio,9908.99,549
+PROD0310,SN-0105-fyHd,Herdez Salsa Verde 210g,paquete,Abarrotes,Salsa Verde,23.03,28.25,32.43,34.48,2.59,PRV012,PRV012,7,188,153,21.4,22.21,Ultimo,3035.63,738
+PROD0311,SN-9502-mKeq,Sabritas Papas 45g,paquete,Abarrotes,Papas,12.51,16.53,20.35,22.61,1.12,PRV009,PRV009,19,52,52,10.71,11.61,Ultimo,2400.96,885
+PROD0312,SN-6438-qnUK,Kimberly Clark Servilletas 200pzas,pieza,Abarrotes,Servilletas,11.21,16.04,20.83,27.8,2.12,PRV015,PRV015,6,160,158,10.61,10.91,Ultimo,4999.55,976
+PROD0313,SN-0378-XUZt,Pepsi Refresco 600ml,paquete,Bebidas,Refresco,20.72,25.26,31.69,37.98,3.17,PRV003,PRV018,9,117,85,19.31,20.02,Promedio,6144.51,546
+PROD0314,SN-4383-WjUY,Pepsi Refresco 2L,pieza,Bebidas,Refresco,22.47,27.94,33.55,39.1,1.46,PRV003,PRV018,10,93,31,21.61,22.04,FIFO,3272.75,849
+PROD0315,SN-2128-fXPi,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,23.98,25.1,27.53,31.86,1.75,PRV005,PRV005,9,192,70,21.54,22.76,FIFO,8686.91,377
+PROD0316,SN-0100-CPib,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,16.96,22.38,28.52,32.09,2.22,PRV005,PRV008,5,155,28,15.05,16.01,Ultimo,900.8,995
+PROD0317,SN-5146-smOo,Gamesa Galletas Emperador 100g,paquete,Abarrotes,Galletas Emperador,11.25,12.31,16.35,18.08,3.31,PRV006,PRV007,19,82,27,10.35,10.8,Ultimo,4233.82,701
+PROD0318,SN-3857-qktB,Coca-Cola Refresco 2L,pieza,Bebidas,Refresco,12.78,19.17,26.01,32.53,2.66,PRV001,PRV002,18,168,23,12.22,12.5,Promedio,6302.47,357
+PROD0319,SN-3991-oTab,Mondelez Oreo 117g,paquete,Abarrotes,Oreo,23.36,24.48,30.15,32.66,0.74,PRV018,PRV018,8,106,99,22.01,22.69,FIFO,8492.57,110
+PROD0320,SN-9495-cSwr,Herdez Salsa Verde 210g,paquete,Abarrotes,Salsa Verde,11.7,16.84,24.66,31.04,0.99,PRV012,PRV002,19,83,81,10.65,11.18,Promedio,6704.62,669
+PROD0321,SN-5320-wjrR,Heineken Tecate 355ml,paquete,Bebidas,Tecate,19.65,25.28,27.37,32.05,2.39,PRV019,PRV018,11,162,43,17.44,18.55,Promedio,7606.24,163
+PROD0322,SN-3596-bKsp,La Costeña Frijoles Negros 560g,paquete,Abarrotes,Frijoles Negros,24.74,30.79,32.08,35.17,2.19,PRV005,PRV012,10,175,71,23.43,24.09,FIFO,5568.87,254
+PROD0323,SN-5438-idjH,Mondelez Trident 14g,paquete,Abarrotes,Trident,10.91,16.23,18.54,24.27,0.8,PRV018,PRV018,6,50,50,9.72,10.32,Promedio,8825.35,274
+PROD0324,SN-4915-LCCV,Heineken Tecate 355ml,paquete,Bebidas,Tecate,13.61,20.13,27.76,28.78,1.86,PRV019,PRV019,18,197,104,12.83,13.22,Ultimo,4134.36,225
+PROD0325,SN-4015-smvc,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,16.9,24.62,28.96,33.58,0.71,PRV007,PRV012,15,164,141,16.11,16.5,Promedio,7559.15,23
+PROD0326,SN-8554-HhVG,Kimberly Clark Papel Higiénico 4pzas,pieza,Abarrotes,Papel Higiénico,20.39,27.89,29.31,31.28,2.41,PRV015,PRV020,8,182,78,18.92,19.66,FIFO,3529.27,326
+PROD0327,SN-9220-Pvfm,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,12.9,14.07,18.44,22.37,0.69,PRV007,PRV013,19,82,40,10.95,11.93,Promedio,9436.01,165
+PROD0328,SN-1124-dPBh,La Costeña Frijoles Negros 560g,paquete,Abarrotes,Frijoles Negros,13.98,16.89,22.59,28.59,1.91,PRV005,PRV001,11,169,67,11.79,12.88,FIFO,8087.41,226
+PROD0329,SN-8765-OTJF,Sigma Jamón Virginia 250g,paquete,Abarrotes,Jamón Virginia,19.91,22.02,28.78,30.38,2.39,PRV010,PRV010,8,153,121,18.05,18.98,FIFO,6188.63,729
+PROD0330,SN-5920-qTWM,Bimbo Pan Integral 680g,paquete,Abarrotes,Pan Integral,14.97,20.77,27.71,30.84,1.69,PRV002,PRV002,8,136,11,13.83,14.4,Promedio,3865.87,310
+PROD0331,SN-1582-iclJ,Nestlé Leche Condensada 387g,paquete,Abarrotes,Leche Condensada,15.32,22.8,27.39,34.85,1.13,PRV004,PRV004,16,98,70,13.38,14.35,FIFO,6275.84,922
+PROD0332,SN-9280-lkdh,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,24.76,31.42,33.48,41.48,1.67,PRV005,PRV005,16,55,45,23.85,24.3,Promedio,3507.22,771
+PROD0333,SN-4224-VGHq,Sigma Salchicha Viena 500g,paquete,Abarrotes,Salchicha Viena,13.42,15.58,19.57,26.39,1.11,PRV010,PRV006,11,152,144,11.25,12.34,Ultimo,5415.69,34
+PROD0334,SN-2204-phev,Mondelez Trident 14g,paquete,Abarrotes,Trident,10.2,17.17,20.23,23.69,1.38,PRV018,PRV018,16,191,56,8.63,9.41,FIFO,7033.25,726
+PROD0335,SN-6711-SShZ,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,15.3,20.25,26.91,29.59,2.96,PRV005,PRV005,18,103,97,14.34,14.82,Ultimo,7465.66,286
+PROD0336,SN-3519-KGdP,Sabritas Papas 170g,paquete,Abarrotes,Papas,21.26,27.54,30.53,31.91,0.62,PRV009,PRV009,5,169,53,20.21,20.73,Ultimo,4487.86,171
+PROD0337,SN-8923-uhRV,Barcel Chips 50g,paquete,Abarrotes,Chips,20.36,23.95,26.85,33.55,1.38,PRV008,PRV008,17,76,19,19.39,19.88,FIFO,9359.14,477
+PROD0338,SN-7875-Pkbs,Kimberly Clark Servilletas 200pzas,pieza,Abarrotes,Servilletas,23.0,26.05,29.92,32.41,3.47,PRV015,PRV013,17,111,59,21.54,22.27,Ultimo,1081.88,298
+PROD0339,SN-1111-FmAd,Sabritas Papas 45g,paquete,Abarrotes,Papas,17.3,21.24,22.67,29.35,0.62,PRV009,PRV009,10,148,119,15.39,16.34,Ultimo,1834.69,725
+PROD0340,SN-4430-GOyP,Sabritas Papas 45g,paquete,Abarrotes,Papas,22.34,28.67,33.81,35.8,1.61,PRV009,PRV009,5,138,24,21.13,21.73,Ultimo,8600.81,497
+PROD0341,SN-4990-CeaA,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,22.41,24.95,26.07,31.12,3.2,PRV014,PRV014,14,146,77,21.11,21.76,Ultimo,6502.24,226
+PROD0342,SN-2849-mpCT,Colgate Cepillo Dental 1pza,pieza,Abarrotes,Cepillo Dental,11.64,17.29,23.98,30.41,1.01,PRV017,PRV001,16,114,92,10.64,11.14,Ultimo,7533.59,359
+PROD0343,SN-8769-yMvw,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,19.93,26.94,32.02,34.17,1.4,PRV014,PRV014,5,180,124,17.85,18.89,Ultimo,315.03,536
+PROD0344,SN-9256-RrIV,Gamesa Galletas Marias 170g,paquete,Abarrotes,Galletas Marias,20.76,23.77,25.0,31.52,1.38,PRV006,PRV006,12,78,16,18.86,19.81,Ultimo,4438.97,18
+PROD0345,SN-6286-lXqB,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,17.79,22.7,24.38,26.93,1.75,PRV007,PRV007,11,50,17,16.93,17.36,Ultimo,2081.93,158
+PROD0346,SN-7880-yjZr,Kimberly Clark Papel Higiénico 4pzas,pieza,Abarrotes,Papel Higiénico,13.43,19.05,21.9,23.87,1.36,PRV015,PRV015,8,143,68,11.98,12.71,FIFO,7211.34,549
+PROD0347,SN-6853-JhRH,Alpura Leche Deslactosada 1L,pieza,Abarrotes,Leche Deslactosada,12.33,18.13,25.58,28.52,2.45,PRV011,PRV012,5,148,109,10.36,11.34,FIFO,5525.72,235
+PROD0348,SN-2930-zeVY,Pepsi Refresco 600ml,paquete,Bebidas,Refresco,10.37,15.57,17.29,23.99,1.01,PRV003,PRV006,12,89,64,9.43,9.9,FIFO,8753.8,311
+PROD0349,SN-1422-rgEA,Jumex Néctar Mango 1L,pieza,Bebidas,Néctar Mango,12.64,17.46,19.23,22.64,1.91,PRV013,PRV013,12,76,29,10.88,11.76,Ultimo,4689.97,625
+PROD0350,SN-0962-GALa,Barcel Chips 50g,paquete,Abarrotes,Chips,21.88,25.4,27.68,29.7,2.38,PRV008,PRV009,13,93,56,19.68,20.78,FIFO,4182.87,483
+PROD0351,SN-5364-UkWp,Nestlé Leche Condensada 387g,paquete,Abarrotes,Leche Condensada,21.18,27.24,32.48,34.58,3.17,PRV004,PRV016,15,66,19,19.06,20.12,Promedio,5029.35,661
+PROD0352,SN-7926-winb,Mondelez Oreo 117g,paquete,Abarrotes,Oreo,22.87,29.78,32.62,34.16,1.04,PRV018,PRV015,17,197,193,21.58,22.23,FIFO,3727.05,945
+PROD0353,SN-1118-dmTf,Mondelez Oreo 117g,paquete,Abarrotes,Oreo,21.5,24.47,30.99,35.6,2.73,PRV018,PRV007,13,176,117,20.59,21.05,Ultimo,9769.26,457
+PROD0354,SN-5495-yiaD,Sigma Salchicha Viena 500g,paquete,Abarrotes,Salchicha Viena,20.63,26.4,33.57,38.38,2.66,PRV010,PRV017,6,140,46,19.52,20.07,Promedio,6852.34,128
+PROD0355,SN-9851-MKvC,La Costeña Frijoles Negros 560g,paquete,Abarrotes,Frijoles Negros,21.96,27.88,31.58,35.81,2.22,PRV005,PRV005,13,122,67,20.62,21.29,Ultimo,9938.53,979
+PROD0356,SN-3544-QcqD,Jumex Néctar Durazno 1L,pieza,Bebidas,Néctar Durazno,14.71,19.04,21.65,25.0,2.51,PRV013,PRV002,12,175,22,13.95,14.33,Promedio,5758.52,903
+PROD0357,SN-4622-HZDJ,Grupo Modelo Corona 355ml,paquete,Bebidas,Corona,16.96,20.01,27.27,31.79,3.31,PRV020,PRV020,19,197,27,16.43,16.7,Ultimo,6314.87,58
+PROD0358,SN-0091-PUxm,Unilever Desodorante Rexona 150ml,paquete,Abarrotes,Desodorante Rexona,13.94,18.56,23.88,27.7,0.94,PRV014,PRV001,7,187,86,11.74,12.84,FIFO,9816.0,561
+PROD0359,SN-3120-dLRP,Bimbo Pan Integral 680g,paquete,Abarrotes,Pan Integral,17.79,25.55,28.31,31.16,2.74,PRV002,PRV002,20,156,77,16.45,17.12,Ultimo,4414.25,350
+PROD0360,SN-0082-Sgav,Unilever Desodorante Rexona 150ml,paquete,Abarrotes,Desodorante Rexona,19.16,23.48,30.86,32.75,3.02,PRV014,PRV006,19,82,36,17.05,18.11,Promedio,4766.09,59
+PROD0361,SN-1648-lNMR,Jumex Néctar Mango 1L,pieza,Bebidas,Néctar Mango,12.3,14.12,20.18,21.78,2.72,PRV013,PRV019,18,80,58,10.11,11.21,Promedio,6645.08,622
+PROD0362,SN-5641-CdrN,Mars Snickers 50g,paquete,Abarrotes,Snickers,23.89,29.01,32.94,39.32,2.41,PRV016,PRV008,18,128,21,22.55,23.22,Ultimo,3589.38,722
+PROD0363,SN-6839-zFkl,Bimbo Pan Integral 680g,paquete,Abarrotes,Pan Integral,10.86,18.47,25.43,28.04,1.44,PRV002,PRV002,8,118,110,10.09,10.47,Ultimo,9223.45,636
+PROD0364,SN-9996-mOea,Sigma Salchicha Viena 500g,paquete,Abarrotes,Salchicha Viena,13.0,15.97,17.91,22.95,1.03,PRV010,PRV010,14,95,28,11.08,12.04,Ultimo,7775.87,175
+PROD0365,SN-6459-iDQD,Kimberly Clark Servilletas 200pzas,pieza,Abarrotes,Servilletas,24.07,30.58,33.42,36.32,2.14,PRV015,PRV015,9,98,80,22.45,23.26,FIFO,4416.94,848
+PROD0366,SN-5695-JRFk,Bimbo Pan Integral 680g,paquete,Abarrotes,Pan Integral,24.48,26.02,33.88,40.3,1.29,PRV002,PRV002,12,167,114,23.18,23.83,Ultimo,9534.81,390
+PROD0367,SN-0185-XrFT,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,22.26,29.2,30.71,38.07,1.76,PRV002,PRV013,10,94,37,21.73,22.0,FIFO,9430.33,957
+PROD0368,SN-0159-WrSF,Coca-Cola Refresco 600ml,paquete,Bebidas,Refresco,21.0,26.78,28.34,30.36,2.3,PRV001,PRV019,19,181,140,19.73,20.37,Promedio,2546.71,520
+PROD0369,SN-3687-vBBq,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,22.04,28.79,34.14,37.27,2.58,PRV005,PRV005,9,165,47,20.68,21.36,Promedio,4580.17,470
+PROD0370,SN-6048-KpLg,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,10.92,14.26,21.77,26.29,2.87,PRV014,PRV013,17,100,43,8.56,9.74,FIFO,6634.89,828
+PROD0371,SN-6381-AHuV,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,14.85,18.7,20.99,24.86,2.01,PRV002,PRV002,12,187,69,12.97,13.91,Promedio,7566.02,577
+PROD0372,SN-5035-bSiQ,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,10.51,16.51,21.05,26.23,1.88,PRV005,PRV005,13,64,45,9.96,10.23,FIFO,3817.89,381
+PROD0373,SN-8664-pjLd,Herdez Salsa Roja 210g,paquete,Abarrotes,Salsa Roja,24.82,31.73,35.08,41.57,2.52,PRV012,PRV018,5,73,19,23.03,23.93,FIFO,235.57,652
+PROD0374,SN-7727-ivLM,Unilever Desodorante Rexona 150ml,paquete,Abarrotes,Desodorante Rexona,14.5,21.69,29.32,37.01,1.37,PRV014,PRV007,8,171,148,13.21,13.86,Promedio,5248.63,468
+PROD0375,SN-0769-ZaVg,Herdez Salsa Verde 210g,paquete,Abarrotes,Salsa Verde,18.11,22.37,30.05,37.61,0.72,PRV012,PRV012,16,123,57,17.07,17.59,Ultimo,7299.78,21
+PROD0376,SN-4826-ymRj,Grupo Modelo Corona 355ml,paquete,Bebidas,Corona,15.33,20.59,23.43,24.74,3.11,PRV020,PRV012,15,61,41,12.89,14.11,Promedio,9122.68,490
+PROD0377,SN-1679-hHmv,Jumex Néctar Mango 1L,pieza,Bebidas,Néctar Mango,11.93,13.02,19.83,22.41,2.54,PRV013,PRV010,9,58,33,10.35,11.14,Promedio,5645.08,340
+PROD0378,SN-4147-ixug,Sabritas Papas 170g,paquete,Abarrotes,Papas,18.49,24.87,27.79,35.29,2.67,PRV009,PRV009,19,157,41,17.49,17.99,FIFO,8905.81,709
+PROD0379,SN-4121-vNwe,Coca-Cola Refresco 2L,pieza,Bebidas,Refresco,16.42,23.85,30.56,38.19,1.9,PRV001,PRV003,14,134,80,14.73,15.58,Promedio,6453.93,412
+PROD0380,SN-1274-Pyoc,Mondelez Oreo 117g,paquete,Abarrotes,Oreo,10.75,15.63,20.03,22.94,1.42,PRV018,PRV018,9,126,25,8.75,9.75,Ultimo,8098.84,360
+PROD0381,SN-6998-ruqZ,Barcel Takis Fuego 62g,paquete,Abarrotes,Takis Fuego,21.72,25.14,32.24,39.7,1.51,PRV008,PRV008,19,84,35,20.78,21.25,Promedio,6230.39,194
+PROD0382,SN-2686-KTOU,Kimberly Clark Papel Higiénico 4pzas,pieza,Abarrotes,Papel Higiénico,22.11,23.95,29.01,35.49,0.96,PRV015,PRV003,5,156,130,21.49,21.8,Promedio,3605.2,467
+PROD0383,SN-6077-CDpa,Pepsi Refresco 600ml,paquete,Bebidas,Refresco,14.36,20.61,25.42,30.84,1.41,PRV003,PRV003,11,101,40,11.95,13.15,Promedio,1021.94,810
+PROD0384,SN-9375-Ljoy,Kimberly Clark Papel Higiénico 4pzas,pieza,Abarrotes,Papel Higiénico,18.79,24.55,28.51,33.58,2.96,PRV015,PRV015,17,152,114,16.56,17.67,FIFO,7910.66,321
+PROD0385,SN-8895-FFQf,Lala Leche Entera 1L,pieza,Abarrotes,Leche Entera,15.03,19.14,26.08,33.02,1.29,PRV007,PRV007,14,109,41,13.27,14.15,Ultimo,6033.7,466
+PROD0386,SN-0692-YgBg,Lala Leche Entera 1L,pieza,Abarrotes,Leche Entera,11.74,14.43,18.07,24.09,3.35,PRV007,PRV007,9,88,41,10.52,11.13,Ultimo,6881.66,202
+PROD0387,SN-1393-AiUN,Coca-Cola Refresco 600ml,paquete,Bebidas,Refresco,11.17,16.2,22.83,29.69,0.7,PRV001,PRV001,15,194,169,9.92,10.54,FIFO,8145.23,655
+PROD0388,SN-0161-ifVo,Mars Snickers 50g,paquete,Abarrotes,Snickers,23.67,25.0,27.92,30.72,3.11,PRV016,PRV005,15,59,51,22.88,23.27,Ultimo,4710.22,171
+PROD0389,SN-1133-UsPt,Bimbo Pan Integral 680g,paquete,Abarrotes,Pan Integral,16.2,21.96,26.87,28.63,2.49,PRV002,PRV002,7,197,46,15.24,15.72,FIFO,3570.07,642
+PROD0390,SN-9209-mfjk,Mondelez Trident 14g,paquete,Abarrotes,Trident,21.32,24.43,31.78,39.09,1.34,PRV018,PRV005,9,106,60,20.23,20.77,Promedio,8259.34,179
+PROD0391,SN-9912-OKBU,Coca-Cola Refresco 600ml,paquete,Bebidas,Refresco,12.66,17.14,20.38,26.87,3.46,PRV001,PRV001,5,199,166,10.99,11.82,FIFO,3252.53,79
+PROD0392,SN-6501-GJbk,Sigma Salchicha Viena 500g,paquete,Abarrotes,Salchicha Viena,20.36,21.68,27.5,30.79,1.17,PRV010,PRV010,15,60,28,18.15,19.25,FIFO,909.95,686
+PROD0393,SN-0781-dJgZ,Herdez Salsa Roja 210g,paquete,Abarrotes,Salsa Roja,16.57,18.68,25.18,29.54,3.31,PRV012,PRV012,8,88,38,15.64,16.11,FIFO,6028.71,826
+PROD0394,SN-5773-OoKK,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,24.82,30.38,37.47,45.35,3.34,PRV007,PRV007,18,101,46,23.84,24.33,FIFO,2080.19,829
+PROD0395,SN-8845-SFCR,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,20.49,24.42,26.35,32.32,2.02,PRV002,PRV002,12,129,116,18.05,19.27,Ultimo,5912.89,313
+PROD0396,SN-9344-dfMn,Jumex Néctar Durazno 1L,pieza,Bebidas,Néctar Durazno,18.54,24.65,29.85,32.28,0.99,PRV013,PRV010,15,147,38,17.06,17.8,Promedio,8683.97,321
+PROD0397,SN-5716-mPGk,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,19.38,26.38,28.94,31.42,2.22,PRV005,PRV005,11,132,16,18.15,18.77,Promedio,605.0,697
+PROD0398,SN-0252-qcHy,Bimbo Pan Integral 680g,paquete,Abarrotes,Pan Integral,17.59,24.74,27.67,30.59,1.09,PRV002,PRV002,7,149,70,16.8,17.2,Promedio,9841.96,89
+PROD0399,SN-6828-qaoZ,Alpura Leche Deslactosada 1L,pieza,Abarrotes,Leche Deslactosada,18.83,23.2,26.04,29.55,2.56,PRV011,PRV011,6,70,31,17.19,18.01,FIFO,6930.8,664
+PROD0400,SN-9899-EUSq,Colgate Pasta Dental 75ml,paquete,Abarrotes,Pasta Dental,16.39,21.6,27.39,32.04,1.42,PRV017,PRV001,17,135,98,14.65,15.52,Ultimo,1679.06,985
+PROD0401,SN-2569-WiFC,Pepsi Refresco 2L,pieza,Bebidas,Refresco,14.82,22.19,23.84,31.79,3.19,PRV003,PRV003,10,146,21,14.12,14.47,Ultimo,7771.76,793
+PROD0402,SN-5180-XzcO,Barcel Takis Fuego 62g,paquete,Abarrotes,Takis Fuego,19.22,24.35,31.49,34.97,2.96,PRV008,PRV008,16,124,31,18.43,18.82,Ultimo,3826.09,705
+PROD0403,SN-9585-oxjb,Kimberly Clark Papel Higiénico 4pzas,pieza,Abarrotes,Papel Higiénico,18.84,24.13,27.6,31.8,3.15,PRV015,PRV015,15,145,62,16.59,17.71,FIFO,9122.48,417
+PROD0404,SN-2023-DoCk,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,12.48,14.64,21.26,25.17,2.44,PRV002,PRV002,10,137,30,10.6,11.54,Promedio,1675.44,882
+PROD0405,SN-7106-NdMQ,Coca-Cola Refresco 2L,pieza,Bebidas,Refresco,10.83,12.78,19.47,22.04,2.58,PRV001,PRV017,13,168,33,8.82,9.82,Promedio,4578.36,735
+PROD0406,SN-4303-VSLx,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,11.31,17.12,23.65,29.79,0.56,PRV014,PRV018,7,192,124,8.97,10.14,Ultimo,1097.49,687
+PROD0407,SN-7030-EfwG,Jumex Néctar Durazno 1L,pieza,Bebidas,Néctar Durazno,12.76,19.79,24.23,26.73,1.6,PRV013,PRV003,7,107,83,11.98,12.37,Ultimo,5535.79,756
+PROD0408,SN-0005-XgBr,Grupo Modelo Corona 355ml,paquete,Bebidas,Corona,14.84,19.77,25.67,27.2,0.5,PRV020,PRV004,5,193,161,12.63,13.73,Ultimo,4077.53,62
+PROD0409,SN-7865-MIXA,Pepsi Refresco 600ml,paquete,Bebidas,Refresco,16.52,19.95,25.75,30.09,1.23,PRV003,PRV003,12,71,27,15.71,16.12,Promedio,3625.58,403
+PROD0410,SN-6496-TEiF,Kimberly Clark Servilletas 200pzas,pieza,Abarrotes,Servilletas,19.02,23.07,25.63,29.29,1.12,PRV015,PRV015,9,145,64,17.01,18.02,Ultimo,3441.43,82
+PROD0411,SN-3453-Qtqe,La Costeña Frijoles Negros 560g,paquete,Abarrotes,Frijoles Negros,22.78,24.3,25.38,30.59,2.41,PRV005,PRV010,5,170,165,20.48,21.63,FIFO,6006.22,262
+PROD0412,SN-7907-IfLz,Nestlé Leche Condensada 387g,paquete,Abarrotes,Leche Condensada,11.24,13.28,15.29,21.14,2.92,PRV004,PRV004,6,108,108,10.37,10.8,Promedio,2274.58,598
+PROD0413,SN-0682-VJGp,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,13.7,20.07,25.27,29.29,1.33,PRV007,PRV007,19,105,23,11.92,12.81,Ultimo,2328.79,517
+PROD0414,SN-5810-lStP,Gamesa Galletas Emperador 100g,paquete,Abarrotes,Galletas Emperador,10.09,15.91,18.91,23.98,1.5,PRV006,PRV006,20,99,94,8.75,9.42,Promedio,9118.46,771
+PROD0415,SN-3974-ZNRD,Pepsi Refresco 600ml,paquete,Bebidas,Refresco,19.75,24.78,28.07,29.43,3.01,PRV003,PRV003,5,170,14,17.88,18.81,Ultimo,715.01,972
+PROD0416,SN-0017-TxQM,Mondelez Trident 14g,paquete,Abarrotes,Trident,19.96,24.94,26.49,30.48,0.66,PRV018,PRV018,10,79,16,18.53,19.25,FIFO,3325.07,748
+PROD0417,SN-4230-auzu,Jumex Néctar Durazno 1L,pieza,Bebidas,Néctar Durazno,15.15,22.46,28.29,34.96,0.66,PRV013,PRV011,20,107,24,12.66,13.91,Promedio,2901.39,904
+PROD0418,SN-5440-qVKa,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,21.09,27.6,34.11,37.27,1.93,PRV002,PRV002,13,147,116,19.24,20.16,FIFO,5351.3,303
+PROD0419,SN-7764-mMOe,Lala Leche Entera 1L,pieza,Abarrotes,Leche Entera,12.36,18.52,23.14,29.08,1.73,PRV007,PRV004,20,166,56,10.53,11.45,Ultimo,9851.84,688
+PROD0420,SN-3059-eeku,Sabritas Papas 45g,paquete,Abarrotes,Papas,10.76,13.39,17.07,19.03,3.45,PRV009,PRV009,18,105,70,10.07,10.41,Ultimo,1608.77,787
+PROD0421,SN-3831-ChZI,Kimberly Clark Servilletas 200pzas,pieza,Abarrotes,Servilletas,10.1,17.93,20.18,22.46,3.24,PRV015,PRV011,18,159,155,7.8,8.95,Ultimo,9101.72,343
+PROD0422,SN-2410-rmwl,Alpura Leche Deslactosada 1L,pieza,Abarrotes,Leche Deslactosada,13.02,19.94,24.86,28.71,1.65,PRV011,PRV011,9,87,63,12.01,12.52,Ultimo,1555.79,126
+PROD0423,SN-2841-BWHL,Sigma Jamón Virginia 250g,paquete,Abarrotes,Jamón Virginia,14.01,17.16,21.27,27.91,1.98,PRV010,PRV010,15,198,163,13.04,13.52,Ultimo,203.98,305
+PROD0424,SN-3815-oVtI,Mars Snickers 50g,paquete,Abarrotes,Snickers,22.92,26.77,34.25,36.57,1.71,PRV016,PRV007,7,152,44,20.46,21.69,FIFO,5577.24,418
+PROD0425,SN-0857-oLHO,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,14.68,20.53,25.74,28.21,2.36,PRV014,PRV014,15,184,55,13.44,14.06,Promedio,233.46,874
+PROD0426,SN-2337-kIXS,Gamesa Galletas Marias 170g,paquete,Abarrotes,Galletas Marias,19.44,24.11,26.38,32.12,3.2,PRV006,PRV020,14,76,33,17.47,18.45,Ultimo,9801.71,106
+PROD0427,SN-4858-GJxT,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,24.14,29.51,31.03,34.33,0.69,PRV014,PRV014,10,142,27,22.69,23.41,Ultimo,9642.89,331
+PROD0428,SN-0063-bwZI,Mondelez Trident 14g,paquete,Abarrotes,Trident,18.52,22.98,29.49,37.27,3.0,PRV018,PRV006,14,74,59,17.19,17.86,FIFO,9120.69,787
+PROD0429,SN-5287-vQsi,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,18.36,22.8,30.07,36.86,1.37,PRV014,PRV014,16,153,19,16.12,17.24,FIFO,2875.32,690
+PROD0430,SN-0833-EreQ,Gamesa Galletas Emperador 100g,paquete,Abarrotes,Galletas Emperador,22.53,28.24,29.85,35.53,2.46,PRV006,PRV006,12,62,47,21.82,22.18,Ultimo,7372.16,571
+PROD0431,SN-4188-OQMw,Alpura Leche Deslactosada 1L,pieza,Abarrotes,Leche Deslactosada,12.25,14.31,19.19,25.86,2.89,PRV011,PRV001,9,200,147,11.39,11.82,Promedio,7363.32,243
+PROD0432,SN-7032-uWkg,Herdez Salsa Roja 210g,paquete,Abarrotes,Salsa Roja,24.82,28.17,32.13,38.24,3.01,PRV012,PRV003,15,168,161,23.18,24.0,Promedio,3267.79,654
+PROD0433,SN-1180-gFkH,Unilever Desodorante Rexona 150ml,paquete,Abarrotes,Desodorante Rexona,23.71,25.64,26.87,32.55,1.86,PRV014,PRV014,16,197,138,23.03,23.37,FIFO,8894.2,894
+PROD0434,SN-2060-vOUM,Alpura Leche Deslactosada 1L,pieza,Abarrotes,Leche Deslactosada,17.39,20.42,28.37,31.65,3.32,PRV011,PRV009,9,108,40,14.96,16.18,FIFO,2025.98,975
+PROD0435,SN-1742-pngA,Colgate Cepillo Dental 1pza,pieza,Abarrotes,Cepillo Dental,12.97,14.38,19.87,23.62,2.82,PRV017,PRV017,10,82,41,12.14,12.55,Ultimo,9202.81,996
+PROD0436,SN-6217-gqJb,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,23.54,28.14,29.8,33.64,0.55,PRV014,PRV014,14,96,87,22.13,22.84,FIFO,6310.51,141
+PROD0437,SN-2337-ugIC,La Costeña Frijoles Negros 560g,paquete,Abarrotes,Frijoles Negros,11.18,14.41,16.6,24.43,2.74,PRV005,PRV016,19,75,29,10.32,10.75,Promedio,5367.75,153
+PROD0438,SN-8780-xdTm,Bimbo Pan Integral 680g,paquete,Abarrotes,Pan Integral,18.41,23.86,25.71,32.16,0.92,PRV002,PRV006,11,102,27,16.88,17.64,Promedio,1474.73,35
+PROD0439,SN-0067-eCkW,Mondelez Trident 14g,paquete,Abarrotes,Trident,14.1,16.13,17.43,25.29,1.89,PRV018,PRV007,5,95,43,12.78,13.44,FIFO,4966.9,117
+PROD0440,SN-5176-eqGa,Unilever Desodorante Rexona 150ml,paquete,Abarrotes,Desodorante Rexona,20.33,21.6,23.18,28.89,2.33,PRV014,PRV016,6,105,92,19.7,20.02,FIFO,8349.72,214
+PROD0441,SN-5450-eRQt,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,24.92,27.07,33.66,37.05,0.77,PRV007,PRV016,12,108,72,22.83,23.88,Ultimo,1943.74,921
+PROD0442,SN-2926-WPmH,Mondelez Oreo 117g,paquete,Abarrotes,Oreo,10.21,16.83,19.5,22.17,2.4,PRV018,PRV013,10,169,73,9.16,9.69,Promedio,1586.22,538
+PROD0443,SN-0431-ljRo,Colgate Pasta Dental 75ml,paquete,Abarrotes,Pasta Dental,21.92,26.41,30.01,33.55,1.02,PRV017,PRV017,18,99,41,21.17,21.55,FIFO,4877.25,100
+PROD0444,SN-8941-nkmr,Nestlé Leche Condensada 387g,paquete,Abarrotes,Leche Condensada,16.24,21.96,26.74,33.39,2.67,PRV004,PRV004,7,134,103,15.7,15.97,Promedio,3418.64,708
+PROD0445,SN-7423-qSoX,Grupo Modelo Corona 355ml,paquete,Bebidas,Corona,20.13,26.44,28.5,34.39,2.87,PRV020,PRV020,6,55,36,18.97,19.55,Promedio,7468.64,453
+PROD0446,SN-3472-ydtC,Gamesa Galletas Emperador 100g,paquete,Abarrotes,Galletas Emperador,22.06,25.14,32.98,36.45,2.94,PRV006,PRV007,20,96,39,19.7,20.88,Ultimo,6413.26,694
+PROD0447,SN-0539-zitv,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,21.75,24.36,29.51,31.99,0.85,PRV002,PRV002,5,155,46,20.73,21.24,FIFO,1836.58,858
+PROD0448,SN-1388-aPvz,La Costeña Frijoles Negros 560g,paquete,Abarrotes,Frijoles Negros,20.17,26.39,33.87,40.89,1.44,PRV005,PRV017,15,166,38,18.88,19.52,FIFO,2949.96,900
+PROD0449,SN-4782-KMgF,Gamesa Galletas Marias 170g,paquete,Abarrotes,Galletas Marias,20.24,27.08,33.16,34.18,2.3,PRV006,PRV006,20,54,34,19.07,19.66,FIFO,3306.65,910
+PROD0450,SN-6881-gnfl,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,18.39,23.38,29.5,36.6,3.13,PRV005,PRV005,7,193,70,16.01,17.2,FIFO,6507.32,774
+PROD0451,SN-5061-aMuh,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,10.99,12.34,14.33,17.45,1.16,PRV005,PRV005,18,165,115,9.55,10.27,FIFO,9246.82,185
+PROD0452,SN-7519-WUao,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,20.74,28.15,34.74,36.87,2.59,PRV014,PRV014,19,187,163,18.5,19.62,Ultimo,7625.11,802
+PROD0453,SN-2344-JlBO,Lala Leche Entera 1L,pieza,Abarrotes,Leche Entera,19.49,22.82,26.53,33.36,3.07,PRV007,PRV007,7,135,91,18.41,18.95,Promedio,1980.51,214
+PROD0454,SN-6827-AYhk,Pepsi Refresco 600ml,paquete,Bebidas,Refresco,11.26,18.39,22.04,25.23,1.87,PRV003,PRV003,5,145,65,9.55,10.41,Ultimo,1519.16,35
+PROD0455,SN-4563-pTXp,Sigma Salchicha Viena 500g,paquete,Abarrotes,Salchicha Viena,24.07,28.65,35.61,37.81,1.16,PRV010,PRV010,11,175,156,22.75,23.41,Ultimo,9749.24,669
+PROD0456,SN-2681-NZdS,Grupo Modelo Corona 355ml,paquete,Bebidas,Corona,24.53,31.95,35.59,38.81,1.8,PRV020,PRV020,8,199,36,23.65,24.09,FIFO,711.63,383
+PROD0457,SN-8943-bHrx,Gamesa Galletas Emperador 100g,paquete,Abarrotes,Galletas Emperador,22.46,25.54,31.7,39.36,1.83,PRV006,PRV017,17,116,112,20.77,21.62,Promedio,6981.24,164
+PROD0458,SN-4954-cvaI,Coca-Cola Refresco 2L,pieza,Bebidas,Refresco,19.22,26.19,32.19,34.41,0.8,PRV001,PRV001,10,74,46,17.27,18.24,FIFO,6235.91,383
+PROD0459,SN-0436-Rbrn,Mars M&M 45g,paquete,Abarrotes,M&M,21.65,24.46,29.85,31.13,1.77,PRV016,PRV017,5,134,17,20.93,21.29,Promedio,2272.65,54
+PROD0460,SN-8689-hdUs,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,12.26,19.38,27.11,29.81,2.25,PRV002,PRV002,8,62,15,11.67,11.96,Promedio,5678.21,501
+PROD0461,SN-5867-IVTk,Colgate Cepillo Dental 1pza,pieza,Abarrotes,Cepillo Dental,24.88,30.72,36.6,41.77,0.84,PRV017,PRV017,6,183,81,22.46,23.67,FIFO,7866.91,465
+PROD0462,SN-1547-cTrr,Mars M&M 45g,paquete,Abarrotes,M&M,17.72,23.34,29.84,32.38,2.86,PRV016,PRV018,10,164,30,16.78,17.25,Ultimo,345.81,282
+PROD0463,SN-5238-CVtq,Jumex Néctar Durazno 1L,pieza,Bebidas,Néctar Durazno,23.64,31.36,36.1,44.02,2.9,PRV013,PRV004,9,83,41,21.46,22.55,Promedio,7488.44,862
+PROD0464,SN-2352-OHpy,Lala Leche Entera 1L,pieza,Abarrotes,Leche Entera,19.02,24.6,27.04,28.99,3.15,PRV007,PRV012,17,147,82,17.11,18.06,FIFO,3687.82,773
+PROD0465,SN-5867-RplM,Coca-Cola Refresco 2L,pieza,Bebidas,Refresco,20.26,21.63,29.44,33.78,3.23,PRV001,PRV001,6,99,16,19.68,19.97,Ultimo,9961.95,633
+PROD0466,SN-2520-kLHN,Mars Snickers 50g,paquete,Abarrotes,Snickers,11.95,14.31,18.53,21.19,0.72,PRV016,PRV016,14,134,62,10.42,11.18,FIFO,7180.59,859
+PROD0467,SN-8967-oeIH,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,24.43,27.82,29.73,34.54,1.13,PRV002,PRV015,19,109,48,23.83,24.13,FIFO,6965.52,88
+PROD0468,SN-6003-uIzw,Mars Snickers 50g,paquete,Abarrotes,Snickers,10.89,18.25,24.91,31.39,1.93,PRV016,PRV002,15,95,87,10.23,10.56,FIFO,8035.8,176
+PROD0469,SN-1962-JDmA,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,23.54,28.28,35.87,42.51,1.99,PRV007,PRV007,7,169,96,22.92,23.23,Promedio,1557.15,643
+PROD0470,SN-0682-TsbF,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,21.25,29.18,35.5,38.77,2.24,PRV007,PRV012,10,166,140,19.6,20.43,Promedio,379.76,144
+PROD0471,SN-4022-jumD,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,13.33,20.73,27.97,29.35,3.25,PRV014,PRV014,10,101,32,11.47,12.4,Ultimo,3108.81,270
+PROD0472,SN-4695-rtXP,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,16.88,21.54,24.26,28.8,0.7,PRV014,PRV016,8,179,54,15.01,15.95,Ultimo,9725.75,449
+PROD0473,SN-8018-YJOG,Sigma Jamón Virginia 250g,paquete,Abarrotes,Jamón Virginia,11.99,16.38,18.21,26.11,1.22,PRV010,PRV013,16,80,68,11.1,11.54,Promedio,3582.65,573
+PROD0474,SN-2442-EKde,Jumex Néctar Durazno 1L,pieza,Bebidas,Néctar Durazno,14.54,21.2,29.06,30.69,2.57,PRV013,PRV017,16,112,93,13.02,13.78,Promedio,7391.75,418
+PROD0475,SN-2053-UJsG,Mondelez Oreo 117g,paquete,Abarrotes,Oreo,20.16,21.53,28.81,31.52,2.84,PRV018,PRV012,13,52,30,17.85,19.01,Ultimo,2610.88,512
+PROD0476,SN-9730-sdeq,Lala Leche Light 1L,pieza,Abarrotes,Leche Light,19.75,26.66,32.09,37.11,0.57,PRV007,PRV001,17,169,151,17.68,18.71,Promedio,8047.48,870
+PROD0477,SN-9170-vyAb,Kimberly Clark Papel Higiénico 4pzas,pieza,Abarrotes,Papel Higiénico,24.44,31.29,38.93,44.44,0.69,PRV015,PRV015,13,168,72,23.0,23.72,FIFO,2289.12,895
+PROD0478,SN-3021-UzRY,Heineken Tecate 355ml,paquete,Bebidas,Tecate,18.76,21.35,25.04,26.9,2.27,PRV019,PRV001,5,136,75,17.52,18.14,Promedio,1595.95,788
+PROD0479,SN-6238-YAWQ,Sabritas Papas 170g,paquete,Abarrotes,Papas,11.46,15.45,18.7,23.1,2.14,PRV009,PRV009,18,197,111,10.29,10.88,FIFO,3177.61,92
+PROD0480,SN-6474-LFjJ,Sigma Salchicha Viena 500g,paquete,Abarrotes,Salchicha Viena,21.71,23.91,26.49,30.64,2.91,PRV010,PRV010,13,105,66,19.9,20.8,Ultimo,8270.23,789
+PROD0481,SN-3428-Drmy,Pepsi Refresco 600ml,paquete,Bebidas,Refresco,12.15,18.05,21.54,28.22,2.9,PRV003,PRV016,18,56,21,10.9,11.53,Ultimo,4525.09,280
+PROD0482,SN-2165-xtBX,Sigma Salchicha Viena 500g,paquete,Abarrotes,Salchicha Viena,10.34,11.42,18.31,22.31,2.01,PRV010,PRV018,15,130,61,8.67,9.5,Ultimo,1293.67,649
+PROD0483,SN-8130-PtQL,Barcel Takis Fuego 62g,paquete,Abarrotes,Takis Fuego,24.25,30.37,32.7,40.24,0.89,PRV008,PRV008,18,119,38,22.51,23.38,FIFO,7612.09,22
+PROD0484,SN-4876-sHPy,Unilever Shampoo Sedal 650ml,paquete,Abarrotes,Shampoo Sedal,24.76,31.21,38.25,41.87,3.16,PRV014,PRV014,15,131,73,23.56,24.16,FIFO,2293.01,715
+PROD0485,SN-6326-cAqQ,Sigma Jamón Virginia 250g,paquete,Abarrotes,Jamón Virginia,16.08,23.76,30.19,32.19,0.87,PRV010,PRV002,10,82,70,14.09,15.08,Promedio,1371.9,36
+PROD0486,SN-1875-QNVm,Kimberly Clark Servilletas 200pzas,pieza,Abarrotes,Servilletas,18.03,22.67,29.15,34.09,1.88,PRV015,PRV003,19,194,44,17.35,17.69,Promedio,9247.23,665
+PROD0487,SN-5618-USZZ,Mondelez Trident 14g,paquete,Abarrotes,Trident,13.26,20.35,24.68,27.27,1.33,PRV018,PRV005,15,94,45,12.31,12.79,Ultimo,265.02,943
+PROD0488,SN-8586-Qckj,Alpura Leche Deslactosada 1L,pieza,Abarrotes,Leche Deslactosada,15.44,22.44,24.8,27.8,1.17,PRV011,PRV010,12,139,79,14.4,14.92,Promedio,6926.24,485
+PROD0489,SN-5143-eEnz,Barcel Chips 50g,paquete,Abarrotes,Chips,17.17,23.45,27.48,31.29,1.25,PRV008,PRV008,11,175,168,15.7,16.44,FIFO,6236.83,739
+PROD0490,SN-3713-ZeiE,Coca-Cola Refresco 2L,pieza,Bebidas,Refresco,23.03,27.93,33.48,40.15,0.55,PRV001,PRV001,11,153,43,21.11,22.07,FIFO,9093.17,566
+PROD0491,SN-7398-LXap,La Costeña Chiles Jalapeños 220g,paquete,Abarrotes,Chiles Jalapeños,17.01,21.73,28.9,32.93,2.9,PRV005,PRV013,16,125,105,14.84,15.93,Ultimo,2778.82,244
+PROD0492,SN-9421-vxIo,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,14.32,19.05,23.82,26.31,1.08,PRV002,PRV018,17,124,24,12.46,13.39,FIFO,8531.48,398
+PROD0493,SN-6638-SPwm,Bimbo Pan Blanco 680g,paquete,Abarrotes,Pan Blanco,24.95,29.34,31.87,33.68,2.99,PRV002,PRV006,20,182,67,23.54,24.24,Promedio,3277.44,930
+PROD0494,SN-5121-AaCU,Mondelez Trident 14g,paquete,Abarrotes,Trident,12.64,16.14,18.24,19.45,2.57,PRV018,PRV018,6,190,188,10.24,11.44,Ultimo,8792.12,948
+PROD0495,SN-2019-GVtS,Lala Leche Entera 1L,pieza,Abarrotes,Leche Entera,19.34,21.29,25.21,29.22,1.72,PRV007,PRV007,14,143,113,18.02,18.68,Promedio,175.12,820
+PROD0496,SN-2339-iziR,La Costeña Frijoles Negros 560g,paquete,Abarrotes,Frijoles Negros,19.74,26.47,33.82,40.13,1.45,PRV005,PRV017,7,98,33,18.61,19.17,FIFO,9886.82,880
+PROD0497,SN-4836-zjGB,Mondelez Oreo 117g,paquete,Abarrotes,Oreo,17.46,23.23,28.29,29.41,2.83,PRV018,PRV018,16,115,39,16.13,16.8,Promedio,5021.58,695
+PROD0498,SN-6440-cjvv,Jumex Néctar Durazno 1L,pieza,Bebidas,Néctar Durazno,13.76,14.96,21.75,26.62,2.0,PRV013,PRV011,5,59,52,11.31,12.54,Ultimo,2942.62,543
+PROD0499,SN-4543-JxLH,Colgate Cepillo Dental 1pza,pieza,Abarrotes,Cepillo Dental,13.46,20.03,21.39,29.06,0.57,PRV017,PRV017,12,94,69,11.63,12.55,Promedio,7423.97,640
+PROD0500,SN-0056-jNyI,Nestlé Leche Condensada 387g,paquete,Abarrotes,Leche Condensada,11.98,14.7,20.39,24.58,0.52,PRV004,PRV004,18,188,134,9.93,10.96,Ultimo,4694.38,72

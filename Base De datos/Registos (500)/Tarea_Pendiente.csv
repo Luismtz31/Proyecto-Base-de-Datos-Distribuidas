@@ -1,0 +1,31 @@
+ID_Tarea,Descripcion,Asignado_A,Fecha_Limite
+TAR001,Inventariar productos en bodega,EMP003,2025-07-11
+TAR002,Realizar corte de caja,EMP010,2025-07-26
+TAR003,Limpieza de área de ventas,EMP005,2025-06-23
+TAR004,Revisar fechas de caducidad,EMP018,2025-07-20
+TAR005,Atender a proveedores,EMP004,2025-07-12
+TAR006,Actualizar precios en anaqueles,EMP017,2025-06-24
+TAR007,Surtir productos faltantes,EMP013,2025-06-13
+TAR008,Preparar pedidos para reparto,EMP016,2025-07-19
+TAR009,Capacitación de nuevo personal,EMP020,2025-06-15
+TAR010,Supervisar descarga de mercancía,EMP019,2025-06-11
+TAR011,Elaborar reporte de ventas,EMP007,2025-07-25
+TAR012,Revisar sistema de seguridad,EMP009,2025-07-25
+TAR013,Atender reclamos de clientes,EMP004,2025-06-17
+TAR014,Organizar exhibición de productos,EMP014,2025-06-21
+TAR015,Revisar inventario de cajas registradoras,EMP002,2025-07-13
+TAR016,Solicitar insumos de limpieza,EMP012,2025-06-28
+TAR017,Actualizar base de datos de clientes,EMP011,2025-06-24
+TAR018,Verificar promociones vigentes,EMP007,2025-06-15
+TAR019,Coordinar entrega a domicilio,EMP007,2025-06-24
+TAR020,Revisar estado de vehículos de reparto,EMP015,2025-06-06
+TAR021,Elaborar plan de ventas semanal,EMP020,2025-07-21
+TAR022,Supervisar horarios de empleados,EMP008,2025-06-12
+TAR023,Revisar pedidos pendientes,EMP008,2025-06-03
+TAR024,Atender auditoría interna,EMP009,2025-06-27
+TAR025,Actualizar cartelera de ofertas,EMP008,2025-07-26
+TAR026,Revisar stock de productos refrigerados,EMP015,2025-07-15
+TAR027,Coordinar inventario anual,EMP008,2025-06-26
+TAR028,Supervisar limpieza de almacén,EMP004,2025-07-04
+TAR029,Revisar cumplimiento de normas sanitarias,EMP005,2025-07-10
+TAR030,Elaborar reporte de incidencias,EMP012,2025-06-17

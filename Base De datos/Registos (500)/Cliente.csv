@@ -1,0 +1,501 @@
+ID_Cliente,Nombre,Correo,Telefono,Direccion,Metodo_Pago_ID
+CLI00001,María Elena Negrete,aldonzasosa@example.org,(798)429-7095x61184,"Prolongación Nicaragua 679 292, Aguascalientes, Ags.Nueva Malta, HGO 01405",MPGO04
+CLI00002,Cornelio María Eugenia Jasso,cvazquez@example.org,(901)575-2275x9618,"Circuito Venezuela 515 Interior 559, Aguascalientes, Ags.Vieja Japón, BCS 06843",MPGO04
+CLI00003,Susana Israel del Río Hernádez,colungaangel@example.org,261-883-7784,"Circunvalación Norte Ybarra 546 916, Aguascalientes, Ags.Vieja Italia, CAMP 35940",MPGO02
+CLI00004,Patricio Benítez,valverdealvaro@example.com,1-733-157-2489x90722,"Diagonal Norte Romo 253 671, Aguascalientes, Ags.Nueva Indonesia, PUE 23474-5966",MPGO02
+CLI00005,Luis Manuel Óliver Ortega Alonzo,normagarrido@example.org,(953)859-8778x1088,"Ampliación Georgia 353 Interior 656, Aguascalientes, Ags.Nueva Cabo Verde, ZAC 07700",MPGO03
+CLI00006,Mateo Benavídez Salazar,gabriela33@example.net,(115)667-4543,"Boulevard Sur Almonte 183 684, Aguascalientes, Ags.San Gabriel los altos, NAY 38353",MPGO03
+CLI00007,Mtro. Cristal Nájera,amanda52@example.net,842.622.3263x8439,"Avenida Norte Alba 807 Edif. 629 , Depto. 362, Aguascalientes, Ags.Vieja Honduras, DF 62109",MPGO02
+CLI00008,Socorro Lucía Meraz,gustavo31@example.net,600.309.0118,"Eje vial Norte Nájera 024 Edif. 242 , Depto. 366, Aguascalientes, Ags.Nueva Sierra Leona, SIN 86194-7551",MPGO04
+CLI00009,David Haro,xmelendez@example.com,1-375-317-9055x0896,"Calzada Puebla 484 Interior 122, Aguascalientes, Ags.Nueva Mauricio, DGO 61705-4950",MPGO02
+CLI00010,María José Federico Arellano Villareal,quinterogenaro@example.org,1-058-229-7311x319,"Viaducto Sur Cardenas 305 Edif. 966 , Depto. 899, Aguascalientes, Ags.Nueva Côte d'Ivoire, BCS 10405-0142",MPGO02
+CLI00011,Aldonza Cristian Pineda,zlerma@example.org,(883)175-4757,"Prolongación Norte Gracia 658 Edif. 852 , Depto. 386, Aguascalientes, Ags.Nueva Djibouti, YUC 38800-9300",MPGO03
+CLI00012,Carmen Amador Becerra Arevalo,espartacocantu@example.com,(906)117-8739x362,"Andador Escobedo 792 Edif. 570 , Depto. 193, Aguascalientes, Ags.San Alonso de la Montaña, QRO 64202-5031",MPGO04
+CLI00013,Sr(a). Hilda Archuleta,caballerojos@example.org,1-561-975-1351x0408,"Corredor Sur Muñoz 957 Interior 876, Aguascalientes, Ags.San Marisela los bajos, COL 17560-0187",MPGO01
+CLI00014,Mtro. Judith Ureña,cadenaignacio@example.com,(997)985-9374x7387,"Diagonal Tayikistán 744 Edif. 502 , Depto. 815, Aguascalientes, Ags.San Conchita de la Montaña, COAH 38455-7744",MPGO01
+CLI00015,Dr. Sonia Galván,odavila@example.net,993.163.4692,"Avenida Norte Mota 843 Edif. 635 , Depto. 945, Aguascalientes, Ags.San Nancy de la Montaña, BC 79314",MPGO04
+CLI00016,Paulina Estefanía Santana Granado,esparta30@example.org,(416)135-4867,"Eje vial Puebla 773 Interior 460, Aguascalientes, Ags.San Maximiliano de la Montaña, COL 05533-4755",MPGO02
+CLI00017,Cristobal Ramírez,kzamora@example.net,(649)462-1790x48334,"Peatonal Colombia 300 141, Aguascalientes, Ags.San José Manuél de la Montaña, TLAX 65445",MPGO02
+CLI00018,Ruby Espartaco del Valle,valenzuelarodolfo@example.com,727-413-5904,"Eje vial San Marino 023 572, Aguascalientes, Ags.Vieja Pakistán, QRO 33280-1040",MPGO04
+CLI00019,Carolina Camarillo Granados,obanuelos@example.com,(099)840-3694x426,"Calzada Escamilla 488 Edif. 041 , Depto. 672, Aguascalientes, Ags.Vieja Montenegro, GRO 13385",MPGO04
+CLI00020,Mtro. Gilberto Rosado,roberto35@example.org,989-530-9554x43255,"Peatonal Norte Tejeda 516 Edif. 762 , Depto. 377, Aguascalientes, Ags.Vieja Haití, TAMPS 56995-7098",MPGO01
+CLI00021,Dr. Salma Ceja,ade-la-o@example.org,149-090-0542,"Calle Norte Puga 717 Interior 276, Aguascalientes, Ags.Nueva Swazilandia, QRO 27221",MPGO03
+CLI00022,Rolando Miguel Nevárez,alfredo87@example.com,1-218-200-1908,"Avenida Vanuatu 223 Edif. 489 , Depto. 676, Aguascalientes, Ags.San Frida de la Montaña, OAX 93053",MPGO04
+CLI00023,Fidel Razo Quezada,wcalderon@example.net,(086)293-2398,"Privada Soliz 642 Edif. 183 , Depto. 241, Aguascalientes, Ags.Vieja Colombia, JAL 65540-1577",MPGO03
+CLI00024,Ofelia Espinoza Portillo,andresmendoza@example.org,300-251-4977x36701,"Callejón Ponce 362 Edif. 174 , Depto. 728, Aguascalientes, Ags.San Delia los bajos, QRO 33860-3067",MPGO01
+CLI00025,Sessa Aurora Barreto Candelaria,israel33@example.com,854-627-0711x77218,"Circuito Tabasco 819 Interior 603, Aguascalientes, Ags.San Fidel los altos, MOR 20630",MPGO02
+CLI00026,Norma Flórez,itzel77@example.org,806-599-4989x79355,"Circuito Quesada 925 Edif. 379 , Depto. 364, Aguascalientes, Ags.San Elvira de la Montaña, GTO 48814",MPGO01
+CLI00027,Ángela Partida Gollum,citlaliguillen@example.org,608-372-2738,"Calle Chacón 457 Interior 755, Aguascalientes, Ags.Vieja Micronesia, ZAC 73803-7616",MPGO02
+CLI00028,Diana Serna Naranjo,agustin07@example.net,05724080051,"Peatonal Tuvalu 605 Edif. 695 , Depto. 922, Aguascalientes, Ags.Vieja Eritrea, BCS 90218",MPGO03
+CLI00029,Georgina Mitzy Razo Madrigal,olgavelasco@example.org,(164)205-2305x766,"Callejón Campeche 910 Interior 158, Aguascalientes, Ags.Nueva Camboya, MOR 42263",MPGO02
+CLI00030,Fernando Gaona,wcortez@example.net,779-823-4166,"Callejón Tlaxcala 115 Edif. 857 , Depto. 109, Aguascalientes, Ags.Vieja Guinea Bissau, CAMP 69340-6828",MPGO01
+CLI00031,Conchita Lovato Archuleta,fariasmercedes@example.net,664-705-3502x0173,"Calzada Iraq 712 926, Aguascalientes, Ags.Vieja República Federal Democrática de Nepal, TAMPS 68787",MPGO03
+CLI00032,Manuel Carolina Duarte,guillerminacastaneda@example.net,(558)834-6677,"Pasaje Lituania 895 806, Aguascalientes, Ags.San Frida los altos, MOR 30352-6726",MPGO02
+CLI00033,Perla Juan Carlos Baeza,gilberto43@example.com,1-227-600-2348x3993,"Calle Sur Orosco 977 Edif. 570 , Depto. 784, Aguascalientes, Ags.San Timoteo los bajos, TLAX 12777",MPGO04
+CLI00034,Lourdes Monroy,tamayoeugenio@example.org,409.248.7013x93059,"Circuito Almanza 288 Interior 001, Aguascalientes, Ags.Nueva Antigua y Barbuda, DF 13119-8857",MPGO02
+CLI00035,Ing. Jonás Becerra,eugenio94@example.net,587-723-0290,"Eje vial Hungría 533 Edif. 933 , Depto. 401, Aguascalientes, Ags.San Josefina los bajos, BCS 14414-8454",MPGO01
+CLI00036,Eduardo Teresa de la Fuente Valdés,unaranjo@example.net,1-547-374-7776,"Diagonal Villanueva 449 Edif. 251 , Depto. 792, Aguascalientes, Ags.Nueva Rumania, CHIH 08695",MPGO03
+CLI00037,Ing. Mario Amaya,olivertellez@example.net,06616428440,"Continuación Meraz 444 704, Aguascalientes, Ags.Nueva Belarús, Q. ROO 96623-1593",MPGO04
+CLI00038,Oswaldo Rosas Abrego,cristianvillagomez@example.com,824-995-6155x757,"Pasaje Griego 772 Edif. 728 , Depto. 789, Aguascalientes, Ags.San Sergio de la Montaña, ZAC 34474-5408",MPGO01
+CLI00039,Rosa Flavio Macías,rsevilla@example.com,1-256-849-6436x576,"Continuación Leiva 003 Interior 568, Aguascalientes, Ags.San Aldo de la Montaña, MICH 65003",MPGO03
+CLI00040,Mtro. Martha Zamora,oscar79@example.org,(289)085-4074,"Boulevard Solís 197 Edif. 742 , Depto. 135, Aguascalientes, Ags.Nueva Jordania, HGO 04923",MPGO01
+CLI00041,Lic. Víctor Trejo,eangulo@example.net,142.403.1244x2784,"Privada Norte Castillo 990 049, Aguascalientes, Ags.San Francisco Javier de la Montaña, Q. ROO 62974-9238",MPGO02
+CLI00042,Eduardo Sara Arreola Zelaya,juliabenavidez@example.net,1-756-956-7071x13208,"Pasaje Sierra 738 723, Aguascalientes, Ags.Nueva Barbados, MICH 84114",MPGO02
+CLI00043,Wilfrido Gilberto Irizarry,leticia68@example.net,(041)005-7248,"Circunvalación Robles 369 649, Aguascalientes, Ags.Vieja Sri Lanka, TAB 15197-0336",MPGO04
+CLI00044,Ruby Soledad Vázquez Luna,gastelumesparta@example.com,(866)476-0176x978,"Viaducto Malawi 205 752, Aguascalientes, Ags.Nueva Sudán, QRO 87160",MPGO02
+CLI00045,Manuel González Cazares,citlalivega@example.net,1-147-050-0895,"Calzada Sur Méndez 967 Interior 362, Aguascalientes, Ags.San Nancy los bajos, PUE 70369",MPGO02
+CLI00046,Ángela Candelaria Ulloa,zgalarza@example.com,1-011-813-1396x7587,"Corredor Sur Partida 992 Interior 814, Aguascalientes, Ags.Vieja Argelia, CHIS 19213",MPGO04
+CLI00047,Luis Manuel Paredes Treviño,baguilera@example.com,891-609-5933,"Diagonal Oaxaca 382 Interior 823, Aguascalientes, Ags.Nueva Comoras, SIN 81345",MPGO04
+CLI00048,Bernabé Carrero,zvargas@example.net,(678)350-9519,"Calzada Tafoya 135 122, Aguascalientes, Ags.Nueva Emiratos Árabes Unidos, BC 47688",MPGO01
+CLI00049,Jos Javier Carrasco,rodolfo34@example.net,1-533-080-1680x04773,"Circuito Mali 352 Interior 130, Aguascalientes, Ags.San Guadalupe los bajos, BCS 90312-0073",MPGO01
+CLI00050,Ramiro Yuridia García Fierro,fuentesenrique@example.net,607.493.2171x8756,"Diagonal Veracruz de Ignacio de la Llave 391 Edif. 160 , Depto. 314, Aguascalientes, Ags.Nueva Benin, MOR 13198",MPGO01
+CLI00051,Jaime Irene Jáquez,casareslourdes@example.org,932-530-2583,"Retorno Norte Riojas 015 Edif. 413 , Depto. 443, Aguascalientes, Ags.Nueva Nicaragua, COL 95747",MPGO01
+CLI00052,Reina Carlota Gutiérrez Ballesteros,naparicio@example.org,982-495-1569x0597,"Boulevard Villegas 821 029, Aguascalientes, Ags.Vieja República Árabe Siria, ZAC 64448-3242",MPGO03
+CLI00053,Ing. María Teresa Mesa,econtreras@example.org,959.896.1599x53060,"Peatonal Italia 432 Edif. 015 , Depto. 652, Aguascalientes, Ags.Vieja Estados Unidos de América, VER 08596",MPGO04
+CLI00054,Raúl Henríquez,pcardona@example.net,03516490247,"Peatonal Tabasco 620 Interior 585, Aguascalientes, Ags.San Ernesto los altos, AGS 22695-1834",MPGO01
+CLI00055,Homero Serna Caraballo,teodorogil@example.com,598-918-5688,"Cerrada Patiño 755 Interior 174, Aguascalientes, Ags.San Diana de la Montaña, SIN 39351",MPGO02
+CLI00056,Susana Josefina Ramos Patiño,luisa38@example.org,408.434.6857,"Corredor Norte Solorio 279 239, Aguascalientes, Ags.Nueva República Centroafricana, CAMP 51113",MPGO01
+CLI00057,Omar Castellanos,moralescynthia@example.org,555-494-9061x412,"Retorno Ríos 268 978, Aguascalientes, Ags.San Nayeli los bajos, TAMPS 45988-1773",MPGO03
+CLI00058,Elena Judith Jáquez Arce,ccalderon@example.net,373.614.5526,"Andador Llamas 443 141, Aguascalientes, Ags.San Guillermo los bajos, TLAX 58712-5893",MPGO03
+CLI00059,Jorge Sauceda Bahena,mauro05@example.org,1-723-268-5837,"Boulevard Guinea 017 Edif. 211 , Depto. 521, Aguascalientes, Ags.Vieja Canadá, CHIH 77472",MPGO01
+CLI00060,Elena Noemí Campos,ferrermanuel@example.net,935.453.4312x5442,"Viaducto Sinaloa 811 Interior 673, Aguascalientes, Ags.Nueva Antigua y Barbuda, VER 72971-3208",MPGO03
+CLI00061,Ariadna Gaona,castilloruby@example.com,492-491-3176x79176,"Boulevard Afganistán 538 Interior 043, Aguascalientes, Ags.Vieja Comoras, JAL 07079",MPGO03
+CLI00062,Trinidad Gaytán Villareal,gzambrano@example.org,266.141.7795x71192,"Calzada Norte Tejada 075 Interior 309, Aguascalientes, Ags.San Tania los altos, HGO 90035-9452",MPGO04
+CLI00063,Adán Blanco Lomeli,esther44@example.org,1-321-482-4147x8904,"Avenida Norte Rosario 285 771, Aguascalientes, Ags.San Mauro de la Montaña, JAL 36775",MPGO01
+CLI00064,Guadalupe Matías Rodríguez,aidavallejo@example.org,1-309-547-6682x82892,"Privada Sur Briones 301 316, Aguascalientes, Ags.Nueva Finlandia, BCS 77395",MPGO03
+CLI00065,Mónica Olmos Alejandro,tmanzanares@example.com,802.421.3907x1388,"Continuación Norte Ordóñez 763 055, Aguascalientes, Ags.Vieja Ucrania, HGO 28805",MPGO03
+CLI00066,Josefina Fidel Armenta,isabela40@example.com,09775040962,"Privada Nieves 654 Edif. 966 , Depto. 239, Aguascalientes, Ags.Nueva Irán, QRO 96668-9297",MPGO02
+CLI00067,Jacobo Ramírez,zarchuleta@example.org,(120)412-1251x8440,"Eje vial Norte Muñoz 649 Interior 817, Aguascalientes, Ags.Vieja Uzbekistán, AGS 70740-3288",MPGO01
+CLI00068,Ilse Guzmán Rosario,noemi74@example.com,322.112.4587x85872,"Periférico Irlanda 261 Interior 640, Aguascalientes, Ags.Vieja Mónaco, ZAC 83588",MPGO01
+CLI00069,Roberto Chávez,canoarmando@example.net,+97(9)4074668207,"Andador Colima 923 Edif. 469 , Depto. 286, Aguascalientes, Ags.San Claudio los bajos, PUE 50690",MPGO03
+CLI00070,Sergio Bernabé Solorio,cervantezamelia@example.com,970.138.6070x4977,"Andador Sinaloa 286 531, Aguascalientes, Ags.San Gilberto los bajos, PUE 84342-5819",MPGO03
+CLI00071,Lorenzo Herrera,soledadregalado@example.org,05924880567,"Viaducto Sur Delgado 670 075, Aguascalientes, Ags.San Cornelio los bajos, QRO 03176-9645",MPGO02
+CLI00072,Nancy Bernardo Escalante Sepúlveda,godoygerman@example.com,366.130.1259x055,"Calzada El Salvador 228 Interior 523, Aguascalientes, Ags.San José Carlos de la Montaña, AGS 55146-0223",MPGO02
+CLI00073,Enrique Marisol Montes Nava,negronmayte@example.org,(381)493-7033x1413,"Privada San Luis Potosí 557 781, Aguascalientes, Ags.San Nicolás de la Montaña, GTO 94773-0706",MPGO03
+CLI00074,Alta  Gracia Clemente Pantoja Barreto,razoleonardo@example.org,+91(5)3427319421,"Circunvalación Noruega 520 Interior 032, Aguascalientes, Ags.San Cristobal los bajos, CHIS 98387",MPGO01
+CLI00075,Mtro. Felix Quintero,mariano63@example.org,983-829-3681x50770,"Retorno San Luis Potosí 152 Interior 062, Aguascalientes, Ags.Vieja Costa Rica, ZAC 48959-1492",MPGO02
+CLI00076,Perla Puente Duarte,diegoarmendariz@example.net,1-095-171-0579x41487,"Viaducto Rodarte 401 149, Aguascalientes, Ags.Vieja Australia, AGS 15044-6573",MPGO02
+CLI00077,Samuel Delia Ontiveros,gotero@example.net,(721)957-9430,"Retorno Coronado 462 700, Aguascalientes, Ags.Vieja Luxemburgo, DF 73961",MPGO04
+CLI00078,Sonia Tovar,pde-jesus@example.org,(060)219-1915,"Eje vial Norte Tamayo 419 Interior 598, Aguascalientes, Ags.Nueva Estados Unidos de América, MICH 25021-9167",MPGO01
+CLI00079,Paulina Benjamín Avilés,alcarazfidel@example.org,02756298700,"Prolongación Cabo Verde 694 Edif. 372 , Depto. 653, Aguascalientes, Ags.Nueva República Centroafricana, ZAC 83930-1408",MPGO04
+CLI00080,Alejandro Briseño Escobedo,pinedamariana@example.com,(765)778-0967,"Circuito Norte Carrión 951 Edif. 571 , Depto. 612, Aguascalientes, Ags.San Rodolfo de la Montaña, SLP 44639-6540",MPGO03
+CLI00081,Lucía Olivia de la Garza,vguevara@example.com,346.529.4830x303,"Calle Segura 774 Edif. 874 , Depto. 407, Aguascalientes, Ags.San Perla de la Montaña, HGO 79376-5546",MPGO02
+CLI00082,Eugenia Zamora Echeverría,haromaria-cristina@example.com,(671)109-0543,"Peatonal Campeche 582 Interior 742, Aguascalientes, Ags.Nueva Italia, CAMP 53148-8046",MPGO04
+CLI00083,Miriam María Luisa Godoy,correarodrigo@example.net,732-717-4203,"Privada Becerra 294 725, Aguascalientes, Ags.Vieja Liberia, BCS 49147",MPGO02
+CLI00084,Ing. Nelly Quiñones,oscar28@example.net,(789)206-9014x53117,"Pasaje Botswana 516 Interior 959, Aguascalientes, Ags.San Bruno los bajos, NAY 60456-0667",MPGO03
+CLI00085,Lic. Daniel Valencia,amadorlebron@example.net,442.911.7669x368,"Eje vial Girón 898 431, Aguascalientes, Ags.San Camila los altos, NAY 78623",MPGO02
+CLI00086,José Luis Portillo,perezrodolfo@example.net,+19(8)4211358364,"Andador Pabón 840 Edif. 286 , Depto. 407, Aguascalientes, Ags.San Conchita los altos, GRO 69047-2585",MPGO02
+CLI00087,Lic. Arturo Villalobos,wcaballero@example.com,376-580-0249,"Privada Islas Salomón 607 Interior 658, Aguascalientes, Ags.San Jos los bajos, TAMPS 04014-3639",MPGO02
+CLI00088,Guillermina Montoya Meraz,hinojosaclaudia@example.com,(398)934-7198x036,"Peatonal Rosas 354 638, Aguascalientes, Ags.San Aida de la Montaña, CAMP 78199-9079",MPGO04
+CLI00089,Ing. Esparta Gonzales,angelica58@example.org,(846)453-0137x491,"Boulevard Juárez 492 Edif. 610 , Depto. 965, Aguascalientes, Ags.San Juana de la Montaña, TAB 87823-5507",MPGO04
+CLI00090,Araceli Matos,jcaballero@example.net,1-206-934-6027x9209,"Circunvalación Norte Armas 622 Interior 414, Aguascalientes, Ags.San Camila de la Montaña, BCS 95045",MPGO01
+CLI00091,Julio Nieto,cristal22@example.org,275-850-3197x115,"Viaducto Sur Piña 161 Edif. 998 , Depto. 196, Aguascalientes, Ags.San Rosalia de la Montaña, DGO 89414-8825",MPGO01
+CLI00092,Fernando Pablo Fierro Melgar,luisavalles@example.net,348-583-6963x7792,"Continuación Baja California 936 Edif. 474 , Depto. 973, Aguascalientes, Ags.San Ramiro los bajos, SLP 66471-6676",MPGO03
+CLI00093,Isabela Cardenas,de-andaofelia@example.net,1-572-263-8399x6428,"Prolongación Sur Coronado 604 706, Aguascalientes, Ags.Nueva Dominicana, MOR 12972-7806",MPGO03
+CLI00094,Mtro. Ignacio Zambrano,silvanoalarcon@example.com,718.266.0948x984,"Cerrada Burgos 042 638, Aguascalientes, Ags.Nueva Sierra Leona, OAX 04613-2918",MPGO04
+CLI00095,Victoria Cornelio Alva de la Rosa,carranzamarco-antonio@example.net,1-475-652-9453,"Callejón Letonia 837 988, Aguascalientes, Ags.Nueva Djibouti, MOR 40579-1129",MPGO03
+CLI00096,José Carlos José Carlos Viera,icadena@example.com,159-083-8515x40848,"Circunvalación Escobar 658 Interior 052, Aguascalientes, Ags.Nueva Túnez, TAMPS 96249",MPGO03
+CLI00097,Manuel Leiva Ruelas,estebanrivero@example.net,(351)564-9261x613,"Privada Norte Viera 654 Edif. 084 , Depto. 907, Aguascalientes, Ags.Nueva Yemen, VER 95693",MPGO01
+CLI00098,Amelia Francisca Orosco,aparicioaraceli@example.org,022.378.7308x03869,"Eje vial Reyna 124 Interior 075, Aguascalientes, Ags.San Alejandra de la Montaña, ZAC 18805-7124",MPGO03
+CLI00099,Lourdes Cortez,mauroesquibel@example.org,01856202528,"Corredor República Dominicana 083 Interior 093, Aguascalientes, Ags.San Perla los altos, MEX 58548-0286",MPGO01
+CLI00100,Jerónimo Barela,igamez@example.net,1-652-691-2836x155,"Peatonal Domínguez 007 Edif. 940 , Depto. 283, Aguascalientes, Ags.San Ariadna los altos, DGO 39195-4887",MPGO03
+CLI00101,Adela René Fernández,manuel96@example.net,+61(3)9878932678,"Eje vial Aguascalientes 610 Edif. 572 , Depto. 248, Aguascalientes, Ags.Nueva Eslovaquia, HGO 22860-3572",MPGO01
+CLI00102,Sonia Soledad Oquendo Posada,xmelendez@example.net,1-053-297-4093x264,"Retorno Sisneros 471 Edif. 058 , Depto. 556, Aguascalientes, Ags.San Javier los altos, MEX 61441",MPGO04
+CLI00103,Vicente Puente Carmona,maderalorena@example.net,1-656-285-3554,"Prolongación Alarcón 798 416, Aguascalientes, Ags.San Sofía los altos, VER 33277",MPGO02
+CLI00104,Alfonso Peralta Bermúdez,pgarrido@example.com,092-170-5392,"Corredor Nuevo León 823 154, Aguascalientes, Ags.San Rosalia los bajos, BCS 27056",MPGO03
+CLI00105,Ricardo Martha Chávez,benavidezvictor@example.org,125.759.2965x572,"Diagonal Morelos 771 Interior 200, Aguascalientes, Ags.Vieja Gabón, HGO 69897-4443",MPGO04
+CLI00106,Horacio Nava Sanches,andrea14@example.net,+99(0)5330111147,"Boulevard Becerra 598 Edif. 713 , Depto. 743, Aguascalientes, Ags.Nueva Finlandia, QRO 72029",MPGO03
+CLI00107,Mtro. Carmen Enríquez,valenzuelaesperanza@example.net,04715339493,"Retorno Yucatán 059 Interior 703, Aguascalientes, Ags.San Reina de la Montaña, NL 66705",MPGO04
+CLI00108,Mariano Nicolás Lemus Valverde,evafranco@example.net,1-574-352-0203x21386,"Retorno Nicaragua 924 Interior 784, Aguascalientes, Ags.Vieja Tuvalu, DF 67427-0931",MPGO03
+CLI00109,Wendolin Bernardo Munguía,gomezsonia@example.net,836-473-2541x56847,"Viaducto Venezuela 242 Edif. 008 , Depto. 067, Aguascalientes, Ags.San Francisca de la Montaña, MICH 26432-8440",MPGO02
+CLI00110,Carmen Rolando Almonte,salcedoaldonza@example.com,546.810.2796,"Prolongación Querétaro 275 Edif. 269 , Depto. 718, Aguascalientes, Ags.Nueva Federación de Rusia, MICH 70018",MPGO04
+CLI00111,Lic. Carlos Munguía,juan18@example.org,(843)270-6827,"Peatonal Sur Salas 507 823, Aguascalientes, Ags.San Cristian de la Montaña, MICH 64033",MPGO01
+CLI00112,Ivonne Casillas,fabiola65@example.org,651-460-5147x08794,"Andador Norte Merino 094 Edif. 532 , Depto. 114, Aguascalientes, Ags.Vieja Jamaica, JAL 11578",MPGO03
+CLI00113,Mayte Fuentes,helenasamaniego@example.org,1-419-668-0276,"Retorno Morelos 514 Edif. 805 , Depto. 022, Aguascalientes, Ags.San Andrea de la Montaña, BC 40725-3331",MPGO04
+CLI00114,Abril Daniel Segovia,diana27@example.com,+03(0)0207960168,"Privada Sur Razo 910 394, Aguascalientes, Ags.Nueva Myanmar, MOR 62015",MPGO02
+CLI00115,Ángela Samuel Zaragoza,estela60@example.com,(241)124-2713x587,"Callejón Lira 646 366, Aguascalientes, Ags.San Karla los altos, BCS 68839",MPGO02
+CLI00116,Concepción Mario Rosas Rico,cejaeduardo@example.com,042-625-2990x2292,"Corredor Sisneros 285 730, Aguascalientes, Ags.Nueva Haití, GTO 08465",MPGO03
+CLI00117,Dr. Antonio Madera,aldonzamontemayor@example.org,765.926.7496,"Boulevard Namibia 392 Edif. 005 , Depto. 088, Aguascalientes, Ags.San Soledad los altos, TAB 21244",MPGO01
+CLI00118,Lucas Florencia Ureña Cadena,margarita27@example.net,(222)445-8349,"Circuito Norte Tamez 336 448, Aguascalientes, Ags.Vieja Camboya, MEX 97248-9292",MPGO03
+CLI00119,Victoria Tejada,ursulanarvaez@example.com,1-248-647-3335,"Cerrada Norte Collazo 985 Interior 485, Aguascalientes, Ags.Nueva Sri Lanka, TAB 55276",MPGO01
+CLI00120,Lorenzo Renato Rosales,cnoriega@example.org,1-166-940-0434,"Viaducto Camacho 660 647, Aguascalientes, Ags.Vieja Sudán del Sur, MOR 19615-1763",MPGO03
+CLI00121,Sr(a). Sonia Villaseñor,arcelia94@example.com,419.014.6070,"Diagonal Norte Arguello 354 501, Aguascalientes, Ags.Vieja San Vicente y las Granadinas, AGS 00591-0554",MPGO01
+CLI00122,Carlota Wendolin Carrera Briseño,dulcenavarro@example.com,08584338785,"Circuito Montoya 615 960, Aguascalientes, Ags.Nueva Zimbabwe, COL 68058-4093",MPGO03
+CLI00123,Amelia Gonzales,antonia31@example.com,580.474.2914,"Pasaje Côte d'Ivoire 332 326, Aguascalientes, Ags.Vieja Guinea Bissau, BCS 07100",MPGO02
+CLI00124,Lic. Guadalupe Hurtado,nicolas83@example.org,(127)855-0039,"Cerrada Guinea Ecuatorial 882 568, Aguascalientes, Ags.San Darío los altos, COL 12359",MPGO03
+CLI00125,Violeta Marcos Estrada Escamilla,umares@example.org,1-433-171-3912,"Privada Sur Griego 249 Interior 315, Aguascalientes, Ags.San Micaela los altos, TAB 97182",MPGO04
+CLI00126,Guadalupe Valdés Núñez,dgonzalez@example.org,+59(5)0720410725,"Continuación Guanajuato 657 Edif. 290 , Depto. 909, Aguascalientes, Ags.Vieja República Árabe Siria, BC 15181-9819",MPGO04
+CLI00127,Rufino Alvarez,ruizamanda@example.com,+75(1)3621110862,"Viaducto Guanajuato 843 Interior 960, Aguascalientes, Ags.San Cristian los bajos, NAY 93146",MPGO03
+CLI00128,Elisa Lilia Valenzuela,riojasporfirio@example.org,469.713.9891x082,"Periférico Sur Rico 908 Edif. 689 , Depto. 040, Aguascalientes, Ags.Vieja China, BCS 23847-9804",MPGO04
+CLI00129,Karla Alvaro Barragán,rosadogonzalo@example.com,1-236-876-0093,"Calzada Matos 141 Interior 935, Aguascalientes, Ags.Vieja Afganistán, MICH 97295-1765",MPGO02
+CLI00130,Adán Carbajal Granado,roblesarturo@example.net,379.142.2970x811,"Callejón Morelos 691 493, Aguascalientes, Ags.San Alonso los bajos, MICH 96285-4663",MPGO04
+CLI00131,Natividad Godoy Arguello,sierrajose-maria@example.net,+39(4)2680507663,"Circuito Chihuahua 916 154, Aguascalientes, Ags.San Mauro de la Montaña, COL 45802",MPGO03
+CLI00132,Sr(a). Carlos Enríquez,ochoaoliver@example.org,(615)209-9202,"Privada Sur Mayorga 976 118, Aguascalientes, Ags.Nueva Bolivia, ZAC 88701",MPGO01
+CLI00133,Camila Maldonado Ramírez,caridadjasso@example.org,1-177-906-0829,"Viaducto Caballero 826 217, Aguascalientes, Ags.Nueva Camerún, NL 12399-0915",MPGO01
+CLI00134,Cornelio Candelaria Ruelas,gmerino@example.net,1-812-461-0972,"Peatonal Camerún 087 376, Aguascalientes, Ags.San Sandra de la Montaña, TAMPS 99839",MPGO02
+CLI00135,Julio Olivárez Jaimes,concepcion45@example.net,01119380857,"Continuación Norte Bernal 084 554, Aguascalientes, Ags.San Joaquín los altos, DF 02313-1042",MPGO02
+CLI00136,Porfirio Sosa,alfarooscar@example.net,565-191-7202x15320,"Viaducto Sur Becerra 721 Interior 171, Aguascalientes, Ags.San Luisa los altos, YUC 90576-6449",MPGO01
+CLI00137,Manuel Pacheco Duarte,pablonazario@example.net,907.471.1491,"Privada Nieves 720 Interior 736, Aguascalientes, Ags.San Dalia los bajos, PUE 86070-6239",MPGO02
+CLI00138,Mónica Gracia,joseluna@example.net,353-579-9800x42901,"Continuación Irlanda 654 866, Aguascalientes, Ags.San Sessa de la Montaña, YUC 13929",MPGO02
+CLI00139,César Arguello,rufinoteran@example.com,798-571-9474x449,"Continuación Vera 335 Interior 674, Aguascalientes, Ags.San María Luisa de la Montaña, VER 01199",MPGO03
+CLI00140,Amador Gabino Montes Domínguez,josefinagaray@example.net,654-186-0987x3034,"Circunvalación Kuwait 598 Edif. 774 , Depto. 608, Aguascalientes, Ags.San Úrsula los bajos, TLAX 13702",MPGO01
+CLI00141,Ana Genaro Casárez Zelaya,guillerminaguillen@example.net,(620)565-6198x8519,"Periférico Guinea Ecuatorial 203 Edif. 479 , Depto. 839, Aguascalientes, Ags.Nueva Bulgaria, Q. ROO 34860",MPGO04
+CLI00142,Ignacio Cynthia Barraza,judith02@example.com,(550)722-4122,"Corredor Michoacán de Ocampo 404 806, Aguascalientes, Ags.San Hugo de la Montaña, DF 98706-5060",MPGO04
+CLI00143,Sr(a). Pilar Rosales,raulmondragon@example.com,1-034-047-0585x149,"Ampliación Castillo 839 662, Aguascalientes, Ags.San Cristobal los bajos, COAH 65373-7320",MPGO02
+CLI00144,Ernesto José Eduardo Acuña,montalvomauro@example.net,1-183-227-2757,"Pasaje Tlaxcala 683 Interior 534, Aguascalientes, Ags.San Cynthia los bajos, MICH 30303-4524",MPGO01
+CLI00145,Eugenio de la O,rodrigo94@example.com,04296985880,"Viaducto Andorra 844 Interior 202, Aguascalientes, Ags.Nueva Camboya, SON 40537",MPGO01
+CLI00146,Santiago Noelia Naranjo Padrón,fhernandes@example.net,02281610049,"Calle Baja California Sur 955 Edif. 231 , Depto. 595, Aguascalientes, Ags.Nueva India, CAMP 71793-0034",MPGO01
+CLI00147,Alfonso Nájera,fsanchez@example.org,09051050588,"Circunvalación Ávila 385 Edif. 965 , Depto. 141, Aguascalientes, Ags.Vieja Andorra, YUC 61367",MPGO03
+CLI00148,Sr(a). Marcos Linares,bianca34@example.com,341-012-4849,"Pasaje Norte Villalpando 013 Interior 630, Aguascalientes, Ags.San Sandra los altos, GRO 83667-2398",MPGO01
+CLI00149,Ana Hinojosa Arenas,kcolunga@example.org,(546)564-7169x123,"Viaducto Nuevo León 813 862, Aguascalientes, Ags.Nueva Sri Lanka, CAMP 01215-0014",MPGO03
+CLI00150,Sessa Rodarte,batistaoliver@example.com,988.903.6821x208,"Diagonal Vásquez 666 Edif. 112 , Depto. 028, Aguascalientes, Ags.Nueva Camboya, OAX 96971",MPGO03
+CLI00151,Camila Joaquín Guevara,aldoaguilera@example.org,1-825-802-1026,"Ampliación Sur Barela 735 Interior 837, Aguascalientes, Ags.San Celia de la Montaña, SIN 02996",MPGO04
+CLI00152,Hilda Olmos,pachecomateo@example.com,+12(7)1894068404,"Circunvalación Fuentes 798 523, Aguascalientes, Ags.San Alberto los altos, SIN 92228",MPGO01
+CLI00153,Ramón Partida Tejada,clementeverduzco@example.com,417-404-5916,"Periférico Paraguay 000 504, Aguascalientes, Ags.Nueva Panamá, SLP 11385-3673",MPGO03
+CLI00154,Guadalupe Zambrano Almanza,corneliorojo@example.com,256-228-6729x86180,"Viaducto Norte Lugo 195 Edif. 464 , Depto. 383, Aguascalientes, Ags.Vieja Sudán, MICH 99706-1713",MPGO04
+CLI00155,Raquel Juan Oquendo Munguía,sergiobaca@example.net,794-307-5490x792,"Circunvalación Delgadillo 210 Edif. 881 , Depto. 965, Aguascalientes, Ags.San Fidel de la Montaña, DF 05030",MPGO04
+CLI00156,Graciela Gerónimo Ordóñez,mitzyvaca@example.org,1-903-614-7791,"Pasaje Sur Collado 457 Edif. 931 , Depto. 797, Aguascalientes, Ags.Nueva Cuba, AGS 14091",MPGO04
+CLI00157,Lorena Eloisa Zaragoza,esmeralda76@example.org,07301148846,"Retorno Saldivar 491 924, Aguascalientes, Ags.Nueva Líbano, TAB 77372-9328",MPGO04
+CLI00158,René Olmos,pedrozaraul@example.org,627-453-8409,"Ampliación Norte Guardado 088 Edif. 099 , Depto. 118, Aguascalientes, Ags.Vieja Camerún, CHIH 36918",MPGO04
+CLI00159,Mtro. Débora Estrada,gutierrezalejandra@example.net,(222)620-2622x9304,"Calzada Durango 440 Interior 667, Aguascalientes, Ags.San José Carlos los bajos, VER 46048",MPGO02
+CLI00160,Mtro. Luis Fernández,jacinto08@example.org,599-906-5666x1707,"Calzada Nieves 856 Edif. 933 , Depto. 460, Aguascalientes, Ags.San Daniela los altos, PUE 85695",MPGO03
+CLI00161,Mario Espinosa Cano,villalpandosessa@example.org,119.146.6208x6315,"Circuito Ayala 676 Interior 744, Aguascalientes, Ags.San Arcelia los bajos, DGO 83890-6550",MPGO01
+CLI00162,Cristina Miramontes de la O,resendezenrique@example.net,433-573-2607x04018,"Calzada Sur Maldonado 302 587, Aguascalientes, Ags.Vieja Grecia, DF 91452-6474",MPGO02
+CLI00163,Isabel Lugo,vanesa27@example.org,1-022-153-1833x9649,"Retorno Israel 021 432, Aguascalientes, Ags.San Paola los altos, DGO 10417",MPGO03
+CLI00164,Mtro. Ignacio Calderón,dulce-maria06@example.com,593-909-5294x240,"Calzada Yucatán 471 Edif. 153 , Depto. 234, Aguascalientes, Ags.San Rubén los bajos, YUC 41533-3747",MPGO02
+CLI00165,Ing. Omar Gálvez,ibarragan@example.net,022-818-0979x8508,"Pasaje Jalisco 927 Edif. 718 , Depto. 965, Aguascalientes, Ags.San Reina de la Montaña, AGS 16579",MPGO01
+CLI00166,Ramiro Olivera Arevalo,carguello@example.com,1-227-512-1051,"Prolongación Sur de la Fuente 732 Edif. 866 , Depto. 544, Aguascalientes, Ags.San María José los bajos, DF 64904-5150",MPGO02
+CLI00167,Humberto Salma Meléndez,pascual26@example.com,+95(5)2766654302,"Circunvalación Yucatán 789 Edif. 627 , Depto. 234, Aguascalientes, Ags.Nueva Barbados, CHIH 63402",MPGO02
+CLI00168,Martín Pamela Rodarte Lara,tomas14@example.org,06129812290,"Pasaje Norte Sotelo 748 Edif. 554 , Depto. 487, Aguascalientes, Ags.Nueva Belice, NL 13148-4828",MPGO04
+CLI00169,Rosa Paulina Solorzano Terrazas,carla98@example.org,1-795-828-4038x3387,"Periférico Alvarado 092 Edif. 977 , Depto. 947, Aguascalientes, Ags.Vieja Eslovenia, MEX 22631-6581",MPGO02
+CLI00170,Hilda Blanca Tovar,hpadilla@example.com,(067)472-1496x7032,"Diagonal Campeche 632 Edif. 463 , Depto. 192, Aguascalientes, Ags.San Guadalupe los altos, CAMP 78649-3638",MPGO01
+CLI00171,Jos Rocío Farías,lpatino@example.com,447.282.8766x200,"Callejón Nayarit 271 109, Aguascalientes, Ags.Vieja Países Bajos, SON 21996-9011",MPGO03
+CLI00172,Ofelia Valles,bespinal@example.org,1-514-113-9257x5551,"Ampliación Rosario 285 812, Aguascalientes, Ags.San Elvia los altos, YUC 19922-4943",MPGO04
+CLI00173,Mariano Ontiveros Lemus,jacobo53@example.net,536.122.0996x67381,"Ampliación Querétaro 121 Edif. 299 , Depto. 640, Aguascalientes, Ags.Vieja Malta, SIN 96453",MPGO01
+CLI00174,Virginia Tórrez,malaveelsa@example.org,07048970367,"Boulevard Saldaña 479 Interior 106, Aguascalientes, Ags.Nueva Costa Rica, NL 43402-8907",MPGO03
+CLI00175,Abelardo Aparicio,xtoro@example.net,1-857-497-2870x33474,"Peatonal del Río 342 341, Aguascalientes, Ags.Nueva Angola, OAX 84017",MPGO02
+CLI00176,Rubén Juan Padilla,nzapata@example.org,1-539-811-7040,"Cerrada Durango 763 Interior 122, Aguascalientes, Ags.Vieja República Árabe Siria, COAH 44243",MPGO03
+CLI00177,Tania Verónica Henríquez Bernal,manuel46@example.com,+05(8)2698895959,"Diagonal Chiapas 121 Edif. 325 , Depto. 957, Aguascalientes, Ags.Vieja Lituania, MEX 86910",MPGO03
+CLI00178,Mayte César Terán Ledesma,trevinoleonel@example.org,151-668-3649x6548,"Periférico Sinaloa 373 Edif. 016 , Depto. 857, Aguascalientes, Ags.Nueva Kiribati, ZAC 61919",MPGO02
+CLI00179,Claudio Rubén Valadez Alejandro,umontalvo@example.com,1-468-381-6117,"Boulevard Papua Nueva Guinea 327 Edif. 671 , Depto. 424, Aguascalientes, Ags.Vieja Colombia, MEX 48473-5491",MPGO01
+CLI00180,Francisco Ferrer Durán,pinaabraham@example.net,(988)486-2369x19709,"Circuito Portugal 745 554, Aguascalientes, Ags.Vieja República Checa, COL 62648",MPGO02
+CLI00181,Aldonza Caridad Muñoz,rzavala@example.com,1-437-673-5912,"Calle Valadez 971 Edif. 627 , Depto. 204, Aguascalientes, Ags.Nueva Tuvalu, SIN 81506",MPGO04
+CLI00182,Sr(a). Virginia Quiroz,armando62@example.net,(046)956-2202x32694,"Diagonal Lozada 445 741, Aguascalientes, Ags.San Amanda de la Montaña, TLAX 64867",MPGO02
+CLI00183,Sr(a). Eva Hurtado,ramonabel@example.org,1-301-359-8099x236,"Avenida Durán 896 807, Aguascalientes, Ags.Vieja Camerún, GTO 08956",MPGO04
+CLI00184,Isabela Wendolin Barela Castañeda,mariana69@example.com,746.524.6897,"Viaducto Guanajuato 319 Edif. 556 , Depto. 435, Aguascalientes, Ags.Nueva Comoras, VER 43920-3087",MPGO02
+CLI00185,Octavio Razo,renatopalomo@example.com,876.045.5269x20934,"Circunvalación Antigua y Barbuda 256 Interior 092, Aguascalientes, Ags.Vieja Colombia, TLAX 38970",MPGO03
+CLI00186,Rubén Rodríguez Calderón,wendolinrico@example.net,1-259-661-9986,"Pasaje Sur Soto 763 Interior 820, Aguascalientes, Ags.San Rosa los altos, GRO 41792-8204",MPGO03
+CLI00187,Lucas Claudio Chacón,oswaldo92@example.org,+77(0)4062880884,"Calzada Pacheco 276 Interior 424, Aguascalientes, Ags.San José de la Montaña, GTO 79277-5302",MPGO02
+CLI00188,Ing. Aurelio Jimínez,elizondoevelio@example.org,06814599725,"Calle Serbia 498 749, Aguascalientes, Ags.Vieja Gambia, ZAC 91627",MPGO03
+CLI00189,Isabel Rodrígez,claragracia@example.net,1-180-264-4880,"Andador Norte Alvarez 652 Edif. 957 , Depto. 859, Aguascalientes, Ags.San Conchita de la Montaña, QRO 27879-9188",MPGO02
+CLI00190,Mariana Armenta Ávalos,del-valledelia@example.org,769-784-2232x96099,"Prolongación Treviño 227 635, Aguascalientes, Ags.Nueva Ucrania, CHIH 21595",MPGO01
+CLI00191,Lic. Yuridia Toro,fidel58@example.com,(780)926-1801,"Circunvalación Sur Casas 588 Interior 071, Aguascalientes, Ags.Vieja Pakistán, DF 44765",MPGO01
+CLI00192,Sr(a). Abelardo Espinoza,sosaabigail@example.org,1-211-945-8192x432,"Circuito Norte Bañuelos 766 516, Aguascalientes, Ags.Vieja Belarús, MOR 37740-0822",MPGO01
+CLI00193,Julio Dulce María Perea Abreu,judithcollado@example.org,376.045.8441x35004,"Viaducto Ríos 497 Interior 440, Aguascalientes, Ags.Nueva Santa Lucía, SIN 11165-9428",MPGO03
+CLI00194,Martín Patiño,nmarrero@example.com,803.039.0817,"Privada China 319 Edif. 791 , Depto. 386, Aguascalientes, Ags.San Minerva los altos, MEX 82865-4076",MPGO03
+CLI00195,Mtro. Jos Villagómez,rocio89@example.org,1-053-187-0886x592,"Callejón Chávez 065 Edif. 900 , Depto. 127, Aguascalientes, Ags.San Marco Antonio los altos, NAY 35584-3067",MPGO04
+CLI00196,Alicia Wendolin de Jesús,alejandrasantacruz@example.net,1-284-024-6467,"Privada Casárez 639 Interior 455, Aguascalientes, Ags.Nueva Croacia, ZAC 79887",MPGO03
+CLI00197,María Elena Úrsula Orozco Zapata,julioterrazas@example.net,1-451-126-5269,"Circunvalación República Árabe Siria 363 065, Aguascalientes, Ags.Vieja Alemania, SLP 33252",MPGO03
+CLI00198,Ricardo Luevano,gallardorodolfo@example.com,(910)589-3526x29816,"Avenida Montez 050 Interior 811, Aguascalientes, Ags.Vieja Malta, VER 35705-5940",MPGO03
+CLI00199,Sr(a). Florencia Granados,rangelsessa@example.org,(725)456-0779,"Circuito Jalisco 352 Edif. 319 , Depto. 582, Aguascalientes, Ags.Nueva Liechtenstein, TLAX 47804-7718",MPGO03
+CLI00200,Emiliano Barrera,granadosmodesto@example.com,533.910.5547,"Andador Sur Cantú 883 Interior 610, Aguascalientes, Ags.San Gerónimo los altos, TAMPS 78321",MPGO03
+CLI00201,Felix Vigil,tomascarranza@example.org,(694)900-1732,"Privada Hidalgo 306 Interior 581, Aguascalientes, Ags.San Alberto los bajos, NAY 94407",MPGO01
+CLI00202,Mariano Ramiro Medrano,razowilfrido@example.org,(708)702-6271x91071,"Pasaje Quintana Roo 010 800, Aguascalientes, Ags.Vieja Chipre, NAY 83191",MPGO02
+CLI00203,José María Adriana Jáquez,covarrubiasivan@example.com,806-232-4151x336,"Eje vial Saint Kitts y Nevis 222 448, Aguascalientes, Ags.San Abril los altos, MEX 87812-7135",MPGO01
+CLI00204,Laura Indira Reyes Meza,unino@example.org,02973471214,"Calle Sur Cotto 399 Interior 512, Aguascalientes, Ags.Vieja Myanmar, DGO 01202",MPGO03
+CLI00205,Mtro. Antonio Reyes,zambranoalfredo@example.org,+55(9)0474695700,"Diagonal Veracruz de Ignacio de la Llave 053 558, Aguascalientes, Ags.San Paola de la Montaña, CHIH 21413-9247",MPGO03
+CLI00206,Yeni Amanda Madrigal Castillo,javierpaez@example.com,1-965-766-7799x6845,"Calle Colima 155 940, Aguascalientes, Ags.Vieja Montenegro, GRO 65126",MPGO04
+CLI00207,Martín Mónica Peralta Reyna,barbaraarmenta@example.org,1-440-889-3826x6482,"Corredor Sonora 883 Edif. 517 , Depto. 365, Aguascalientes, Ags.San Dulce los altos, OAX 62856",MPGO01
+CLI00208,Ing. José Carlos Farías,esparta61@example.org,1-127-639-1254x838,"Retorno Comoras 070 Edif. 382 , Depto. 760, Aguascalientes, Ags.San Bernardo de la Montaña, QRO 33996-9254",MPGO01
+CLI00209,Miguel Ángel Villaseñor,iestevez@example.org,847-080-0005,"Retorno Sur Zavala 459 338, Aguascalientes, Ags.San Horacio los altos, ZAC 43311-6462",MPGO02
+CLI00210,Emilio Celia de la Crúz Márquez,cristinaperez@example.net,(238)872-5933x84851,"Circuito Timor-Leste 627 924, Aguascalientes, Ags.San Rolando los bajos, JAL 84116",MPGO03
+CLI00211,Abraham Pablo Ramón Nava,federicoroque@example.org,(024)529-1426x79833,"Corredor Guerrero 462 879, Aguascalientes, Ags.San Mauro de la Montaña, AGS 63084",MPGO04
+CLI00212,Arcelia Puga,claudia11@example.net,+04(7)2718324420,"Avenida Tabasco 067 864, Aguascalientes, Ags.San Socorro de la Montaña, TAB 13082-9870",MPGO02
+CLI00213,Mtro. Citlali Loera,gamboacamilo@example.org,(123)129-7329x7016,"Boulevard Alemania 472 993, Aguascalientes, Ags.Vieja República Centroafricana, NAY 63136",MPGO04
+CLI00214,Adela Urrutia Cortés,rolonmariana@example.com,057-085-8989x6980,"Prolongación Tabasco 342 Edif. 675 , Depto. 851, Aguascalientes, Ags.San Karla de la Montaña, SON 19582-3862",MPGO02
+CLI00215,Ángela Gabriela Sanabria Aragón,cmartinez@example.com,+85(2)4946596029,"Diagonal Kazajstán 805 Edif. 485 , Depto. 141, Aguascalientes, Ags.San Mauro los bajos, JAL 20199-7767",MPGO02
+CLI00216,Zoé Fidel Lerma,jimenezserafin@example.net,(814)936-9663,"Periférico Sur Soria 891 Interior 091, Aguascalientes, Ags.San Ángela los bajos, HGO 25720-4503",MPGO03
+CLI00217,Antonio Débora Dueñas,gpalomino@example.net,626.604.0813x9417,"Cerrada Querétaro 995 Interior 973, Aguascalientes, Ags.San Celia los bajos, COAH 34641",MPGO01
+CLI00218,Tomás Carla Olivas Santillán,rosalialeiva@example.com,987.881.3264x120,"Calle Reynoso 822 Edif. 583 , Depto. 593, Aguascalientes, Ags.San Omar de la Montaña, JAL 96017",MPGO04
+CLI00219,Lic. Carlota Pacheco,hector22@example.org,1-283-148-5199x532,"Boulevard Sur Cavazos 956 849, Aguascalientes, Ags.Nueva Arabia Saudita, MEX 92989-9546",MPGO03
+CLI00220,Lic. Renato Almonte,solorzanojulio@example.org,877-372-0798,"Andador Sur Patiño 597 Edif. 794 , Depto. 974, Aguascalientes, Ags.Nueva Bosnia y Herzegovina, SON 62024",MPGO01
+CLI00221,Armando Archuleta,jonas37@example.com,317.778.8666x60060,"Callejón Sur Cintrón 372 965, Aguascalientes, Ags.San Norma los altos, QRO 91711",MPGO02
+CLI00222,Citlali Galván,yeniapodaca@example.com,499-722-8259,"Calzada Sur Lugo 812 Edif. 512 , Depto. 989, Aguascalientes, Ags.San Alonso de la Montaña, TAMPS 58497-2260",MPGO01
+CLI00223,Lorenzo Villanueva,gerardo61@example.org,442.564.6337x0437,"Peatonal Aguascalientes 255 Edif. 087 , Depto. 850, Aguascalientes, Ags.San Fabiola de la Montaña, CAMP 80951-5363",MPGO03
+CLI00224,Sr(a). Rosalia Villaseñor,grijalvamarco-antonio@example.net,(696)309-3598x425,"Calzada Hidalgo 952 Interior 155, Aguascalientes, Ags.San María Cristina los altos, BC 52021-3050",MPGO04
+CLI00225,Abel Rodolfo Gonzales Crespo,sanabriaeva@example.net,(501)502-1424x3258,"Boulevard Salcido 735 Interior 645, Aguascalientes, Ags.Nueva Nauru, DGO 84563",MPGO02
+CLI00226,Dr. Mitzy Angulo,florencia40@example.com,050.805.6823x0730,"Andador Camboya 560 Edif. 132 , Depto. 055, Aguascalientes, Ags.Nueva Líbano, YUC 62527-5004",MPGO03
+CLI00227,Julio César Quesada Toledo,osorioenrique@example.net,1-936-220-3268x43343,"Ampliación Guyana 666 Edif. 024 , Depto. 011, Aguascalientes, Ags.Nueva Burundi, BCS 16986-2293",MPGO01
+CLI00228,Mtro. Cristobal Otero,estefaniaangulo@example.org,1-744-051-3437x015,"Periférico Santillán 851 Interior 398, Aguascalientes, Ags.San Amalia de la Montaña, SLP 42673",MPGO02
+CLI00229,Rodolfo Pelayo,lcollazo@example.org,400.052.3506,"Circunvalación Coahuila de Zaragoza 404 Interior 197, Aguascalientes, Ags.Nueva Vietman, DGO 88246",MPGO03
+CLI00230,Mayte Sessa Cortés,jose-emiliolozano@example.org,1-449-024-7984x31932,"Callejón Hidalgo 723 Edif. 282 , Depto. 938, Aguascalientes, Ags.San Pilar de la Montaña, DF 09852",MPGO01
+CLI00231,Mauricio Quintana,castilloasuncion@example.net,(988)114-9149x3822,"Eje vial Olvera 249 Edif. 654 , Depto. 242, Aguascalientes, Ags.San Eloisa de la Montaña, TAB 98521-9611",MPGO04
+CLI00232,Mtro. Leonor Saldaña,sherrera@example.com,010.797.0498x742,"Boulevard Coahuila de Zaragoza 534 479, Aguascalientes, Ags.San Fidel los altos, HGO 18959-4604",MPGO02
+CLI00233,Gabino Rufino Cervantes,elsaosorio@example.com,1-141-640-0944,"Circunvalación Archuleta 639 651, Aguascalientes, Ags.San José Emilio los bajos, BCS 24312",MPGO03
+CLI00234,Leonardo Botello,arturo10@example.net,+46(3)7272709192,"Andador Albania 038 Interior 889, Aguascalientes, Ags.Nueva Maldivas, CHIH 63621",MPGO04
+CLI00235,Patricio Marroquín Ortega,mcantu@example.net,1-280-792-9451x318,"Ampliación Kuwait 751 329, Aguascalientes, Ags.San Federico los bajos, VER 50540-6720",MPGO03
+CLI00236,Mtro. Roberto Regalado,mario57@example.net,08201996425,"Diagonal Mozambique 726 Edif. 002 , Depto. 588, Aguascalientes, Ags.Vieja Myanmar, TLAX 48734",MPGO02
+CLI00237,Mtro. Carla Alcántar,casanovablanca@example.net,+53(4)8121388237,"Eje vial Canadá 291 342, Aguascalientes, Ags.Vieja Guatemala, CHIS 09227-5873",MPGO03
+CLI00238,Sr(a). Eloy Valladares,oscar31@example.org,(686)238-2177,"Peatonal Sur Garza 533 Interior 475, Aguascalientes, Ags.Nueva Malasia, AGS 26490",MPGO04
+CLI00239,Sessa Inés Batista,isabel88@example.org,(449)448-3740,"Circuito Cabo Verde 348 Edif. 951 , Depto. 086, Aguascalientes, Ags.Nueva Nauru, QRO 52617",MPGO04
+CLI00240,Guadalupe Verduzco,georgina94@example.org,386.587.1324x685,"Circuito Norte Báez 375 Interior 304, Aguascalientes, Ags.San Santiago los altos, TLAX 56184-0086",MPGO03
+CLI00241,Sessa Zedillo,hernan87@example.com,06446142731,"Callejón Kazajstán 519 Edif. 038 , Depto. 015, Aguascalientes, Ags.San Gustavo de la Montaña, MICH 99567",MPGO01
+CLI00242,Patricio María Luisa Borrego,mercadopaola@example.com,059.238.3833x7332,"Ampliación Coahuila de Zaragoza 172 557, Aguascalientes, Ags.San Anabel los bajos, NAY 48243",MPGO04
+CLI00243,Raquel Fidel Jaime,tsauceda@example.org,556-436-2227,"Corredor Nuevo León 212 Interior 790, Aguascalientes, Ags.Nueva República Federal Democrática de Nepal, QRO 10736-2385",MPGO04
+CLI00244,Susana Juárez Vaca,uvera@example.org,1-192-043-6869x6020,"Boulevard Norte Chapa 096 835, Aguascalientes, Ags.Nueva México, SON 28527",MPGO04
+CLI00245,Jaime Leticia Salcedo Alejandro,btamayo@example.org,681-447-6301,"Circuito Irán 088 Interior 903, Aguascalientes, Ags.Vieja Burundi, COL 98763",MPGO03
+CLI00246,Dr. Francisca Naranjo,lourdes34@example.com,245-044-2610x1949,"Callejón Brunei Darussalam 142 571, Aguascalientes, Ags.Vieja Nigeria, VER 91635-9458",MPGO03
+CLI00247,Helena Roybal,sleiva@example.org,1-820-593-1507x3523,"Circunvalación San Luis Potosí 303 Interior 030, Aguascalientes, Ags.Vieja Papua Nueva Guinea, SON 92673-3420",MPGO01
+CLI00248,Francisco Juana Navarrete,guadalupearmenta@example.org,+72(1)0529099987,"Boulevard Razo 624 Edif. 858 , Depto. 807, Aguascalientes, Ags.Nueva Madagascar, TAMPS 00876",MPGO04
+CLI00249,Lic. Miriam Tirado,nayelirosales@example.org,999-481-7613x357,"Retorno Costa Rica 815 Edif. 884 , Depto. 566, Aguascalientes, Ags.San Úrsula los altos, COL 42764-4836",MPGO01
+CLI00250,Manuel Alta  Gracia Carrillo Linares,carreroagustin@example.org,073.870.4789x31838,"Prolongación Alba 944 470, Aguascalientes, Ags.Nueva República de Macedonia del Norte, BCS 42492-8571",MPGO03
+CLI00251,Rafaél Adame Cotto,gironcarla@example.net,1-396-234-4555x95793,"Diagonal Norte Macías 468 Edif. 438 , Depto. 063, Aguascalientes, Ags.San Israel de la Montaña, MICH 36052",MPGO04
+CLI00252,Estela Orosco,aortega@example.com,+23(6)3056186882,"Cerrada Nayarit 020 Interior 457, Aguascalientes, Ags.Vieja Azerbaiyán, PUE 89174-9203",MPGO02
+CLI00253,Alicia Diana Estrada,quinteroabril@example.com,085.896.7443x3266,"Peatonal Morelos 051 914, Aguascalientes, Ags.San Amador de la Montaña, DF 48560",MPGO04
+CLI00254,Juan Pedro Jaime Olmos,tsantacruz@example.org,1-829-501-8314,"Eje vial Jaimes 913 Edif. 422 , Depto. 477, Aguascalientes, Ags.San Ernesto de la Montaña, MICH 21257",MPGO01
+CLI00255,Timoteo Eric Muro Velásquez,yolanda01@example.org,(865)023-2260x0850,"Retorno Norte Paredes 395 779, Aguascalientes, Ags.San Felipe los altos, COL 93661",MPGO03
+CLI00256,Irma Jáquez Ibarra,javier67@example.org,087-336-3098,"Calzada San Luis Potosí 449 Edif. 858 , Depto. 712, Aguascalientes, Ags.Nueva Nueva Zelandia, TLAX 87587-0465",MPGO01
+CLI00257,Guillermo Carrillo,alta-graciamarroquin@example.org,(895)269-6160x620,"Boulevard Guerrero 460 Interior 739, Aguascalientes, Ags.Vieja Nueva Zelandia, Q. ROO 88567",MPGO03
+CLI00258,Leonor Puga Meza,alfredorobles@example.net,980-661-8032x30643,"Eje vial Estonia 829 237, Aguascalientes, Ags.San Maximiliano de la Montaña, SIN 53457",MPGO03
+CLI00259,Cristian Raya,gutierrezmanuel@example.net,372.968.1735x2224,"Calzada Aguascalientes 498 256, Aguascalientes, Ags.San Martha de la Montaña, SLP 60021-8652",MPGO04
+CLI00260,Victoria Pascual Reyna Naranjo,carlotabenavidez@example.net,377-016-0787x86489,"Periférico Federación de Rusia 688 933, Aguascalientes, Ags.Nueva Tayikistán, GRO 63899",MPGO01
+CLI00261,Omar Mayte García,georgina31@example.org,791.024.6446,"Privada Sepúlveda 895 881, Aguascalientes, Ags.San Julio César los bajos, COL 55794",MPGO03
+CLI00262,Juan Carlos Indira Negrete,espartaco71@example.com,857.589.8335,"Cerrada Oaxaca 610 812, Aguascalientes, Ags.San Jesús de la Montaña, COAH 41243-8309",MPGO02
+CLI00263,Flavio Laura Padrón Limón,elaboy@example.org,07001363079,"Continuación Norte Alfaro 163 Interior 605, Aguascalientes, Ags.San Citlali los bajos, NAY 76735-1257",MPGO01
+CLI00264,Víctor Quintana Montez,taviles@example.net,052-112-3542x5267,"Avenida Norte Carrasco 599 701, Aguascalientes, Ags.Vieja Myanmar, QRO 42126",MPGO02
+CLI00265,Dr. Pedro Riojas,ncarrero@example.com,1-372-670-0837x69780,"Andador Sur Mascareñas 579 575, Aguascalientes, Ags.Nueva Italia, GRO 78270-2842",MPGO01
+CLI00266,Débora Flórez Curiel,benjamin83@example.com,731.194.3198x89952,"Privada Sur Colunga 201 494, Aguascalientes, Ags.Nueva Madagascar, MEX 00462-8467",MPGO01
+CLI00267,Bernardo Ruby Torres,martinezisaac@example.org,620-606-7183x925,"Calle Solís 723 Edif. 753 , Depto. 897, Aguascalientes, Ags.San Óscar de la Montaña, SIN 49341-2906",MPGO01
+CLI00268,Dr. Martha Carrión,almanzamitzy@example.org,(572)056-1699x467,"Circuito Casárez 798 601, Aguascalientes, Ags.San María Cristina los altos, QRO 26908",MPGO02
+CLI00269,Homero Patricia Gil,pgutierrez@example.com,1-878-951-9682x5194,"Retorno Treviño 906 Interior 617, Aguascalientes, Ags.San María Elena los bajos, QRO 28353",MPGO04
+CLI00270,María del Carmen Solorio,zeferino79@example.org,1-645-544-2564x7682,"Viaducto Sinaloa 884 Edif. 603 , Depto. 259, Aguascalientes, Ags.San Rolando los bajos, VER 37349-8904",MPGO01
+CLI00271,Silvano Salvador Gaitán Segovia,zalmonte@example.org,07648591636,"Andador Aguascalientes 152 Interior 391, Aguascalientes, Ags.Nueva Georgia, NL 44020-4481",MPGO03
+CLI00272,Helena Rosario Macías Tamayo,cristina74@example.net,330.934.2284x9749,"Calle Quesada 839 802, Aguascalientes, Ags.San Leonel los altos, YUC 50969",MPGO04
+CLI00273,Sr(a). Teresa Rentería,pmontanez@example.org,(827)638-1117x903,"Callejón Durango 854 Interior 257, Aguascalientes, Ags.Nueva Vietman, ZAC 36797-0510",MPGO04
+CLI00274,Luisa Merino Leyva,gmelgar@example.org,+22(5)2404589277,"Peatonal Sinaloa 720 Interior 181, Aguascalientes, Ags.Vieja Venezuela, DF 23322",MPGO04
+CLI00275,Eugenio Fierro,emilia02@example.org,316.623.6934x08722,"Privada Meléndez 681 Interior 261, Aguascalientes, Ags.San Inés de la Montaña, AGS 86039",MPGO03
+CLI00276,José Eduardo Olmos,salma10@example.com,1-757-614-5051x3801,"Ampliación Tafoya 207 Interior 468, Aguascalientes, Ags.Nueva Togo, JAL 44995-9835",MPGO02
+CLI00277,Isabela Felix Balderas,maria-luisa32@example.com,845-641-1910x094,"Retorno Campeche 488 329, Aguascalientes, Ags.Nueva Liechtenstein, GTO 23412",MPGO02
+CLI00278,Yeni Girón,judithgonzales@example.org,03677905277,"Eje vial San Vicente y las Granadinas 566 464, Aguascalientes, Ags.San Antonia los altos, ZAC 77830",MPGO04
+CLI00279,Natividad Ariadna Ledesma,martinzedillo@example.org,089.885.9252,"Callejón Iglesias 505 203, Aguascalientes, Ags.San Pamela los bajos, CHIS 95040-5577",MPGO01
+CLI00280,Olga Quesada,cristalpalomo@example.com,(518)440-8562x406,"Pasaje Baja California Sur 279 Edif. 084 , Depto. 840, Aguascalientes, Ags.San Sergio los altos, MEX 77255",MPGO01
+CLI00281,Eugenia Olmos Villalpando,velascoleticia@example.com,164.811.7817,"Diagonal Colunga 315 Edif. 886 , Depto. 243, Aguascalientes, Ags.Nueva Ucrania, COAH 90303",MPGO02
+CLI00282,Luz Suárez,micaela71@example.org,540.827.5568,"Circuito Sur Gastélum 060 156, Aguascalientes, Ags.San María Teresa los altos, COL 93126",MPGO02
+CLI00283,Débora Irma Mateo,luisrenteria@example.net,441-265-2515,"Circunvalación República Checa 995 Edif. 937 , Depto. 296, Aguascalientes, Ags.San Ángel los altos, HGO 24982-7593",MPGO01
+CLI00284,Miriam Susana Guajardo,augustoceja@example.com,06884733093,"Viaducto Balderas 813 589, Aguascalientes, Ags.San Micaela los altos, BCS 18926-5264",MPGO03
+CLI00285,Mercedes García Olmos,ymunoz@example.org,(444)759-4608,"Ampliación Valverde 392 Interior 155, Aguascalientes, Ags.Vieja Somalia, DF 79577",MPGO04
+CLI00286,Alvaro Lucas Quintana,rosa84@example.org,1-927-588-3369,"Continuación Norte Terrazas 097 843, Aguascalientes, Ags.San Luis de la Montaña, TLAX 78018-1063",MPGO01
+CLI00287,Mtro. Timoteo Limón,virginiaheredia@example.org,432-597-6616x43871,"Calzada Coahuila de Zaragoza 146 605, Aguascalientes, Ags.Vieja Panamá, SLP 27554-8052",MPGO03
+CLI00288,Daniela Homero Calvillo Leal,ursulavelez@example.net,857.063.1138x24928,"Peatonal Seychelles 545 Edif. 020 , Depto. 975, Aguascalientes, Ags.Nueva Belice, COAH 20055",MPGO03
+CLI00289,Mtro. Pascual Roybal,lindalara@example.net,1-658-565-7386x120,"Ampliación Morelos 064 129, Aguascalientes, Ags.Nueva Vanuatu, DGO 15630-0620",MPGO03
+CLI00290,Ernesto Marrero,fabiola02@example.net,933.699.6270x813,"Circuito Antigua y Barbuda 116 Interior 742, Aguascalientes, Ags.Vieja Iraq, OAX 34228",MPGO04
+CLI00291,Rolando Esteban Mateo,berta52@example.com,(515)833-2978,"Eje vial Negrete 930 Edif. 665 , Depto. 866, Aguascalientes, Ags.Vieja Noruega, VER 61368",MPGO03
+CLI00292,Reynaldo Caraballo,cacuna@example.net,1-339-992-2656,"Ampliación Sur Altamirano 124 Edif. 928 , Depto. 874, Aguascalientes, Ags.San Antonia de la Montaña, PUE 59261",MPGO04
+CLI00293,Alfonso Corrales Sauceda,laura00@example.com,608-404-7103x2501,"Circuito Japón 607 972, Aguascalientes, Ags.Vieja Filipinas, SIN 78720-8743",MPGO04
+CLI00294,Noemí Campos Peña,maganazoe@example.org,1-620-532-8067,"Calzada Portugal 394 526, Aguascalientes, Ags.San Silvia los bajos, MOR 73274",MPGO03
+CLI00295,Eloisa Lerma Tamez,pamelavalenzuela@example.net,1-876-413-5339x38140,"Retorno República de Macedonia del Norte 636 Interior 625, Aguascalientes, Ags.Nueva Líbano, GTO 79024-5973",MPGO02
+CLI00296,Dr. Silvano Hidalgo,estevezmaria-teresa@example.org,+99(6)5576697629,"Peatonal Jamaica 248 Edif. 621 , Depto. 566, Aguascalientes, Ags.San Claudia de la Montaña, CHIS 22694-8932",MPGO03
+CLI00297,Gilberto Rolando Lira Avilés,carla84@example.org,165-913-3056x4821,"Retorno Quintana Roo 247 Interior 235, Aguascalientes, Ags.San Leonel de la Montaña, OAX 48939-5739",MPGO04
+CLI00298,Cristina Tafoya,rosaleshugo@example.org,145.373.9663x87529,"Calle Chihuahua 068 Edif. 953 , Depto. 007, Aguascalientes, Ags.Nueva República de Moldova, BC 86175-8246",MPGO02
+CLI00299,Hermelinda Fernando Merino Villagómez,marisolrivera@example.net,174.574.7278x48176,"Pasaje Irán 371 115, Aguascalientes, Ags.San Bruno los altos, COAH 75656-7211",MPGO02
+CLI00300,Esparta Zoé Carrión Gallegos,ibecerra@example.org,659-925-8326,"Andador Tamaulipas 668 Edif. 404 , Depto. 303, Aguascalientes, Ags.Nueva Malawi, VER 98659-4907",MPGO04
+CLI00301,Felix Meza,yleiva@example.org,1-516-661-4499x614,"Pasaje Valdivia 769 Interior 737, Aguascalientes, Ags.San Alicia de la Montaña, TLAX 56170-5021",MPGO04
+CLI00302,Ruby María Teresa Garica Barrera,hornelas@example.org,1-770-196-2718,"Eje vial San Marino 777 Interior 334, Aguascalientes, Ags.San Clara los bajos, CHIS 91628",MPGO01
+CLI00303,Lic. Mariana Nieves,patricia90@example.com,(999)443-0081,"Circunvalación Rolón 036 200, Aguascalientes, Ags.Vieja Jamaica, YUC 98715",MPGO02
+CLI00304,Vicente Lucía Zedillo,gaitaneduardo@example.org,852-364-3677,"Diagonal Vásquez 872 Edif. 683 , Depto. 352, Aguascalientes, Ags.San Daniel de la Montaña, MICH 22141",MPGO04
+CLI00305,Sara Navarrete Solís,juana26@example.org,497-831-4494x27240,"Ampliación Solano 856 919, Aguascalientes, Ags.Nueva Lituania, YUC 18841",MPGO01
+CLI00306,Juana Curiel,oswaldosolano@example.com,1-204-474-5344x667,"Calle Nayarit 928 558, Aguascalientes, Ags.Nueva Belarús, NL 58722",MPGO02
+CLI00307,Anel Nájera Mata,cristina01@example.com,1-440-615-1064x56692,"Diagonal Norte Padrón 623 Edif. 481 , Depto. 052, Aguascalientes, Ags.Nueva Argentina, SIN 57038-1967",MPGO02
+CLI00308,Manuel Ayala Ávalos,fuenteslorena@example.net,665-788-6611,"Pasaje Barbados 938 Interior 986, Aguascalientes, Ags.Nueva Qatar, ZAC 66977",MPGO02
+CLI00309,Vanesa Aida Cabán Rentería,ncarrero@example.org,(254)422-6182,"Pasaje Meza 237 683, Aguascalientes, Ags.Nueva Suriname, TAMPS 07198",MPGO02
+CLI00310,Sr(a). Flavio Gollum,zayasamanda@example.org,(972)887-7100x123,"Circunvalación Sur Salazar 926 Edif. 401 , Depto. 067, Aguascalientes, Ags.Vieja Gabón, TLAX 51169",MPGO03
+CLI00311,Estefanía Wendolin Barrera,pvigil@example.com,924-943-1227,"Circuito Grecia 869 Interior 224, Aguascalientes, Ags.Vieja Togo, Q. ROO 79450-2820",MPGO03
+CLI00312,Citlali Mario Arguello,federicoalmonte@example.net,(348)112-5038x168,"Pasaje San Vicente y las Granadinas 124 Interior 742, Aguascalientes, Ags.Nueva Fiji, TAB 79339",MPGO02
+CLI00313,Georgina Enríquez Nava,geronimo23@example.com,1-538-021-4957x24708,"Prolongación Querétaro 903 Interior 983, Aguascalientes, Ags.Nueva Sudáfrica, BCS 07318-1991",MPGO02
+CLI00314,Gerardo Márquez Casillas,eloisatejada@example.org,1-906-195-6747x6118,"Calle Sur Aguirre 922 Edif. 185 , Depto. 502, Aguascalientes, Ags.Nueva Kuwait, MICH 62257-3072",MPGO04
+CLI00315,Eva Eric Sauceda,cristina82@example.net,411.035.5668x5407,"Retorno Apodaca 872 506, Aguascalientes, Ags.San Asunción los bajos, SIN 93973",MPGO03
+CLI00316,Gabriela Salinas Rivas,molinasoledad@example.net,1-610-121-7053x7354,"Retorno Sur Rivera 787 Edif. 823 , Depto. 107, Aguascalientes, Ags.San Jorge Luis los altos, BCS 37655-0783",MPGO02
+CLI00317,Sr(a). Catalina Chapa,porrasalejandra@example.com,062.251.7994x58331,"Cerrada Benin 964 Interior 161, Aguascalientes, Ags.San Rafaél los bajos, QRO 34674",MPGO01
+CLI00318,Dr. María Elena de Jesús,maria06@example.com,+81(6)5013494809,"Pasaje Olivárez 697 Interior 773, Aguascalientes, Ags.San Amanda de la Montaña, YUC 35477-2957",MPGO03
+CLI00319,Horacio Cecilia Estrada,igamboa@example.org,311.286.4101x81840,"Circuito Sur Correa 606 234, Aguascalientes, Ags.San Jos los altos, COAH 82912-5478",MPGO01
+CLI00320,Ricardo Graciela Gaytán,xpuente@example.net,1-348-723-7075x97177,"Pasaje Sur de la O 715 Interior 308, Aguascalientes, Ags.Vieja Guinea, SIN 57419",MPGO02
+CLI00321,Pascual Girón,acunacynthia@example.org,1-122-392-1055,"Avenida Norte Zarate 783 860, Aguascalientes, Ags.Vieja República Árabe Siria, TAMPS 93441-2414",MPGO01
+CLI00322,Virginia Casares,marroquingregorio@example.com,1-226-773-1929,"Pasaje Bhután 350 Interior 151, Aguascalientes, Ags.Vieja Turkmenistán, ZAC 62559-8046",MPGO03
+CLI00323,Horacio Guillen Beltrán,garce@example.com,+82(7)7433610333,"Ampliación Bahrein 989 Edif. 730 , Depto. 783, Aguascalientes, Ags.Vieja Angola, BCS 16849",MPGO02
+CLI00324,Estela Aguirre,santiago54@example.com,1-214-266-3435x76136,"Privada Norte Sierra 035 Interior 239, Aguascalientes, Ags.Vieja Malta, VER 12603-6977",MPGO01
+CLI00325,Sr(a). Eloy Barraza,ivonne25@example.com,01545316332,"Pasaje Marroquín 171 172, Aguascalientes, Ags.San Gerardo los bajos, ZAC 63251",MPGO04
+CLI00326,Bernardo Santiago Gaytán,blancosonia@example.com,306-356-2440x6228,"Pasaje Veracruz de Ignacio de la Llave 482 502, Aguascalientes, Ags.Nueva Arabia Saudita, SON 23674",MPGO02
+CLI00327,Mariano Jorge Luis Rocha,floresfelipe@example.com,1-696-155-2164,"Viaducto Etiopía 952 Edif. 124 , Depto. 470, Aguascalientes, Ags.San Armando los altos, CAMP 51916-6762",MPGO01
+CLI00328,Dulce María Vélez,victorcruz@example.com,408-716-3333x313,"Ampliación Durango 261 Edif. 427 , Depto. 557, Aguascalientes, Ags.San Miriam los altos, TAB 41961",MPGO02
+CLI00329,Julia Almonte Soto,lindaflorez@example.net,694.254.6020x0488,"Avenida Veracruz de Ignacio de la Llave 602 Interior 591, Aguascalientes, Ags.San Homero de la Montaña, AGS 85568",MPGO04
+CLI00330,Felix Garza,dzedillo@example.net,759.675.4986x874,"Corredor Palau 748 Edif. 433 , Depto. 017, Aguascalientes, Ags.San María Elena de la Montaña, MEX 71538",MPGO04
+CLI00331,Cornelio Castro Echeverría,omadrid@example.net,02925835744,"Pasaje Sur Ramírez 515 061, Aguascalientes, Ags.San Trinidad los bajos, MOR 90274-1409",MPGO03
+CLI00332,Dr. María José Nieves,rubenecheverria@example.com,1-897-183-6188x95254,"Prolongación Islandia 080 Interior 244, Aguascalientes, Ags.Nueva Gabón, BCS 91737",MPGO03
+CLI00333,Beatriz Noemí Esquibel,yolanda13@example.org,109.051.5179,"Andador Duarte 645 745, Aguascalientes, Ags.San María de la Montaña, VER 12968",MPGO04
+CLI00334,Abril Quezada Orosco,zacariasholguin@example.net,02896405329,"Diagonal Sur Girón 938 Interior 927, Aguascalientes, Ags.San Zacarías los bajos, GTO 05735-3094",MPGO02
+CLI00335,Guillermina Augusto Alva,mercedes03@example.com,122.097.5704x453,"Prolongación Nayarit 900 Edif. 939 , Depto. 610, Aguascalientes, Ags.Vieja Guatemala, ZAC 03276",MPGO04
+CLI00336,Silvano Jos Toro Gutiérrez,jacobo54@example.com,1-115-365-5357x6376,"Pasaje Luxemburgo 667 Interior 751, Aguascalientes, Ags.Vieja Sierra Leona, CAMP 69597",MPGO04
+CLI00337,Ing. Alfonso Gaona,grivero@example.org,(975)684-6171,"Cerrada Zambia 226 Edif. 699 , Depto. 839, Aguascalientes, Ags.San Andrés de la Montaña, GRO 77289-2847",MPGO01
+CLI00338,Lic. Ana Niño,peraleszoe@example.net,1-548-317-3370x851,"Eje vial Campeche 235 Interior 566, Aguascalientes, Ags.San Leonardo los altos, HGO 97116",MPGO03
+CLI00339,Eva Leticia Gonzales Zarate,rochadaniela@example.com,(218)795-3040,"Peatonal Somalia 592 367, Aguascalientes, Ags.San Dulce María los altos, HGO 75468-2400",MPGO01
+CLI00340,Mtro. Silvano Tejeda,claudio48@example.org,103-086-7469x2105,"Avenida Norte Griego 663 976, Aguascalientes, Ags.Vieja Côte d'Ivoire, NAY 32621-6932",MPGO03
+CLI00341,Olga Reyna,delia68@example.com,230.248.1771x5635,"Boulevard Rodrígez 450 Edif. 031 , Depto. 497, Aguascalientes, Ags.San Olga los bajos, TLAX 71670",MPGO02
+CLI00342,Ramiro Aguilar Arevalo,iurias@example.com,(106)457-0225,"Circunvalación Sur Barrera 805 990, Aguascalientes, Ags.San Alvaro los bajos, VER 23009",MPGO01
+CLI00343,Yolanda Villarreal Esquivel,carteaga@example.org,1-557-310-2840x9125,"Circunvalación de la O 356 770, Aguascalientes, Ags.Nueva Estados Unidos de América, TAB 95692",MPGO04
+CLI00344,Sr(a). Gonzalo Ballesteros,pilar05@example.org,967-389-9963x21221,"Continuación Barbados 527 Interior 755, Aguascalientes, Ags.Nueva Armenia, TAB 83418-6375",MPGO02
+CLI00345,Fidel Jonás Urbina de León,ysantacruz@example.org,663.486.2848x389,"Eje vial Sur Arriaga 691 Interior 578, Aguascalientes, Ags.Nueva Palau, ZAC 98772",MPGO04
+CLI00346,Lic. Clemente Manzanares,dariozuniga@example.net,(177)480-6686x84963,"Avenida Sudán del Sur 688 Edif. 769 , Depto. 106, Aguascalientes, Ags.San Felix de la Montaña, DGO 39332-1902",MPGO01
+CLI00347,Eloy Adalberto Bustos Garay,ariadna97@example.org,(400)268-5170,"Cerrada Sudán 084 178, Aguascalientes, Ags.San Aldonza de la Montaña, JAL 19040-8777",MPGO03
+CLI00348,Amelia Ruelas Santana,alemanarmando@example.org,1-254-034-3089x83733,"Callejón Norte Pulido 051 Interior 594, Aguascalientes, Ags.San Anabel los altos, CAMP 08546",MPGO04
+CLI00349,Reina José Eduardo Gamboa,tejadaalfredo@example.org,1-470-034-4733x799,"Calzada Zúñiga 510 Interior 921, Aguascalientes, Ags.San Cynthia los altos, TAMPS 70029",MPGO02
+CLI00350,Alonso Elvia Bañuelos,trinidadquiroz@example.com,507-980-6322,"Circunvalación Nuevo León 964 Interior 548, Aguascalientes, Ags.San Claudio de la Montaña, YUC 03327-1090",MPGO04
+CLI00351,Sr(a). Florencia Quezada,verduzcolorena@example.org,(981)866-9382,"Circuito Sonora 309 Interior 249, Aguascalientes, Ags.Nueva Angola, OAX 35182",MPGO02
+CLI00352,Francisco Ana María Gamboa Aguirre,barrazahilda@example.com,142-675-4129x861,"Retorno Tlaxcala 677 Interior 538, Aguascalientes, Ags.Nueva Angola, SLP 16303",MPGO04
+CLI00353,Jaime de la Crúz,cristal10@example.com,+71(7)8956436000,"Prolongación Norte Feliciano 747 Edif. 150 , Depto. 065, Aguascalientes, Ags.Vieja Suiza, NL 07012",MPGO04
+CLI00354,Uriel Yeni Negrete Bueno,duenaslilia@example.org,500-244-0495,"Pasaje Zacatecas 384 Interior 136, Aguascalientes, Ags.San Pamela los altos, MEX 09018-3397",MPGO01
+CLI00355,Adela José Tamez,noeliacampos@example.org,890.606.2755x89716,"Continuación Norte Rascón 240 921, Aguascalientes, Ags.San Jacobo de la Montaña, HGO 50102-8615",MPGO02
+CLI00356,Eugenio Padrón Armas,nicolasalonso@example.com,1-665-863-6672,"Avenida Norte Tórrez 360 Edif. 471 , Depto. 991, Aguascalientes, Ags.San María José los bajos, MOR 29594-1720",MPGO03
+CLI00357,Blanca Rafaél Hernandes,osoriofrancisco@example.com,334-167-4855x397,"Continuación Villarreal 231 Edif. 622 , Depto. 106, Aguascalientes, Ags.San Dolores los altos, CAMP 54610-8892",MPGO01
+CLI00358,Violeta Rivera,adelatamez@example.org,1-376-956-2919x704,"Calle Chihuahua 760 Interior 235, Aguascalientes, Ags.San Eloy los bajos, QRO 66151-9834",MPGO03
+CLI00359,Rolando Quesada,claudiojimenez@example.com,1-087-176-5715x552,"Continuación Jaime 026 651, Aguascalientes, Ags.Vieja Malawi, VER 14840-5947",MPGO01
+CLI00360,Eloy Leonor Vaca Cavazos,hugocotto@example.org,936.886.7120x51309,"Callejón Sur Rodríquez 267 Interior 776, Aguascalientes, Ags.Nueva Tayikistán, NL 61769-0991",MPGO04
+CLI00361,Genaro Dávila,montemayoralma@example.org,173.299.0414,"Pasaje Guardado 415 Interior 525, Aguascalientes, Ags.Nueva Azerbaiyán, MOR 48321",MPGO03
+CLI00362,Irma Laboy Arreola,zocasio@example.com,499.916.0166x090,"Boulevard Garica 519 054, Aguascalientes, Ags.San Mateo de la Montaña, Q. ROO 94235-1367",MPGO04
+CLI00363,Pascual Lorena Holguín Naranjo,scuriel@example.net,(585)543-1514,"Continuación Sur Baca 364 Edif. 334 , Depto. 539, Aguascalientes, Ags.San Luis Manuel los altos, COL 02785-1760",MPGO03
+CLI00364,Renato Diego Quiroz,ignacio29@example.net,1-945-588-1420,"Circunvalación Hidalgo 910 Interior 740, Aguascalientes, Ags.San Inés de la Montaña, AGS 56661",MPGO04
+CLI00365,Alma Teodoro Batista,corralcelia@example.org,(224)570-3194x934,"Retorno Burundi 887 Edif. 981 , Depto. 154, Aguascalientes, Ags.Nueva Túnez, GTO 98489",MPGO04
+CLI00366,Ángela Miguel Ángel Soto Osorio,santiagofuentes@example.net,+98(9)0774901000,"Privada Urías 412 712, Aguascalientes, Ags.San Víctor los altos, DF 35469",MPGO01
+CLI00367,José Manuél Cardenas Carrero,hinojosamargarita@example.com,427-633-5288x730,"Cerrada Alcaraz 382 908, Aguascalientes, Ags.San María Cristina los bajos, PUE 22406-0527",MPGO02
+CLI00368,Sr(a). Zeferino Ballesteros,olivaresvicente@example.com,074.316.1851,"Avenida Chihuahua 280 Interior 995, Aguascalientes, Ags.Nueva Camboya, MEX 16778-0808",MPGO03
+CLI00369,Enrique Bustos,zbatista@example.com,270-535-7004x447,"Prolongación Norte Calvillo 854 Interior 936, Aguascalientes, Ags.San Mateo los bajos, MOR 59227-5693",MPGO03
+CLI00370,Ing. Elias Ybarra,serafin90@example.net,143-336-0942x784,"Viaducto Vergara 946 Edif. 177 , Depto. 900, Aguascalientes, Ags.Nueva Serbia, MEX 10982-9902",MPGO01
+CLI00371,Eugenia Toledo Arredondo,florenciajaimes@example.org,(920)763-2409x911,"Eje vial Sur Ochoa 712 Interior 948, Aguascalientes, Ags.San Alicia los altos, CHIS 28718-0058",MPGO04
+CLI00372,Irene Vicente Urbina Santacruz,vpaz@example.org,07096793112,"Prolongación Tonga 761 647, Aguascalientes, Ags.Vieja Costa Rica, TAMPS 26367-8624",MPGO04
+CLI00373,Patricio Vega Ruelas,gerardovalencia@example.com,+33(8)2783981631,"Corredor Sur Caballero 774 Edif. 636 , Depto. 877, Aguascalientes, Ags.Nueva Alemania, OAX 44913-9821",MPGO03
+CLI00374,Norma Augusto Carreón Ocampo,menagerardo@example.org,710.716.4033,"Pasaje Marruecos 496 630, Aguascalientes, Ags.San Homero los bajos, DGO 44733-4892",MPGO04
+CLI00375,Yuridia Galindo Chávez,hilda50@example.org,388.783.8708,"Avenida Durango 152 Edif. 571 , Depto. 726, Aguascalientes, Ags.Nueva El Salvador, NAY 12880-5719",MPGO01
+CLI00376,Yolanda Valdivia,margarita54@example.net,575-171-4753x0769,"Pasaje Coahuila de Zaragoza 178 868, Aguascalientes, Ags.San Verónica los bajos, BCS 24350",MPGO04
+CLI00377,Alvaro Clemente Quintana Lugo,nvillalobos@example.org,439-124-2689x52271,"Peatonal Norte Cornejo 443 Interior 720, Aguascalientes, Ags.San Tania los bajos, ZAC 47890-5086",MPGO02
+CLI00378,Dr. Sergio Santacruz,qmontalvo@example.net,+94(7)4031652712,"Circuito Morelos 080 Edif. 257 , Depto. 738, Aguascalientes, Ags.Vieja Islas Marshall, NAY 80742-8894",MPGO03
+CLI00379,Eric Vanesa Zarate,gpizarro@example.com,574-704-7659x38229,"Prolongación Italia 417 Edif. 707 , Depto. 071, Aguascalientes, Ags.San Emilia los bajos, COL 25385",MPGO01
+CLI00380,Mauro Jonás Fuentes,gloriaguerrero@example.com,1-302-000-1339x5020,"Ampliación Oaxaca 034 Edif. 667 , Depto. 664, Aguascalientes, Ags.San Noelia los altos, SIN 56986",MPGO01
+CLI00381,Irene Magaña,caponte@example.org,078.224.2452x53175,"Ampliación Montenegro 206 Edif. 211 , Depto. 573, Aguascalientes, Ags.San Marcos los altos, NAY 70177-9258",MPGO02
+CLI00382,Sr(a). Gabriela Garrido,ocamporene@example.org,+92(0)0456929258,"Circunvalación Sur Benítez 433 Edif. 282 , Depto. 720, Aguascalientes, Ags.Vieja Costa Rica, COAH 99729-6180",MPGO04
+CLI00383,Flavio Gil Arce,qvillalpando@example.org,367.599.2568,"Viaducto Norte Iglesias 136 Interior 154, Aguascalientes, Ags.San Francisco Javier de la Montaña, QRO 94824",MPGO03
+CLI00384,Dr. Arcelia Enríquez,jurena@example.net,+41(0)9969817594,"Calzada Baja California 375 Interior 534, Aguascalientes, Ags.Nueva Sierra Leona, TAMPS 66976",MPGO03
+CLI00385,Adriana Judith Aguilera Díaz,salcedobernabe@example.com,+88(9)0972179468,"Avenida Kenya 793 Edif. 918 , Depto. 851, Aguascalientes, Ags.San Leonel los altos, OAX 11330-3841",MPGO03
+CLI00386,Vicente Sánchez,marinjavier@example.net,+96(3)5663074879,"Peatonal Qatar 108 804, Aguascalientes, Ags.Nueva Botswana, DGO 23921-1530",MPGO01
+CLI00387,Virginia Abril Roque Cantú,abelardoleal@example.net,(345)540-1647,"Privada Sur Fonseca 451 934, Aguascalientes, Ags.Nueva Islandia, CHIS 12958",MPGO04
+CLI00388,Cornelio Mendoza,ypena@example.net,(415)419-4684,"Calzada Sur Soliz 669 687, Aguascalientes, Ags.San Rubén los altos, MEX 28912-9010",MPGO02
+CLI00389,Darío Andrea Mireles Quiñones,vvaldivia@example.org,964-027-7901x13503,"Prolongación Guanajuato 104 839, Aguascalientes, Ags.Nueva Vietman, CAMP 44230-1040",MPGO03
+CLI00390,Beatriz Saldivar,luz61@example.net,1-883-639-2505,"Boulevard Sur Alcántar 351 Edif. 630 , Depto. 596, Aguascalientes, Ags.Vieja Filipinas, TLAX 56606-8682",MPGO04
+CLI00391,Joaquín Emiliano Caraballo,griegotania@example.net,(267)439-2531x8399,"Circunvalación Mali 725 871, Aguascalientes, Ags.Vieja Emiratos Árabes Unidos, GRO 11657-4806",MPGO01
+CLI00392,Eugenio Dalia Valles Garza,mayajuana@example.net,237-700-0798x81974,"Boulevard Norte Ayala 946 Interior 946, Aguascalientes, Ags.San Paulina los altos, TAB 05786-4030",MPGO01
+CLI00393,Salvador Felix Sáenz,rmartinez@example.net,(626)811-9661x19460,"Callejón Zacatecas 316 286, Aguascalientes, Ags.Nueva Suecia, DF 74483-7938",MPGO04
+CLI00394,Salvador Gabriel Razo,federico42@example.org,1-474-580-4126x56114,"Diagonal Sinaloa 980 Interior 582, Aguascalientes, Ags.San Ivonne los altos, GRO 05531",MPGO04
+CLI00395,Lorena Abril Báez Valle,nicolasgaona@example.net,1-304-131-4225,"Diagonal Castillo 969 275, Aguascalientes, Ags.San Lorenzo los altos, Q. ROO 10915-3069",MPGO04
+CLI00396,Luis Bruno Bétancourt,pilar04@example.org,528.878.5422x40417,"Callejón Norte Ocampo 232 803, Aguascalientes, Ags.San Luis Manuel de la Montaña, SON 67970",MPGO02
+CLI00397,Fernando Ofelia Fierro Feliciano,zherrera@example.com,1-757-774-0129x17982,"Corredor Manzanares 300 Interior 759, Aguascalientes, Ags.Nueva Albania, JAL 43539",MPGO03
+CLI00398,Dr. Débora Urrutia,teresatamez@example.org,+70(3)6661450907,"Circuito Barragán 305 Interior 502, Aguascalientes, Ags.Vieja Swazilandia, TAB 15621",MPGO03
+CLI00399,Susana Bernal Tafoya,figueroajacinto@example.org,317-962-1001x49609,"Retorno Sur Medina 779 Edif. 846 , Depto. 625, Aguascalientes, Ags.Nueva Nigeria, BC 18631-2803",MPGO03
+CLI00400,Sara Fidel Salcido Aguilar,wgaona@example.com,+15(8)7766272336,"Peatonal Quezada 524 Interior 349, Aguascalientes, Ags.San Clara los bajos, QRO 88782",MPGO01
+CLI00401,Nicolás Francisca Carrero Duarte,oscarbadillo@example.net,1-709-376-4696x89510,"Corredor Granados 122 Interior 803, Aguascalientes, Ags.San Ruby los altos, NAY 26304",MPGO01
+CLI00402,Gabriela Farías,guillermina37@example.com,(647)920-5232,"Boulevard Sinaloa 206 Interior 906, Aguascalientes, Ags.San Inés los bajos, COL 34311",MPGO04
+CLI00403,Fabiola Ruby Cazares,puentecarlos@example.net,414-702-3872x905,"Viaducto Norte Esquibel 982 Edif. 384 , Depto. 348, Aguascalientes, Ags.Nueva Vietman, GRO 41675-4161",MPGO03
+CLI00404,Espartaco Pamela Orosco Saucedo,aparicioangel@example.com,1-727-841-8198x124,"Viaducto Sur Mendoza 803 Edif. 045 , Depto. 279, Aguascalientes, Ags.San Elsa los bajos, COAH 78456",MPGO02
+CLI00405,Miriam Sosa,modestomerino@example.com,(008)084-0277x61957,"Peatonal Norte Vargas 382 Edif. 602 , Depto. 032, Aguascalientes, Ags.San Irene de la Montaña, GRO 17362-1958",MPGO02
+CLI00406,Mtro. Ana Luisa Guerrero,yolanda61@example.com,1-040-619-7666x06891,"Viaducto Aponte 343 Interior 851, Aguascalientes, Ags.Nueva Libia, VER 10022-4750",MPGO03
+CLI00407,Rodolfo Velásquez Peres,myanez@example.net,(239)636-8900x85705,"Continuación Sur Otero 288 Edif. 792 , Depto. 416, Aguascalientes, Ags.Vieja Suiza, CHIS 58935",MPGO04
+CLI00408,Dalia Brito,rodrigo20@example.net,(521)857-4611x1252,"Eje vial Veracruz de Ignacio de la Llave 284 Edif. 061 , Depto. 140, Aguascalientes, Ags.San Ivonne de la Montaña, DGO 99516",MPGO03
+CLI00409,Ruby Quezada Piña,oswaldo08@example.org,(229)862-1235x6555,"Circuito Sur Esquibel 034 208, Aguascalientes, Ags.Vieja Seychelles, COAH 35067-2711",MPGO03
+CLI00410,Eric Báez Samaniego,velascogabriel@example.org,020-999-1982,"Calle Sur Arreola 514 011, Aguascalientes, Ags.San Ernesto de la Montaña, COL 91858-3110",MPGO02
+CLI00411,Noemí Ojeda,bnavarrete@example.net,+56(0)7161181775,"Circunvalación Haro 061 Interior 321, Aguascalientes, Ags.Vieja Zimbabwe, DF 87437-0346",MPGO04
+CLI00412,Mtro. José María Delgadillo,zeferinomontanez@example.org,592.147.1974x0534,"Corredor Montenegro 693 904, Aguascalientes, Ags.Vieja Sudán del Sur, BCS 14032",MPGO02
+CLI00413,Marisol Loya Gil,gonzalorendon@example.net,(091)999-3629x795,"Circunvalación República Democrática Popular Lao 147 Edif. 605 , Depto. 812, Aguascalientes, Ags.Vieja Tailandia, MEX 56398",MPGO04
+CLI00414,Abraham Sisneros,paolasierra@example.com,04900489830,"Diagonal Ornelas 733 Interior 033, Aguascalientes, Ags.Nueva Sudán, GTO 21648",MPGO04
+CLI00415,Sr(a). Julia Carmona,peraltanelly@example.net,03593500417,"Eje vial Arevalo 626 601, Aguascalientes, Ags.San Claudia los bajos, YUC 69578",MPGO04
+CLI00416,José Emilio Ríos,cristalcastillo@example.org,585-995-8068,"Cerrada Sur Covarrubias 312 316, Aguascalientes, Ags.San Araceli de la Montaña, GTO 48992-2850",MPGO01
+CLI00417,Nadia Saldaña Polanco,tjaimes@example.net,08761889611,"Privada Norte Orta 035 697, Aguascalientes, Ags.San Ana María de la Montaña, GRO 48825",MPGO01
+CLI00418,Cristian Gallegos,adalbertojaquez@example.net,1-874-278-5206,"Pasaje Montenegro 609 Interior 651, Aguascalientes, Ags.Vieja Andorra, GTO 66134",MPGO03
+CLI00419,José Manuél Hugo Corral,eescalante@example.com,(071)124-7422,"Periférico Villaseñor 243 043, Aguascalientes, Ags.Nueva España, DGO 27169",MPGO04
+CLI00420,Natividad Aparicio,hrosas@example.com,656.096.0227x8821,"Ampliación Aguascalientes 011 Edif. 534 , Depto. 495, Aguascalientes, Ags.San Elias los bajos, SLP 55389",MPGO03
+CLI00421,Amelia José Luis Tapia Navarrete,nataliaponce@example.net,(730)017-7350,"Continuación Norte Escamilla 040 464, Aguascalientes, Ags.San Adalberto los altos, OAX 39589-2185",MPGO01
+CLI00422,Gustavo Rivero,nmoya@example.net,1-759-682-8933x6599,"Callejón Varela 005 993, Aguascalientes, Ags.Nueva Uganda, AGS 46491",MPGO04
+CLI00423,Mauricio Fabiola de la Rosa Oquendo,eugenio16@example.net,1-179-666-9567x59383,"Circuito Mónaco 667 973, Aguascalientes, Ags.San Georgina los altos, CHIH 26302",MPGO04
+CLI00424,Lic. Adán Rosales,adan77@example.net,+45(4)2787381689,"Peatonal Mauricio 006 Interior 375, Aguascalientes, Ags.San Anabel los bajos, QRO 92396",MPGO03
+CLI00425,Isaac Armando Sosa,benavidesfidel@example.org,1-808-317-9872x9769,"Ampliación Aguascalientes 703 Edif. 432 , Depto. 645, Aguascalientes, Ags.Nueva República de Moldova, GRO 64951",MPGO03
+CLI00426,Citlali Barbara Patiño,bportillo@example.org,(535)719-4930,"Circuito Norte Madrigal 652 Edif. 715 , Depto. 799, Aguascalientes, Ags.San Diana los bajos, COL 55807-2906",MPGO02
+CLI00427,Abelardo Abelardo Elizondo Vergara,oscargalindo@example.net,+52(8)5001194090,"Calzada San Marino 919 907, Aguascalientes, Ags.San Mateo los altos, YUC 80146",MPGO01
+CLI00428,Leonardo Diana Montes Garza,maria-del-carmencalderon@example.com,937-329-9055x0719,"Cerrada Quintana Roo 861 Edif. 383 , Depto. 724, Aguascalientes, Ags.San David los bajos, PUE 63060-8374",MPGO03
+CLI00429,Óscar Ramón Solorio Polanco,mauro49@example.net,1-605-605-5006,"Ampliación Aguascalientes 082 Edif. 039 , Depto. 955, Aguascalientes, Ags.Vieja Letonia, TAMPS 81082",MPGO04
+CLI00430,Elvira Abreu Tello,naranjogerardo@example.net,154.116.6142,"Callejón Norte Limón 361 970, Aguascalientes, Ags.San Pedro los altos, SLP 31371-3046",MPGO02
+CLI00431,Julio César Gollum Rodríguez,carrascogeorgina@example.org,136.860.5575x114,"Cerrada Iraq 154 Edif. 986 , Depto. 972, Aguascalientes, Ags.San Yeni los altos, TLAX 92685",MPGO02
+CLI00432,Amador Emilio Angulo,vanesa62@example.net,(634)817-0663x63041,"Cerrada México 076 904, Aguascalientes, Ags.San Gilberto de la Montaña, TLAX 58068-8978",MPGO01
+CLI00433,Mtro. Lilia Cardenas,qalba@example.net,(087)272-3425x2575,"Ampliación República de Macedonia del Norte 165 Edif. 047 , Depto. 305, Aguascalientes, Ags.San Miriam de la Montaña, PUE 15726",MPGO03
+CLI00434,Socorro Rentería Aparicio,montemayorirene@example.com,986.768.9069x418,"Eje vial Menéndez 068 Edif. 704 , Depto. 478, Aguascalientes, Ags.Nueva Gabón, HGO 92366",MPGO03
+CLI00435,Estela Bernabé Jurado Lara,utejeda@example.com,318-881-2503,"Viaducto Guerrero 897 072, Aguascalientes, Ags.Nueva Islas Marshall, VER 31867",MPGO02
+CLI00436,Eduardo Aguilar Matos,delia09@example.org,02509210440,"Circunvalación Cisneros 380 588, Aguascalientes, Ags.Vieja Kuwait, COAH 09659",MPGO02
+CLI00437,Liliana Úrsula Páez,palaciosreina@example.org,00180893361,"Boulevard Bahrein 124 Edif. 772 , Depto. 444, Aguascalientes, Ags.San Cristal los bajos, QRO 53439",MPGO01
+CLI00438,Cynthia Ruby Quintanilla,oscardominguez@example.com,1-680-783-6801x8963,"Corredor Rojo 836 Interior 033, Aguascalientes, Ags.Vieja Portugal, SIN 26568",MPGO03
+CLI00439,Francisco Javier Cano Santacruz,correacristal@example.com,772.943.3016x819,"Circuito Norte Ordóñez 081 Edif. 190 , Depto. 004, Aguascalientes, Ags.Nueva Francia, MOR 58747",MPGO02
+CLI00440,Ing. Alejandro Godoy,clemente13@example.org,006-486-4485,"Calle Singapur 992 732, Aguascalientes, Ags.San Celia los altos, CHIH 68887",MPGO03
+CLI00441,Rubén Carrera Alba,agustin20@example.net,859-175-6255x01520,"Diagonal Bahrein 685 Edif. 277 , Depto. 573, Aguascalientes, Ags.San Elena los bajos, BC 48025",MPGO03
+CLI00442,Enrique Tamayo,kmontero@example.org,733.345.5326x430,"Avenida Norte Salazar 435 Edif. 827 , Depto. 228, Aguascalientes, Ags.Vieja República Árabe Siria, MOR 03669-6278",MPGO03
+CLI00443,Rosario Ponce Armendáriz,miguel-angel22@example.com,(067)427-3882x8560,"Pasaje Oaxaca 651 Edif. 245 , Depto. 247, Aguascalientes, Ags.Nueva Portugal, NAY 90035",MPGO03
+CLI00444,Martha Homero Saucedo Benavides,rosariosaldana@example.org,(058)493-5441,"Diagonal México 111 576, Aguascalientes, Ags.San Gerónimo de la Montaña, DF 61142-4858",MPGO04
+CLI00445,Sr(a). Guadalupe Guardado,apariciocamila@example.com,02679617208,"Calzada San Luis Potosí 495 Edif. 804 , Depto. 681, Aguascalientes, Ags.Nueva Países Bajos, OAX 66179-7605",MPGO02
+CLI00446,Rodolfo Longoria,pascual39@example.org,01114132532,"Prolongación Bulgaria 757 Interior 064, Aguascalientes, Ags.San Miriam los altos, PUE 97250-4166",MPGO03
+CLI00447,Isaac Palomino,ibalderas@example.org,09517647984,"Calzada Abrego 977 Interior 833, Aguascalientes, Ags.Nueva Gabón, MEX 85044",MPGO02
+CLI00448,Emiliano del Valle,romerogabriel@example.org,208-067-4531x903,"Diagonal Marruecos 150 Edif. 294 , Depto. 742, Aguascalientes, Ags.Vieja Trinidad y Tabago, MEX 15632",MPGO04
+CLI00449,Lorena Nevárez,chaconramon@example.org,372.872.8666x440,"Pasaje Sur Arias 840 073, Aguascalientes, Ags.San Armando de la Montaña, DF 23546",MPGO02
+CLI00450,Mtro. Gloria Negrón,benjamin20@example.net,402-237-1888,"Eje vial Esquibel 889 598, Aguascalientes, Ags.Vieja Mozambique, COAH 82079-3326",MPGO03
+CLI00451,Ramiro Páez López,elenacontreras@example.net,1-146-229-2570,"Privada Ordóñez 752 Edif. 626 , Depto. 447, Aguascalientes, Ags.Nueva Libia, TAB 21338",MPGO03
+CLI00452,Marisol Cuellar,lourdes58@example.com,09759014930,"Prolongación Colima 844 Interior 113, Aguascalientes, Ags.San Arturo los altos, CHIS 40241",MPGO04
+CLI00453,Sr(a). Gabriel Olivares,zoesalas@example.net,955-396-0785,"Calle Coahuila de Zaragoza 550 222, Aguascalientes, Ags.Vieja Uganda, CHIS 64518",MPGO04
+CLI00454,Lic. Alfredo Cisneros,jorgehurtado@example.org,733-461-6930x4952,"Continuación Serrato 100 Interior 109, Aguascalientes, Ags.San José Manuél de la Montaña, CHIH 08015-3821",MPGO03
+CLI00455,Silvia Camila Padrón,ucolunga@example.com,1-982-942-3074x2685,"Cerrada Pedroza 487 Interior 819, Aguascalientes, Ags.San Zeferino los altos, NAY 69966-6271",MPGO02
+CLI00456,René Carla Amador Gurule,icanales@example.com,(848)820-8896,"Calle Norte Sauceda 304 858, Aguascalientes, Ags.Nueva Ghana, OAX 59582-9106",MPGO04
+CLI00457,Ana María Hernádez Zaragoza,ayalasergio@example.net,1-798-155-3865,"Calle Haití 274 Interior 445, Aguascalientes, Ags.Vieja Gambia, QRO 72898-6257",MPGO02
+CLI00458,Samuel Nancy Arce Montoya,cabreradaniel@example.org,(783)643-4825,"Continuación Swazilandia 420 Edif. 120 , Depto. 556, Aguascalientes, Ags.San Dulce de la Montaña, CAMP 06907",MPGO03
+CLI00459,Rocío Mesa Villarreal,santanaisaac@example.com,1-680-802-9268,"Circunvalación Hernádez 997 Edif. 134 , Depto. 292, Aguascalientes, Ags.Nueva Grecia, NL 94738",MPGO03
+CLI00460,Andrés Montaño,cmuro@example.com,00585831802,"Cerrada Ledesma 147 965, Aguascalientes, Ags.Vieja Bahrein, Q. ROO 42048",MPGO01
+CLI00461,Karina Rodolfo Bustamante Ruiz,ivonne92@example.net,1-009-391-6530,"Viaducto Norte Zedillo 918 280, Aguascalientes, Ags.San María Elena los bajos, BCS 51985",MPGO03
+CLI00462,Hermelinda Liliana Gutiérrez Moreno,teodoronarvaez@example.net,(548)989-9367x2618,"Avenida Roldán 410 873, Aguascalientes, Ags.Vieja Malta, CHIS 15727-4121",MPGO04
+CLI00463,Catalina Suárez,benitezjos@example.com,(282)843-1114,"Calzada Singapur 956 862, Aguascalientes, Ags.Nueva Djibouti, CAMP 50201",MPGO02
+CLI00464,Claudio Jonás Barela,rescobedo@example.com,173.395.4131,"Privada Reino Unido de Gran Bretaña e Irlanda del Norte 292 Edif. 409 , Depto. 998, Aguascalientes, Ags.Vieja Liberia, TAMPS 04000-6934",MPGO04
+CLI00465,Sergio Reyna Gutiérrez,mflorez@example.com,(231)193-7727x1562,"Andador Sur Delgadillo 448 Interior 709, Aguascalientes, Ags.Vieja Mónaco, COAH 60498",MPGO03
+CLI00466,Víctor Luis Reyes Crespo,elviravalladares@example.net,(356)198-8681x5792,"Corredor Estévez 067 Interior 492, Aguascalientes, Ags.Nueva Arabia Saudita, BCS 96448-6934",MPGO04
+CLI00467,Lorenzo Alva Oquendo,casasflavio@example.net,1-966-352-1434,"Periférico Santillán 450 961, Aguascalientes, Ags.Nueva Bélgica, Q. ROO 32389",MPGO02
+CLI00468,Leonel Hugo Riojas,cottoesmeralda@example.com,1-243-074-2517x9862,"Viaducto Sur Muro 169 Edif. 172 , Depto. 700, Aguascalientes, Ags.Vieja Bosnia y Herzegovina, CHIH 62504-8317",MPGO01
+CLI00469,Ing. Celia Posada,anabarrios@example.org,(357)339-4855x4804,"Avenida Ghana 518 Edif. 817 , Depto. 384, Aguascalientes, Ags.Vieja Timor-Leste, QRO 99288-1051",MPGO04
+CLI00470,Amador Ariadna Acuña,bfajardo@example.net,972-860-3335x6192,"Peatonal Norte Rolón 462 272, Aguascalientes, Ags.Nueva Tonga, MEX 76781",MPGO02
+CLI00471,Ana Diana Tijerina Serrano,jnieves@example.net,09079963048,"Privada Gambia 850 461, Aguascalientes, Ags.Nueva Argelia, DGO 41613",MPGO02
+CLI00472,Mtro. Nancy Rivero,ricardoalvarez@example.org,1-458-671-3819x36261,"Boulevard Croacia 719 Interior 888, Aguascalientes, Ags.Vieja Trinidad y Tabago, BC 09173",MPGO02
+CLI00473,Abigail Marín,vanegasesperanza@example.org,1-382-297-9442,"Viaducto Norte Perea 640 557, Aguascalientes, Ags.Vieja Panamá, AGS 68493",MPGO03
+CLI00474,Alvaro Claudio Rivero,srosado@example.net,1-064-543-2844,"Circunvalación Malta 898 Interior 211, Aguascalientes, Ags.San Adriana los altos, MICH 56958-1669",MPGO04
+CLI00475,Gilberto Rosario Fonseca Archuleta,luevanorufino@example.com,1-222-085-2489x14733,"Pasaje Chiapas 752 Edif. 235 , Depto. 225, Aguascalientes, Ags.Nueva Togo, MICH 92864",MPGO03
+CLI00476,Abel Villarreal Santillán,jaimemacias@example.net,(643)745-0204,"Callejón Oaxaca 897 Interior 558, Aguascalientes, Ags.Vieja República de Corea, BC 37230-6658",MPGO02
+CLI00477,José Carlos Marisela Lara,rocio99@example.org,246-883-8823,"Retorno Norte Tapia 382 Interior 118, Aguascalientes, Ags.San María Luisa los bajos, COL 52341",MPGO03
+CLI00478,Ing. Amelia Cervantes,monteroleonor@example.net,576.304.0168,"Peatonal Norte Esquivel 936 Edif. 149 , Depto. 683, Aguascalientes, Ags.Nueva Hungría, YUC 91836-6123",MPGO02
+CLI00479,Ignacio Otero Piña,liliaozuna@example.net,1-728-282-3906x375,"Calle Chihuahua 822 Interior 023, Aguascalientes, Ags.San Manuel los altos, NL 99636-0132",MPGO01
+CLI00480,Oswaldo Mauricio Razo Quezada,ogonzalez@example.com,(559)965-5110,"Prolongación República Dominicana 533 492, Aguascalientes, Ags.San Frida de la Montaña, SON 82437-6638",MPGO01
+CLI00481,Virginia Héctor Mendoza Valenzuela,rafaelcordero@example.net,(776)485-8295,"Circunvalación Sinaloa 177 Interior 501, Aguascalientes, Ags.San Alonso los bajos, COAH 11288",MPGO04
+CLI00482,Isabela Heredia Báez,nguajardo@example.org,345.987.2004x7426,"Viaducto Norte Bétancourt 198 946, Aguascalientes, Ags.San Carlota los bajos, TAB 87310-5283",MPGO03
+CLI00483,Mtro. Gerardo Valdés,porfirio21@example.net,970.702.1679x80782,"Periférico de la Fuente 300 Edif. 371 , Depto. 263, Aguascalientes, Ags.Vieja Burkina Faso, JAL 02755",MPGO03
+CLI00484,Citlali Frida Rentería de la Torre,claudia79@example.com,338.297.6901x266,"Ampliación Sur Jurado 449 Interior 188, Aguascalientes, Ags.San Leonel los altos, OAX 70522-0534",MPGO04
+CLI00485,Daniela Roque,abrilviera@example.com,622-018-9482x83800,"Prolongación Malasia 995 Edif. 862 , Depto. 387, Aguascalientes, Ags.San Teresa de la Montaña, SIN 00949-5754",MPGO03
+CLI00486,Amelia Carrillo Escamilla,alfredo13@example.org,(982)064-4581,"Continuación Irán 366 Interior 214, Aguascalientes, Ags.San Eloy los altos, SON 52775-6317",MPGO01
+CLI00487,Dulce Lilia Pérez Zedillo,reynaldo27@example.org,1-488-651-1182,"Calzada Sur Fierro 453 Edif. 398 , Depto. 834, Aguascalientes, Ags.Vieja Estonia, ZAC 35645-3901",MPGO04
+CLI00488,Rosario Sessa Núñez,celia74@example.org,077.803.1171x294,"Calzada Castillo 792 Edif. 825 , Depto. 303, Aguascalientes, Ags.Nueva Honduras, JAL 71192",MPGO01
+CLI00489,Leticia Esperanza Ortiz Maestas,fcano@example.com,784.358.6379x594,"Privada Norte Jasso 016 425, Aguascalientes, Ags.Nueva Croacia, TAMPS 26738",MPGO04
+CLI00490,Liliana María Teresa Zarate Cintrón,jose-eduardo77@example.net,(480)673-2668x90632,"Avenida Solís 339 640, Aguascalientes, Ags.Nueva Afganistán, MICH 49915",MPGO03
+CLI00491,Sr(a). Jesús Barraza,silvia93@example.org,746.191.2454,"Cerrada Norte Villaseñor 525 Edif. 056 , Depto. 157, Aguascalientes, Ags.Nueva Uganda, COAH 07518",MPGO03
+CLI00492,Rebeca Violeta Valle,villanuevarolando@example.org,1-171-856-4240,"Peatonal Sur Peres 244 Interior 111, Aguascalientes, Ags.San Silvia de la Montaña, COAH 96195-4236",MPGO02
+CLI00493,Úrsula Celia Rael Mejía,pvarela@example.org,(835)882-0606,"Viaducto Sur Valles 722 244, Aguascalientes, Ags.San María Eugenia los altos, NAY 07272-9220",MPGO01
+CLI00494,Ing. Fidel Arteaga,homero23@example.net,1-691-919-7997x8567,"Cerrada Norte Gurule 841 Interior 496, Aguascalientes, Ags.San Blanca de la Montaña, YUC 86680-4331",MPGO02
+CLI00495,Elsa Flavio Carranza,javier16@example.com,(106)764-5084x905,"Avenida Namibia 163 837, Aguascalientes, Ags.San Estefanía los bajos, BC 64116",MPGO03
+CLI00496,Pascual Perea,hbriseno@example.net,1-548-035-6172x014,"Circunvalación Rojo 859 327, Aguascalientes, Ags.San Norma de la Montaña, NL 43211-6511",MPGO01
+CLI00497,Israel Carrillo Romo,david06@example.com,643-537-3390x112,"Calle Norte Salcedo 577 605, Aguascalientes, Ags.San Indira de la Montaña, Q. ROO 32354-2006",MPGO01
+CLI00498,Mtro. Eugenia Colunga,clementeibarra@example.org,+65(7)8172141954,"Circuito Chiapas 233 Interior 442, Aguascalientes, Ags.San Luis Miguel de la Montaña, MEX 54339",MPGO03
+CLI00499,Espartaco Corral Badillo,mcazares@example.net,+83(6)2087338657,"Continuación Portugal 974 Edif. 905 , Depto. 691, Aguascalientes, Ags.San Sonia los bajos, Q. ROO 26373-1752",MPGO03
+CLI00500,Ing. Patricia Santillán,mmontes@example.com,(354)687-7483x35647,"Corredor Burkina Faso 797 Edif. 128 , Depto. 780, Aguascalientes, Ags.Vieja Pakistán, BC 90084-4773",MPGO02
